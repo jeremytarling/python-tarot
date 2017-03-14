@@ -1,5 +1,6 @@
 import random
 
+# dicts are mutable so keep this new_deck separate as we'll pop() items out of the deck we use as they turn up
 new_deck = [
 	{ "name" : "The Fool", "image" : "images/00.jpg", "desc" : "Immaturity, sincerity, the natural man, a free spirit. One who naturally knows his will and is worry free. A dreamer, careless and disinterested in practical matters. Travel." , "rdesc" : "Folly, failure, madness. Hindered travel." },
 	{ "name" : "The Magician", "image" : "images/01.jpg" , "desc" : "Will, creativeness, adroitness, mastery, elasticity, autonomy, eloquence, craft, cunning. May imply a new beginning. The Magus is an autonomous person that knows where he is going and how to achieve its ends." , "rdesc" : "Indecision, weak will, ineptitude, dilettante. Deceitfulness, trickery." },
@@ -81,6 +82,11 @@ new_deck = [
 	{ "name" : "King of Pentacles", "image" : "images/peki.jpg" , "desc" : "A married man, wealthy and clever in money matters. Patient and laborious, he is an experimented chief and a reliable ally." , "rdesc" : "Vicious and greedy man. Beware or gamblers or speculators. Easy to bribe, he may be a dangerous man." }
 ]
 
+# does what it says on the tin
+def shuffle_deck(deck) :
+	random.shuffle(deck)
+
+# pick card(s) - call this method multiple times to draw multiple unique cards from the deck
 def get_card(deck) :
 	card = random.randint(1, len(deck))
 	print()
@@ -88,7 +94,3 @@ def get_card(deck) :
 	print(deck[card]['desc'])
 	del(deck[card]) # so we don't get the same card twice
 
-i = 3
-while i > 0 :
-	get_card(new_deck)
-	i -= 1
