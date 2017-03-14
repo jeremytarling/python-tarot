@@ -90,7 +90,7 @@ def shuffle_deck(deck) :
 def get_card(deck) :
 	card = random.randint(1, len(deck))
 	print()
-	print("card " + str(card) + " : " + deck[card]['name'])
+	print(deck[card]['name'])
 	print(deck[card]['desc'])
 	del(deck[card]) # so we don't get the same card twice
 
