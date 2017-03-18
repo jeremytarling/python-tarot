@@ -19,14 +19,21 @@ def index():
 @app.route('/one-card')
 def one_card():
 	my_deck = cards.get_deck()
-	my_card = cards.get_card(my_deck)
+	my_card = cards.get_cards(my_deck)
 	return render_template("one_card.html",
 							name = my_card['name'],
 							desc = my_card['desc'],
 							image = my_card['image'])
 
 
-# get one card
+# get three cards
 @app.route('/three-cards')
-def three_cards():
-	return render_template("three_cards.html")
+def more_cards():
+	my_deck = cards.get_deck()
+	hand = []
+	num = 1
+	while num < 4:
+		my_card = cards.get_cards(my_deck)
+		hand.append(my_card)
+		num +=1
+	return render_template("three_cards.html", hand = hand)
