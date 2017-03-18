@@ -1,5 +1,7 @@
 # for the app routes
 from webapp import app 
+from flask import render_template
+
 
 # for the cards 
 from webapp import cards
@@ -13,20 +15,18 @@ def index():
 	return "Hello World!"
 
 
-# pick card(s) - call this method multiple times to draw multiple unique cards from the deck
-def get_card(deck) :
-	card = random.randint(1, len(deck))
-	print(deck[card]['name'])
-	print(deck[card]['desc'])
-	del(deck[card]) # so we don't get the same card twice
-
-
-# debug code
-i = 1
-while i < 4 :
-	print("card " + str(i) + ":")
+# get one card
+@app.route('/one-card')
+def one_card():
 	my_deck = cards.get_deck()
-	get_card(my_deck)
-	print()
-	i += 1
+	my_card = cards.get_card(my_deck)
+	return render_template("one_card.html",
+							name = my_card['name'],
+							desc = my_card['desc'],
+							image = my_card['image'])
 
+
+# get one card
+@app.route('/three-cards')
+def three_cards():
+	return render_template("three_cards.html")

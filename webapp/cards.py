@@ -4,6 +4,11 @@ import random
 def shuffle_deck(deck) :
 	random.shuffle(deck)
 
+# pick card(s) - call this method multiple times to draw multiple unique cards from the deck
+def get_card(deck) :
+	card = random.randint(1, len(deck))
+	#del(deck[card]) # so we don't get the same card twice
+	return deck[card]
 
 # array of dicts for each card
 def get_deck():
