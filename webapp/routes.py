@@ -12,7 +12,7 @@ import random
 # home page
 @app.route('/')
 def index():
-	return "Hello World!"
+	return render_template("index.html")
 
 
 # get one card

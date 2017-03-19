@@ -1,13 +1,13 @@
 <html>
   <head>
     {% if title %}
-    <title>{{ title }} - microblog</title>
+    <title>{{ title }}</title>
     {% else %}
-    <title>Welcome to the tarot</title>
+    <title>the Tarot in Python</title>
     {% endif %}
   </head>
   <body>
-    <div><a href="/one-card">one card</a> | <a href="/three-cards">three cards</a></div>
+    <div><a href="/">home</a> | <a href="/one-card">one card</a> | <a href="/three-cards">three cards</a></div>
     <hr>
     {% block content %}{% endblock %}
   </body>
