@@ -6,9 +6,10 @@ def shuffle_deck(deck) :
 
 # pick card(s) - call this method multiple times to draw multiple unique cards from the deck
 def get_cards(deck) :
-	card = random.randint(1, len(deck))
-	del(deck[card]) # so we don't get the same card twice if we're calling this multipel times for the same hand
-	return deck[card]
+	draw = random.randint(1, len(deck))
+	card = deck[draw]
+	del(deck[draw]) # so we don't get the same card twice if we're calling this multipel times for the same hand
+	return card
 
 # array of dicts for each card
 def get_deck():
