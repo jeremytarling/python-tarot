@@ -1,5 +1,11 @@
 import random
 
+
+# so cards can be reversed (upside down)
+def  reversed():
+	n = random.randint(-1,1) # zero (false) or 1 (true)
+	return n
+
 # does what it says on the tin
 def shuffle_deck(deck) :
 	random.shuffle(deck)

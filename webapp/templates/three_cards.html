@@ -2,7 +2,8 @@
 {% block content %}
 	{% for card in hand %}
 	    <h1>{{ card.name }}</h1>
-	    <p>{{ card.desc }}</p>
-	    <img src="/static/{{ card.image }}" />
+    	<p><strong>meaning:</strong> {{ card.desc }}</p>
+    	<p><strong>reversed:</strong> {{ card.rdesc }}</p>
+    	<img src="/static/{{ card.image }}" />
     {% endfor %}
 {% endblock %}

@@ -20,9 +20,12 @@ def index():
 def one_card():
 	my_deck = cards.get_deck()
 	my_card = cards.get_cards(my_deck)
+	rev = cards.reversed()
 	return render_template("one_card.html",
 							name = my_card['name'],
-							desc = my_card['desc'],
+							rev = rev,
+							meaning = my_card['desc'],
+							reversed_meaning = my_card['rdesc'],
 							image = my_card['image'])
 
 

@@ -1,6 +1,12 @@
 {% extends "base.html" %}
 {% block content %}
-    <h1>{{ name }}</h1>
-    <p>{{ desc }}</p>
-    <img src="/static/{{ image }}" />
+	{% if rev: %}
+	    <h1>{{ name }}, reversed</h1>
+	    <p><strong>meaning:</strong> {{ reversed_meaning }}</p>
+	    <img src="/static/{{ image }}" style="transform: rotate(180deg)" />
+	{% else %}
+	    <h1>{{ name }}</h1>
+	    <p><strong>meaning:</strong> {{ meaning }}</p>
+	    <img src="/static/{{ image }}" />
+	{% endif %}
 {% endblock %}
