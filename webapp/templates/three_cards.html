@@ -5,12 +5,47 @@
 <div class="row">	
 
 	{% for card in hand %}
-	  	<div class="col-md-4">
-		    <h2>{{ card.name }}</h2>
-	    	<p><strong>meaning:</strong> {{ card.desc }}</p>
-	    	<p><strong>reversed:</strong> {{ card.rdesc }}</p>
-	    	<img src="/static/{{ card.image }}" />
-    	</div>
+
+		{% if card[1]: %}
+
+		  	<div class="col-md-4">
+			    <h2>{{ card[0].name }} - reversed</h2>
+		    	<p><strong>meaning:</strong> {{ card[0].rdesc }}</p>
+	    	</div>
+
+   		{% else %}
+
+		  	<div class="col-md-4">
+			    <h2>{{ card[0].name }}</h2>
+		    	<p><strong>meaning:</strong> {{ card[0].desc }}</p>
+	    	</div>
+
+		{% endif %}
+
+
+    {% endfor %}
+
+</div>
+
+<div class="row">	
+
+	{% for card in hand %}
+
+		{% if card[1]: %}
+
+		  	<div class="col-md-4">
+		    	<img src="/static/{{ card[0].image }}" style="transform: rotate(180deg)" />
+	    	</div>
+
+   		{% else %}
+
+		  	<div class="col-md-4">
+		    	<img src="/static/{{ card[0].image }}" />
+	    	</div>
+
+		{% endif %}
+
+
     {% endfor %}
 
 </div>
