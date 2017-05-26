@@ -1,9 +1,18 @@
 {% extends "base.html" %}
+
 {% block content %}
+
+<div class="row">	
+
 	{% for card in hand %}
-	    <h1>{{ card.name }}</h1>
-    	<p><strong>meaning:</strong> {{ card.desc }}</p>
-    	<p><strong>reversed:</strong> {{ card.rdesc }}</p>
-    	<img src="/static/{{ card.image }}" />
+	  	<div class="col-md-4">
+		    <h2>{{ card.name }}</h2>
+	    	<p><strong>meaning:</strong> {{ card.desc }}</p>
+	    	<p><strong>reversed:</strong> {{ card.rdesc }}</p>
+	    	<img src="/static/{{ card.image }}" />
+    	</div>
     {% endfor %}
+
+</div>
+
 {% endblock %}

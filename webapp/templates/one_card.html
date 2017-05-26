@@ -1,7 +1,9 @@
 {% extends "base.html" %}
 {% block content %}
+<div class="row">	
+	<div class="col-md-5">
 	{% if rev: %}
-	    <h1>{{ name }}, reversed</h1>
+	    <h1>{{ name }} - reversed</h1>
 	    <p><strong>meaning:</strong> {{ reversed_meaning }}</p>
 	    <img src="/static/{{ image }}" style="transform: rotate(180deg)" />
 	{% else %}
@@ -9,4 +11,6 @@
 	    <p><strong>meaning:</strong> {{ meaning }}</p>
 	    <img src="/static/{{ image }}" />
 	{% endif %}
+	</div>
+</div>
 {% endblock %}
