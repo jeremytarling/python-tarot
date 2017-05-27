@@ -1,7 +1,15 @@
 {% extends "base.html" %}
+
 {% block content %}
-    <p>a simple tarot card reader in Python</p>
-    <p><a href="/one-card">draw one random card</p>
-    <p><a href="/three-cards">draw three cards</p>
-    <p><a href="https://github.com/jeremytarling/python-tarot">source code</p> 
+
+    <h3>Welcome to the Tarot</h3>
+
+    <p>This is a simple web application written in Python to draw one or more randomly selected cards from the deck of 72 Tarot cards.</p>
+
+    <p><a href="/one-card">draw one random card</a> (the present)</p>
+
+    <p><a href="/three-cards">draw three random cards</a> (the past, present and future)</p>
+
+    <p>The card images used are Arthur Waite's deck, by artist Pamela Colman Smith. They are out of copyright in the US now and will be in the UK in 2022. The source code to this app is <a href="https://github.com/jeremytarling/python-tarot">here</a>. Please feel free to fork or re-use, there are no license restrictions.</p> 
+
 {% endblock %}
