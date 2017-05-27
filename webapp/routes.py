@@ -22,6 +22,7 @@ def one_card():
 	my_card = cards.get_cards(my_deck)
 	return render_template("one_card.html",
 							name = my_card[0]['name'],
+							title = my_card[0]['name'],
 							rev = my_card[1],
 							meaning = my_card[0]['desc'],
 							reversed_meaning = my_card[0]['rdesc'],
@@ -38,4 +39,4 @@ def more_cards():
 		my_card = cards.get_cards(my_deck)
 		hand.append(my_card)
 		num +=1
-	return render_template("three_cards.html", hand = hand)
+	return render_template("three_cards.html", hand = hand, title="Three card spread")
