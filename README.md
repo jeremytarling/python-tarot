@@ -1,8 +1,8 @@
 # python-tarot
 
-A simple tarot card reader in Python.
+This is a simple web application written in Python to draw one or more randomly selected cards from a dictionary (hash) of 72 Tarot card description and image references.
 
-Card images used are out of copyright.
+The card images used are Arthur Waite's deck, by artist Pamela Colman Smith. According to Wikipedia they are out of copyright in the US now and will be in the UK in 2022.
 
 Deployed to Heroku here: https://python-tarot.herokuapp.com/
 
