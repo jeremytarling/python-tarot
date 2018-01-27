@@ -5,11 +5,11 @@
 	{% if rev: %}
 	    <h3>{{ name }} - reversed</h3>
 	    <p><strong>meaning:</strong> {{ reversed_meaning }}</p>
-	    <img src="/static/{{ image }}" style="transform: rotate(180deg)" />
+	    <a href="/one-card/{{ url }}"><img src="/static/{{ image }}" style="transform: rotate(180deg)" /></a>
 	{% else %}
 	    <h1>{{ name }}</h1>
 	    <p><strong>meaning:</strong> {{ meaning }}</p>
-	    <img src="/static/{{ image }}" />
+	    <a href="/one-card/{{ url }}"><img src="/static/{{ image }}" /></a>
 	{% endif %}
 	</div>
 </div>

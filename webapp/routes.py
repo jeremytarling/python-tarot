@@ -32,7 +32,8 @@ def one_card():
 							rev = my_card[1],
 							meaning = my_card[0]['desc'],
 							reversed_meaning = my_card[0]['rdesc'],
-							image = my_card[0]['image'])
+							image = my_card[0]['image'],
+							url = my_card[0]['url'])
 
 
 # get specific card
