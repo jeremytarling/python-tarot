@@ -14,6 +14,7 @@ import random
 def index():
 	return render_template("index.html")
 
+
 # home page
 @app.route('/all-cards')
 def all_cards():
