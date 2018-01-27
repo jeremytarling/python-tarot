@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row">	
+	<div class="col-md-5">
+	    <h1>{{ name }}</h1>
+	    <p><strong>meaning:</strong> {{ meaning }}</p>
+	    <img src="/static/{{ image }}" />
+	    <hr />
+	   	<h3>{{ name }} reversed</h3>
+	    <p><strong>meaning:</strong> {{ reversed_meaning }}</p>
+	    <img src="/static/{{ image }}" style="transform: rotate(180deg)" />
+	</div>
+</div>
+{% endblock %}
