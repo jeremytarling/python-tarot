@@ -8,7 +8,7 @@ def shuffle_deck(deck) :
 def get_cards(deck) :
 	num = random.randint(0, len(deck))
 	card = deck[num]
-	del(deck[num]) # so we don't get the same card twice if we're calling this multipel times for the same hand
+	del(deck[num]) # so we don't get the same card twice if we're calling this multiple times for the same hand
 	rev = random.randint(-1,1) # is card reversed? zero (false) or 1 (true)
 	drawn = (card, rev) # tuple of card dictionary + 1 or zero for reversal
 	return drawn
