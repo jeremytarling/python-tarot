@@ -1,6 +1,6 @@
 # python-tarot
 
-This is a simple web application written in Python to draw one or more randomly selected cards from a dictionary (hash) of 72 Tarot card description and image references.
+This is a simple web application written in Python to draw one or more randomly selected cards from a dictionary of 72 Tarot card description and image references.
 
 The card images used are Arthur Waite's deck, by artist Pamela Colman Smith. According to Wikipedia they are out of copyright in the US now and will be in the UK in 2022.
 
