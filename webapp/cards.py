@@ -80,7 +80,7 @@ def get_deck():
 		{ "name" : "Eight of Swords", "url" : "eight_of_swords", "image" : "images/sw08.jpg" , "desc" : "Interference. Restriction. Temporal sickness or captivity. Indecision." , "rdesc" : "New beginnings. Freedom from the past bondages." },
 		{ "name" : "Nine of Swords", "url" : "nine_of_swords", "image" : "images/sw09.jpg" , "desc" : "Cruelty. Suffering. Misery. Sickness. Martyrdom. Burden. May be death of a loved one." , "rdesc" : "Patience, faithfulness, unselfishness." },
 		{ "name" : "Ten of Swords", "url" : "ten_of_swords", "image" : "images/sw10.jpg" , "desc" : "Ruin. Total defeat. Death. The end of an illusion." , "rdesc" : "Transitory success. Improvement." },
-		{ "name" : "King of Pentacles", "url" : "king_of_pentacles", "image" : "images/peki.jpg" , "desc" : "A married man, wealthy and clever in money matters. Patient and laborious, he is an experimented chief and a reliable ally." , "rdesc" : "Vicious and greedy man. Beware or gamblers or speculators. Easy to bribe, he may be a dangerous man." },
+		{ "name" : "King of Pentacles", "url" : "king_of_pentacles", "image" : "images/peki.jpg" , "desc" : "A married man, wealthy and clever in money matters. Patient and laborious, he is an experienced chief and a reliable ally." , "rdesc" : "Vicious and greedy man. Beware or gamblers or speculators. Easy to bribe, he may be a dangerous man." },
 		{ "name" : "Queen of Pentacles", "url" : "queen_of_pentacles", "image" : "images/pequ.jpg" , "desc" : "Charming and generous woman. Pragmatic and quiet, but ambitious. Opulence, security." , "rdesc" : "Foolish and temperamental. Prone to suspicion ad fearful of failure. Negligent." },
 		{ "name" : "Knight of Pentacles", "url" : "knight_of_pentacles", "image" : "images/pekn.jpg" , "desc" : "Mature and responsible, a trustworthy and laborious man. A capable manager. An important matter concerning money." , "rdesc" : "Dull, lazy or clumsy man. Careless. Stagnation." },
 		{ "name" : "Page of Pentacles", "url" : "page_of_pentacles", "image" : "images/pepa.jpg" , "desc" : "A learned young person, careful and reflective. Good management, kind and benevolent. The bearer of good news and messages." , "rdesc" : "Wasteful, illogical, rebellious youth. Bad news or lost of money." },
@@ -96,7 +96,3 @@ def get_deck():
 		{ "name" : "Ten of Pentacles", "url" : "ten_of_pentacles", "image" : "images/pe10.jpg" , "desc" : "Wealth. Fulfillment of material fortune. Family matters. Inheritance. House." , "rdesc" : "Family misfortune. Loss of inheritance. Beware of risky projects." },
 	]
 	return deck
-	
-
-
-
