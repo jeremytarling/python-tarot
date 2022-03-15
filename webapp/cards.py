@@ -20,17 +20,17 @@ def get_card(deck):
 def get_deck():
     deck = [
         {"name": "The Fool", "url": "the_fool", "image": "images/00.jpeg",
-         "desc": "Immaturity, sincerity, the natural man, a free spirit. One who naturally knows his will and is worry free. A dreamer, careless and disinterested in practical matters. Travel.",
+         "desc": "Immaturity, sincerity, a free spirit. One who naturally knows their will and is worry free. A dreamer, careless and disinterested in practical matters. Travel.",
          "rdesc": "Folly, failure, madness. Hindered travel.",
          "long_desc": ""},
 
         {"name": "The Magician", "url": "the_magician", "image": "images/01.jpeg",
-         "desc": "Will, creativeness, adroitness, mastery, elasticity, autonomy, eloquence, craft, cunning. May imply a new beginning. The Magus is an autonomous person that knows where he is going and how to achieve its ends.",
+         "desc": "Will, creativeness, adroitness, mastery, elasticity, autonomy, eloquence, craft, cunning. May imply a new beginning. The Magus is an autonomous person that knows where they are going and how to achieve their ends.",
          "rdesc": "Indecision, weak will, ineptitude, dilettante. Deceitfulness, trickery.",
          "long_desc": ""},
 
         {"name": "The High Priestess", "url": "the_high_priestess", "image": "images/02.jpeg",
-         "desc": "Hidden influence. Silence, patience, equilibrium. Slow but firm. Pondered decision. Advice, tuition, possibly given by a woman. Psychic ability. The manifestation of the eternal feminine in a spiritual way.",
+         "desc": "Hidden influence. Silence, patience, equilibrium. Slow but firm. Pondered decision. Advice, tuition. Psychic ability. The manifestation of the eternal feminine in a spiritual way.",
          "rdesc": "Deceptive, secret, or sly manner. Lazyness, intolerance. Delays. False ideas, moodiness, doubt, superficiality.",
          "long_desc": ""},
 
@@ -45,7 +45,7 @@ def get_deck():
          "long_desc": ""},
 
         {"name": "The High Priest", "url": "the_hierophant", "image": "images/05.jpeg",
-         "desc": "Wisdom, endurance, persistence, patience, help from superiors, good advice, a good teacher, organization, peace, goodness of heart. The card that represents you, in the form of your own, truest voice, your own inner-self. Dogma. Can be lawyers.",
+         "desc": "Wisdom, endurance, persistence, patience, help from superiors, good advice, a good teacher, organization, peace, goodness of heart.",
          "rdesc": "Tendency to over criticize or being unduly concerned with the morals of others. Incapable of dealing efficiently with practical matters, especially finances. Unconventionality, illogical, superstitious, unable to behave coherently.",
          "long_desc": ""},
 
@@ -60,7 +60,7 @@ def get_deck():
          "long_desc": ""},
 
         {"name": "Justice", "url": "justice", "image": "images/08.jpeg",
-         "desc": "Conformity to moral rightness in action or attitude. The power to maintain equilibrium between the necessities and responsibilities of life. Justice, balance, adjustment. In order to keep things balanced certain things must be sacrificed.. May refer to law matters, trials, marriages, divorces, etc. Integrity, moderation.",
+         "desc": "Conformity to moral rightness in action or attitude. The power to maintain equilibrium between the necessities and responsibilities of life. Justice, balance, adjustment. In order to keep things balanced certain things must be sacrificed. May refer to law matters, trials, marriages, divorces, etc. Integrity, moderation.",
          "rdesc": "Fanaticism, injustice, inequality, legal complications. Harsh judgment. Insecurity, imbalance.",
          "long_desc": ""},
 

@@ -4,6 +4,6 @@ This is a simple web application written in Python to draw one or more randomly 
 
 Deployed to Heroku here: https://python-tarot.herokuapp.com/
 
-Please feel free to fork or re-use, no license restrictions (the tarot images are my captures of Jean Noblet's deck).
+Please feel free to fork or re-use, no license restrictions (the tarot images are Yoav Ben Dov's version of the Marseille tarot, available here: http://www.cbdtarot.com/download/).
 
 @jeremytarling
