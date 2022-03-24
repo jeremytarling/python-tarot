@@ -268,7 +268,7 @@ def get_deck():
          "long_desc": ""},
 
         {"name": "King of Swords", "url": "king_of_swords", "image": "images/swki.jpeg",
-         "desc": "This person may be a very good ally or counselor. They are clever and self-controlled and have some authority. Also they can be modern, analytical and very strong. The card may also mean a lawsuit.",
+         "desc": "A very good ally or counselor - clever and self-controlled with some authority. Also they can be modern, analytical and very strong. The card may also mean a lawsuit.",
          "rdesc": "Deceitful and malicious person. They may be a dangerous enemy, violent and powerful.",
          "long_desc": ""},
 
