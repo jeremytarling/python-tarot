@@ -40,7 +40,6 @@ def one_card():
 @app.route('/one-card/<card_url>')
 def specific_card(card_url):
 	my_deck = cards.get_deck()
-#	my_card = next((item for item in my_deck if item["url"] == card_url))
 	my_card = list(filter(lambda my_card: my_card['url'] == card_url, my_deck))[0]
 	return render_template("specific_card.html",
 							name = my_card['name'],
