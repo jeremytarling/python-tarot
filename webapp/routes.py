@@ -36,19 +36,6 @@ def one_card():
 							url = my_card[0]['url'])
 
 
-# get specific card
-@app.route('/one-card/<card_url>')
-def specific_card(card_url):
-	my_deck = cards.get_deck()
-	my_card = list(filter(lambda my_card: my_card['url'] == card_url, my_deck))[0]
-	return render_template("specific_card.html",
-							name = my_card['name'],
-							title = my_card['name'],
-							meaning = my_card['desc'],
-							reversed_meaning = my_card['rdesc'],
-							image = my_card['image'])
-
-
 # get three cards
 @app.route('/three-cards')
 def more_cards():
@@ -62,5 +49,27 @@ def more_cards():
 	return render_template("three_cards.html", hand = hand, title="Three card spread")
 
 
+# get specific card
+@app.route('/one-card/<card_url>')
+def specific_card(card_url):
+	my_deck = cards.get_deck()
+	my_card = list(filter(lambda my_card: my_card['url'] == card_url, my_deck))[0]
+	if my_card['sequence'] > 1 :
+		previous_card_url = '/one-card/' + list(filter(lambda previous_card: previous_card['sequence'] == (my_card['sequence'] -1), my_deck))[0]['url']
+	else :
+		previous_card_url = '/all-cards'
+	if my_card['sequence'] < 78 :
+		next_card_url = '/one-card/' + list(filter(lambda next_card: next_card['sequence'] == (my_card['sequence'] +1), my_deck))[0]['url']
+	else :
+		next_card_url = '/all-cards'
+	return render_template("specific_card.html",
+							name = my_card['name'],
+							title = my_card['name'],
+							meaning = my_card['desc'],
+							reversed_meaning = my_card['rdesc'],
+							image = my_card['image'],
+						    previous = previous_card_url,
+						    next = next_card_url,
+						    sequence = my_card['sequence'])
 
 
