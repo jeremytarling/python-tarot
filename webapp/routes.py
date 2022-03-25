@@ -16,13 +16,13 @@ def index():
 
 
 # home page
-@app.route('/all-cards')
+@app.route('/all-cards', strict_slashes=False)
 def all_cards():
 	return render_template("all_cards.html")
 
 
 # get one card
-@app.route('/one-card')
+@app.route('/one-card', strict_slashes=False)
 def one_card():
 	my_deck = cards.get_deck()
 	my_card = cards.get_card(my_deck)
@@ -37,7 +37,7 @@ def one_card():
 
 
 # get three cards
-@app.route('/three-cards')
+@app.route('/three-cards', strict_slashes=False)
 def more_cards():
 	my_deck = cards.get_deck()
 	hand = []
