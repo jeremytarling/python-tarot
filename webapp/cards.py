@@ -469,7 +469,7 @@ def get_deck():
 
         {"name": "Eight of Clubs", "url": "eight_of_clubs", "image": "images/wa08.jpeg",
          "desc": "Swiftness. Hasty decision. Air travel, messages. Love letter. Hyperactivity. Great hopes.",
-         "rdesc": "Opposition. Jealousness. Delay in business or love affair.",
+         "rdesc": "Opposition. Jealousy. Delay in business or love affair.",
          "long_desc": "",
          "sequence": 76},
 
