@@ -31,7 +31,7 @@ def get_deck():
          "cbd_desc": "The start of something. Beginner’s luck. Having various tools and means at our disposal. Use of supernatural forces. Creating reality with mind power. Training and acquisition of practical skills. Improvisation. Display or show for other people.",
          "sequence": 2},
 
-        {"name": "The High Priestess", "url": "the_high_priestess", "image": "images/02.jpeg",
+        {"name": "The Priestess", "url": "the_priestess", "image": "images/02.jpeg",
          "desc": "Hidden influence. Silence, patience, equilibrium. Slow but firm. Pondered decision. Advice, tuition. Psychic ability. The manifestation of the eternal feminine in a spiritual way.",
          "rdesc": "Deceptive, secret, or sly manner. Lazyness, intolerance. Delays. False ideas, moodiness, doubt, superficiality.",
          "cbd_desc": "Wisdom combining intellect and intuition. A spiritual mother. A woman hiding her strengths in a world of men. Modesty. Secrets, something hidden, mystery. Getting a hint of something which remains largely unknown. Impossible to give a definite answer now.",
@@ -49,7 +49,7 @@ def get_deck():
          "cbd_desc": "Practical and material achievements. Matters relating to the workplace or source of income. Authority and control, a commanding position. A protective father figure, patron or sponsor. Assertiveness. Military affairs.",
          "sequence": 5},
 
-        {"name": "The Pope (The Hierophant)", "url": "the_high_priest", "image": "images/05.jpeg",
+        {"name": "The Pope", "url": "the_pope", "image": "images/05.jpeg",
          "desc": "Wisdom, endurance, persistence, patience, help from superiors, good advice, a good teacher, organization, peace, goodness of heart.",
          "rdesc": "Tendency to over criticize or being unduly concerned with the morals of others. Incapable of dealing efficiently with practical matters, especially finances. Unconventionality, illogical, superstitious, unable to behave coherently.",
          "cbd_desc": "Teacher, instructor, or counselor. Education and knowledge, academic expertise. Organized religion, conventional medicine or psychology. Spiritual father. Consultation or treatment by a specialist. Marriage.",
