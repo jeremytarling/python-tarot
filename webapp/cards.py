@@ -33,7 +33,7 @@ def get_deck():
 
         {"name": "The Priestess", "url": "the_priestess", "image": "images/02.jpeg",
          "desc": "Hidden influence. Silence, patience, equilibrium. Slow but firm. Pondered decision. Advice, tuition. Psychic ability. The manifestation of the eternal feminine in a spiritual way.",
-         "rdesc": "Deceptive, secret, or sly manner. Lazyness, intolerance. Delays. False ideas, moodiness, doubt, superficiality.",
+         "rdesc": "Deceptive, secret, or sly manner. Laziness, intolerance. Delays. False ideas, moodiness, doubt, superficiality.",
          "cbd_desc": "Wisdom combining intellect and intuition. A spiritual mother. A woman hiding her strengths in a world of men. Modesty. Secrets, something hidden, mystery. Getting a hint of something which remains largely unknown. Impossible to give a definite answer now.",
          "sequence": 3},
 
@@ -116,7 +116,7 @@ def get_deck():
          "sequence": 16},
 
         {"name": "The House of God (The Tower)", "url": "the_house_of_god", "image": "images/16.jpeg",
-         "desc": "Sudden changes without choice, collapse, escape from prison or bondages, accident. Plans will fall, intentions will break down. Bankruptcy. Sudden death. Enlightenment.",
+         "desc": "Sudden changes without choice, collapse, escape from prison or bondage, accident. Plans will fall, intentions will break down. Bankruptcy. Sudden death. Enlightenment.",
          "rdesc": "Complete confusion. The gain of freedom at great cost. False accusations, oppression.",
          "cbd_desc": "Breaking up of solid structures. Getting free from confinement. Sudden breakthrough after long preparations. Sparkling sexual encounter. Success lies in simplicity and modesty.",
          "sequence": 17},
@@ -135,7 +135,7 @@ def get_deck():
 
         {"name": "The Sun", "url": "the_sun", "image": "images/19.jpeg",
          "desc": "Glory. Material happiness. Happy marriage or relationship, collaboration. Success. Pleasure. Energy, motivation, inspiration to others.",
-         "rdesc": "Anoyances, disguise. Arrogance. Broken engagement or lost job.",
+         "rdesc": "Annoyances, disguise. Arrogance. Broken engagement or lost job.",
          "cbd_desc": "Light and warmth, abundance, blessings. Pleasant feeling, emotional or physical healing. Partnership, trust, sharing, brotherhood. Human touch. An ideal father figure. Matters relating to children. Setting limits in a moderate and non-oppressive way.",
          "sequence": 20},
 
@@ -151,7 +151,7 @@ def get_deck():
          "cbd_desc": "Completion of a process. Balanced activity and achievements in various domains. Contact with far places. Harmony and correspondence between different planes. Pregnancy, something new is about to be born. The Dance of Life.",
          "sequence": 22},
 
-         {"name": "King of Swords", "url": "king_of_swords", "image": "images/swki.jpeg",
+        {"name": "King of Swords", "url": "king_of_swords", "image": "images/swki.jpeg",
          "desc": "A very good ally or counselor - clever and self-controlled with some authority. Also they can be modern, analytical and very strong. The card may also mean a lawsuit.",
          "rdesc": "Deceitful and malicious person. They may be a dangerous enemy, violent and powerful.",
          "cbd_desc": "",
@@ -165,7 +165,7 @@ def get_deck():
 
         {"name": "Knight of Swords", "url": "knight_of_swords", "image": "images/swkn.jpeg",
          "desc": "Audacious, clever and gallant; spirited young person. They may be domineering and unstable but they have the better intentions.",
-         "rdesc": "Harsh, fanatic, extravagant. Tyranic and aggressive. Dangerous enemy.",
+         "rdesc": "Harsh, fanatic, extravagant. Tyrannic and aggressive. Dangerous enemy.",
          "cbd_desc": "",
          "sequence": 25},
 
@@ -218,7 +218,7 @@ def get_deck():
 
         {"name": "Eight of Swords", "url": "eight_of_swords", "image": "images/sw08.jpeg",
          "desc": "Interference. Restriction. Temporal sickness or captivity. Indecision.",
-         "rdesc": "New beginnings. Freedom from the past bondages.",
+         "rdesc": "New beginnings. Freedom from the past bondage.",
          "cbd_desc": "",
          "sequence": 34},
 
@@ -235,13 +235,13 @@ def get_deck():
 
         {"name": "King of Disks", "url": "king_of_disks", "image": "images/peki.jpeg",
          "desc": "A married person, wealthy and clever in money matters. Patient and laborious, they are an experienced chief and a reliable ally.",
-         "rdesc": "Vicious and greedy person. Beware or gamblers or speculators. Easy to bribe, they may be a dangerous person.",
+         "rdesc": "Vicious and greedy person. Beware of gamblers or speculators. Easy to bribe, possibly a dangerous person.",
          "cbd_desc": "",
          "sequence": 37},
 
         {"name": "Queen of Disks", "url": "queen_of_disks", "image": "images/pequ.jpeg",
          "desc": "Charming and generous person. Pragmatic and quiet, but ambitious. Opulence, security.",
-         "rdesc": "A foolish and temperamental person. Prone to suspicion ad fearful of failure. Negligence.",
+         "rdesc": "A foolish and temperamental person. Prone to suspicion and fearful of failure. Negligence.",
          "cbd_desc": "",
          "sequence": 38},
 
@@ -271,13 +271,13 @@ def get_deck():
 
         {"name": "Three of Disks", "url": "three_of_disks", "image": "images/pe03.jpeg",
          "desc": "Works. Task well done. Commercial transactions. Professional growth. Dignity. A male child.",
-         "rdesc": "Unsufficient skill or knowledge to achieve the goal. Fruitless work. Lack of seriousness.",
+         "rdesc": "Insufficient skill or knowledge to achieve the goal. Fruitless work. Lack of seriousness.",
          "cbd_desc": "",
          "sequence": 43},
 
         {"name": "Four of Disks", "url": "four_of_disks", "image": "images/pe04.jpeg",
          "desc": "Power. Purely material gain and security. A gift or an inheritance. A female child. Greed.",
-         "rdesc": "Prejudice. Limitation. Sudden check in progress or loss. Reckeless spending of money.",
+         "rdesc": "Prejudice. Limitation. Sudden stop in progress or loss. Reckless spending of money.",
          "cbd_desc": "",
          "sequence": 44},
 
@@ -445,7 +445,7 @@ def get_deck():
 
         {"name": "Four of Clubs", "url": "four_of_clubs", "image": "images/wa04.jpeg",
          "desc": "Completion. Settlement, peace, harmony. Romance, marriage, society.",
-         "rdesc": "Insecurity. Uneasiness, unreliableness. Contradictions, incomplete happiness.",
+         "rdesc": "Insecurity. Uneasiness, unreliability. Contradictions, incomplete happiness.",
          "cbd_desc": "",
          "sequence": 72},
 
