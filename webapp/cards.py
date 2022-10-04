@@ -300,7 +300,7 @@ def get_deck():
          "sequence": 47},
 
         {"name": "Eight of Disks", "url": "eight_of_disks", "image": "images/pe08.jpeg",
-         "desc": "Prudence. The first steps of a profitable profession. Learning a business or profession. Ability in material affairs. A brunette.",
+         "desc": "Prudence. The first steps of a profitable profession. Learning a business or profession. Ability in material affairs.",
          "rdesc": "Greedy. Selfish in a petty way. Vanity.",
          "cbd_desc": "",
          "sequence": 48},
