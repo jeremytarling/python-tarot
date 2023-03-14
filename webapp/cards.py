@@ -155,107 +155,107 @@ def get_deck():
         {"name": "King of Swords", "url": "king_of_swords", "image": "images/swki.jpeg",
          "desc": "A very good ally or counselor - clever and self-controlled with some authority. Also they can be modern, analytical and very strong. The card may also mean a lawsuit.",
          "rdesc": "Deceitful and malicious person. They may be a dangerous enemy, violent and powerful.",
-         "desc": "",
+         
          "sequence": 23},
 
         {"name": "Queen of Swords", "url": "queen_of_swords", "image": "images/swqu.jpeg",
          "desc": "A graceful but stern person. They have keen insight and good judgment. May be a dancer, a widow/er or a childless person. This card also means privation and mourning.",
          "rdesc": "Playfully mischievous. Dangerous enemy. Jealous and narrow-minded person.",
-         "desc": "",
+         
          "sequence": 24},
 
         {"name": "Knight of Swords", "url": "knight_of_swords", "image": "images/swkn.jpeg",
          "desc": "Audacious, clever and gallant; spirited young person. They may be domineering and unstable but they have the better intentions.",
          "rdesc": "Harsh, fanatic, extravagant. Tyrannic and aggressive. Dangerous enemy.",
-         "desc": "",
+         
          "sequence": 25},
 
         {"name": "Page of Swords", "url": "page_of_swords", "image": "images/swpa.jpeg",
          "desc": "Logic and penetrating young person. Mentally and physically dexterous. Spying. Messages.",
          "rdesc": "Frivolous, revengeful and cunning person. Indiscretion. Impotence. Unforeseen perturbation.",
-         "desc": "",
+         
          "sequence": 26},
 
         {"name": "Ace of Swords", "url": "ace_of_swords", "image": "images/sw01.jpeg",
          "desc": "Conquest. Triumph through trouble. Intense activity. Gestation or parturition.",
          "rdesc": "Disaster or conquest followed by disaster. Great loss. Violent death. Infertility.",
-         "desc": "",
+         
          "sequence": 27},
 
         {"name": "Two of Swords", "url": "two_of_swords", "image": "images/sw02.jpeg",
          "desc": "Peace. Balanced forces. Indecision. Strength. Friendship.",
          "rdesc": "Disloyalty. Change, sometimes in the wrong direction. Quarrel",
-         "desc": "",
+         
          "sequence": 28},
 
         {"name": "Three of Swords", "url": "three_of_swords", "image": "images/sw03.jpeg",
          "desc": "Sorrow. Separation, quarrel, tears. Delay. Absence.", "rdesc": "Confusion, loss, error.",
-         "desc": "",
+         
          "sequence": 29},
 
         {"name": "Four of Swords", "url": "four_of_swords", "image": "images/sw04.jpeg",
          "desc": "Truce. Solitude. Stagnation. Recovering from illness. Exile. Retreat.",
          "rdesc": "Renewed activity. Surprise. Prudence and economy are advised.",
-         "desc": "",
+         
          "sequence": 30},
 
         {"name": "Five of Swords", "url": "five_of_swords", "image": "images/sw05.jpeg",
          "desc": "Defeat. Failure. Loss. Powerlessness. Separation. Lies. Death.",
          "rdesc": "Risk of loss or defeat. Funeral. Weakness.",
-         "desc": "",
+         
          "sequence": 31},
 
         {"name": "Six of Swords", "url": "six_of_swords", "image": "images/sw06.jpeg",
          "desc": "Science. Journey by water, revelation, study. Intelligent effort. Success after anxiety.",
          "rdesc": "Stagnation. Unfavorable result. Intellectual pride.",
-         "desc": "",
+         
          "sequence": 32},
 
         {"name": "Seven of Swords", "url": "seven_of_swords", "image": "images/sw07.jpeg",
          "desc": "Futility. Partial or unpredictable result. Dreams, vacillation. Travel by land.",
          "rdesc": "Quarrels. Slanders. Disenchantment in family or friendship.",
-         "desc": "",
+         
          "sequence": 33},
 
         {"name": "Eight of Swords", "url": "eight_of_swords", "image": "images/sw08.jpeg",
          "desc": "Interference. Restriction. Temporal sickness or captivity. Indecision.",
          "rdesc": "New beginnings. Freedom from the past bondage.",
-         "desc": "",
+         
          "sequence": 34},
 
         {"name": "Nine of Swords", "url": "nine_of_swords", "image": "images/sw09.jpeg",
          "desc": "Cruelty. Suffering. Misery. Sickness. Martyrdom. Burden. May be death of a loved one.",
          "rdesc": "Patience, faithfulness, unselfishness.",
-         "desc": "",
+         
          "sequence": 35},
 
         {"name": "Ten of Swords", "url": "ten_of_swords", "image": "images/sw10.jpeg",
          "desc": "Ruin. Total defeat. Death. The end of an illusion.", "rdesc": "Transitory success. Improvement.",
-         "desc": "",
+         
          "sequence": 36},
 
         {"name": "King of Disks", "url": "king_of_disks", "image": "images/peki.jpeg",
          "desc": "A married person, wealthy and clever in money matters. Patient and laborious, they are an experienced chief and a reliable ally.",
          "rdesc": "Vicious and greedy person. Beware of gamblers or speculators. Easy to bribe, possibly a dangerous person.",
-         "desc": "",
+         
          "sequence": 37},
 
         {"name": "Queen of Disks", "url": "queen_of_disks", "image": "images/pequ.jpeg",
          "desc": "Charming and generous person. Pragmatic and quiet, but ambitious. Opulence, security.",
          "rdesc": "A foolish and temperamental person. Prone to suspicion and fearful of failure. Negligence.",
-         "desc": "",
+         
          "sequence": 38},
 
         {"name": "Knight of Disks", "url": "knight_of_disks", "image": "images/pekn.jpeg",
          "desc": "Mature and responsible, a trustworthy and laborious person. A capable manager. An important matter concerning money.",
          "rdesc": "Dull, lazy or clumsy person. Careless. Stagnation.",
-         "desc": "",
+         
          "sequence": 39},
 
         {"name": "Page of Disks", "url": "page_of_disks", "image": "images/pepa.jpeg",
          "desc": "A learned young person, careful and reflective. Good management, kind and benevolent. The bearer of good news and messages.",
          "rdesc": "Wasteful, illogical, rebellious youth. Bad news or lost of money.",
-         "desc": "",
+         
          "sequence": 40},
 
         {"name": "Ace of Disks", "url": "ace_of_disks", "image": "images/pe01.jpeg",
@@ -273,217 +273,217 @@ def get_deck():
         {"name": "Three of Disks", "url": "three_of_disks", "image": "images/pe03.jpeg",
          "desc": "Works. Task well done. Commercial transactions. Professional growth. Dignity. A male child.",
          "rdesc": "Insufficient skill or knowledge to achieve the goal. Fruitless work. Lack of seriousness.",
-         "desc": "",
+         
          "sequence": 43},
 
         {"name": "Four of Disks", "url": "four_of_disks", "image": "images/pe04.jpeg",
          "desc": "Power. Purely material gain and security. A gift or an inheritance. A female child. Greed.",
          "rdesc": "Prejudice. Limitation. Sudden stop in progress or loss. Reckless spending of money.",
-         "desc": "",
+         
          "sequence": 44},
 
         {"name": "Five of Disks", "url": "five_of_disks", "image": "images/pe05.jpeg",
          "desc": "Worry. Loss of money or employment. Poverty. Defeat. Lovers. Sympathy found in the midst of trouble.",
          "rdesc": "New employment or opportunity. Productive work. Misfortune in love.",
-         "desc": "",
+         
          "sequence": 45},
 
         {"name": "Six of Disks", "url": "six_of_disks", "image": "images/pe06.jpeg",
          "desc": "Success. Material gain and power. Sharing wealth with others.",
          "rdesc": "Transitory gains. Prodigality. Bribery. 'Purse-proud'.",
-         "desc": "",
+         
          "sequence": 46},
 
         {"name": "Seven of Disks", "url": "seven_of_disks", "image": "images/pe07.jpeg",
          "desc": "Failure. Defeat. Loss of money. Hard work but little gain. Greedy.",
          "rdesc": "Delayed success after hard work. Work done for the love of work without expecting retribution.",
-         "desc": "",
+         
          "sequence": 47},
 
         {"name": "Eight of Disks", "url": "eight_of_disks", "image": "images/pe08.jpeg",
          "desc": "Prudence. The first steps of a profitable profession. Learning a business or profession. Ability in material affairs.",
          "rdesc": "Greedy. Selfish in a petty way. Vanity.",
-         "desc": "",
+         
          "sequence": 48},
 
         {"name": "Nine of Disks", "url": "nine_of_disks", "image": "images/pe09.jpeg",
          "desc": "Gain. Practical wisdom limited to everyday affairs and the home. Stability. Solitude. Inheritance.",
          "rdesc": "Loss of friendship or a material thing. Cancelled project. Beware of knavery.",
-         "desc": "",
+         
          "sequence": 49},
 
         {"name": "Ten of Disks", "url": "ten_of_disks", "image": "images/pe10.jpeg",
          "desc": "Wealth. Fulfillment of material fortune. Family matters. Inheritance. House.",
          "rdesc": "Family misfortune. Loss of inheritance. Beware of risky projects.",
-         "desc": "",
+         
          "sequence": 50},
 
         {"name": "King of Cups", "url": "king_of_cups", "image": "images/cuki.jpeg",
          "desc": "A person skilled in law or trade and interested in science, art, religion or philosophy. A good friend, liberal, idealistic and creative. Kind and willing to take some responsibility.",
          "rdesc": "A superficial person, easily enthusiastic, but with little depth of character. Untruthful, ruthless and vicious.",
-         "desc": "",
+         
          "sequence": 51},
 
         {"name": "Queen of Cups", "url": "queen_of_cups", "image": "images/cuqu.jpeg",
          "desc": "Dreamy, calm, poetic, imaginative, kind yet not willing to take much trouble for another.",
          "rdesc": "Dishonest and vicious person, not to be trusted.",
-         "desc": "",
+         
          "sequence": 52},
 
         {"name": "Knight of Cups", "url": "knight_of_cups", "image": "images/cukn.jpeg",
          "desc": "A young person, may be an artist, who is graceful and poetic. They are an indolent dreamer of sensual pleasures. Can mean a messenger, a proposition or an invitation.",
          "rdesc": "Lazy and deceitful, a dissolute and merciless person.",
-         "desc": "",
+         
          "sequence": 53},
 
         {"name": "Page of Cups", "url": "page_of_cups", "image": "images/cupa.jpeg",
          "desc": "Quiet and studious youth, but also sweet and dreamy. News or proposition.",
          "rdesc": "A sensual libertine, not harmful but neither helpful. Unpleasant news. Flatterer, selfish.",
-         "desc": "",
+         
          "sequence": 54},
 
         {"name": "Ace of Cups", "url": "ace_of_cups", "image": "images/cu01.jpeg",
          "desc": "Harmony, fertility, happiness, beginning of great love.",
          "rdesc": "Discord, false love, instability.",
-         "desc": "",
+         
          "sequence": 55},
 
         {"name": "Two of Cups", "url": "two_of_cups", "image": "images/cu02.jpeg",
          "desc": "Love. Harmony, warm friendship. Close relation with a kindred soul. Good for business and love.",
          "rdesc": "Opposition. False love. Folly, misunderstanding.",
-         "desc": "",
+         
          "sequence": 56},
 
         {"name": "Three of Cups", "url": "three_of_cups", "image": "images/cu03.jpeg",
          "desc": "Abundance. Pleasure, hospitality, success. The good things of life.",
          "rdesc": "Sensuality or food and drink intemperance.",
-         "desc": "",
+         
          "sequence": 57},
 
         {"name": "Four of Cups", "url": "four_of_cups", "image": "images/cu04.jpeg",
          "desc": "Luxury. Abandonment to desire. New ambition.",
          "rdesc": "Luxury that does not provide happiness. Dissatisfaction with material success. Turning point in life.",
-         "desc": "",
+         
          "sequence": 58},
 
         {"name": "Five of Cups", "url": "five_of_cups", "image": "images/cu05.jpeg",
          "desc": "Disappointment. Unexpected misfortune. Partial loss. Friendship or love gone. Inheritance.",
          "rdesc": "New happiness. Return of an old friend or love. Alliance.",
-         "desc": "",
+         
          "sequence": 59},
 
         {"name": "Six of Cups", "url": "six_of_cups", "image": "images/cu06.jpeg",
          "desc": "Pleasure. Happiness coming from the past. Nostalgia. Success.",
          "rdesc": "Uncertainty. Living too much in the past. Worthless associates. Inheritance.",
-         "desc": "",
+         
          "sequence": 60},
 
         {"name": "Seven of Cups", "url": "seven_of_cups", "image": "images/cu07.jpeg",
          "desc": "Debauch. Foolish expectations. Illusory dreams, deceit. Intoxication. Drug addiction.",
          "rdesc": "New will. Intelligent decision. Short travels.",
-         "desc": "",
+         
          "sequence": 61},
 
         {"name": "Eight of Cups", "url": "eight_of_cups", "image": "images/cu08.jpeg",
          "desc": "Indolence. Instability. Material success abandoned, may be for something higher. Decline in interest. Wandering.",
          "rdesc": "Joy, happiness. A new love or interest in material things..",
-         "desc": "",
+         
          "sequence": 62},
 
         {"name": "Nine of Cups", "url": "nine_of_cups", "image": "images/cu09.jpeg",
          "desc": "Happiness. Complete material success and well-being. You will get what you wish.",
          "rdesc": "Imperfection, deceit. Intemperance. You will not get what you wish.",
-         "desc": "",
+         
          "sequence": 63},
 
         {"name": "Ten of Cups", "url": "ten_of_cups", "image": "images/cu10.jpeg",
          "desc": "Satiety. Perfect love and lasting contentment. Peace, friendship.",
          "rdesc": "Dissipation, loss of friendship. Betrayal. Waste.",
-         "desc": "",
+         
          "sequence": 64},
 
         {"name": "King of Clubs", "url": "king_of_clubs", "image": "images/waki.jpeg",
          "desc": "Courageous, swift and generous person. Passionate and strong. Paternalistic and proud. May be a country gentleman, generally married. Unexpected heritage; a good marriage.",
          "rdesc": "Despotic, bigoted, prejudiced, evil-minded.",
-         "desc": "",
+         
          "sequence": 65},
 
         {"name": "Queen of Clubs", "url": "queen_of_clubs", "image": "images/waqu.jpeg",
          "desc": "Kind, energetic but calm person. Conservative, pragmatic and authoritarian. Fruitful in mind and body.",
          "rdesc": "Domineering, jealous, dogmatic and irrational. Quick to take offense.",
-         "desc": "",
+         
          "sequence": 66},
 
         {"name": "Knight of Clubs", "url": "knight_of_clubs", "image": "images/wakn.jpeg",
          "desc": "A young and energetic person. Swift and daring. May be noble and generous but also violent and hasty.",
          "rdesc": "Jealous, weak and intolerant person. Quarrel, discord, frustration.",
-         "desc": "",
+         
          "sequence": 67},
 
         {"name": "Page of Clubs", "url": "page_of_clubs", "image": "images/wapa.jpeg",
          "desc": "Young and brilliant. Enthusiastic and daring. A messenger or bearer of tidings.",
          "rdesc": "Frivolous youth. Theatrical and shallow. Cruel, oppressive.",
-         "desc": "",
+         
          "sequence": 68},
 
         {"name": "Ace of Clubs", "url": "ace_of_clubs", "image": "images/wa01.jpeg",
          "desc": "Creation, birth. The power or ability to begin or to follow through energetically with a plan or task; enterprise and determination. Beginning of an enterprise, invention or adventure.",
          "rdesc": "Fall. To lose or postpone something (employment, enterprise, etc.). False starts.",
-         "desc": "",
+         
          "sequence": 69},
 
         {"name": "Two of Clubs", "url": "two_of_clubs", "image": "images/wa02.jpeg",
          "desc": "Dominion. Maturity. Boldness with self-control. Influence.",
          "rdesc": "Disturbance. Indifferent to or disregardful of consequences. Fear, illness.",
-         "desc": "",
+         
          "sequence": 70},
 
         {"name": "Three of Clubs", "url": "three_of_clubs", "image": "images/wa03.jpeg",
          "desc": "Virtue. Established strength, realization of hope, nobility. Cooperation, partnership.",
          "rdesc": "Inconsistency, deception, treachery. Loss, robbery.",
-         "desc": "",
+         
          "sequence": 71},
 
         {"name": "Four of Clubs", "url": "four_of_clubs", "image": "images/wa04.jpeg",
          "desc": "Completion. Settlement, peace, harmony. Romance, marriage, society.",
          "rdesc": "Insecurity. Uneasiness, unreliability. Contradictions, incomplete happiness.",
-         "desc": "",
+         
          "sequence": 72},
 
         {"name": "Five of Clubs", "url": "five_of_clubs", "image": "images/wa05.jpeg",
          "desc": "Strife. Competition, lawsuit, obstacles, violence, fighting.",
          "rdesc": "Dangerous indecision, treachery, complication.",
-         "desc": "",
+         
          "sequence": 73},
 
         {"name": "Six of Clubs", "url": "six_of_clubs", "image": "images/wa06.jpeg",
          "desc": "Victory after strife. Good news. Progress, helping friends.",
          "rdesc": "Postponement. Insolence, excessive pride. Treason.",
-         "desc": "",
+         
          "sequence": 74},
 
         {"name": "Seven of Clubs", "url": "seven_of_clubs", "image": "images/wa07.jpeg",
          "desc": "Valor. Victory through courage. Struggle. Fierce competition. Certain success.",
          "rdesc": "Uncertainty and fear. Pregnancy. False appearance.",
-         "desc": "",
+         
          "sequence": 75},
 
         {"name": "Eight of Clubs", "url": "eight_of_clubs", "image": "images/wa08.jpeg",
          "desc": "Swiftness. Hasty decision. Air travel, messages. Love letter. Hyperactivity. Great hopes.",
          "rdesc": "Opposition. Jealousy. Delay in business or love affair.",
-         "desc": "",
+         
          "sequence": 76},
 
         {"name": "Nine of Clubs", "url": "nine_of_clubs", "image": "images/wa09.jpeg",
          "desc": "Strength. Capability of enduring a long struggle and achieve the final victory. Recovery from sickness.",
          "rdesc": "Weakness, delays, sickness. Adversity.",
-         "desc": "",
+         
          "sequence": 77},
 
         {"name": "Ten of Clubs", "url": "ten_of_clubs", "image": "images/wa10.jpeg",
          "desc": "Oppression. Imbalance and selfishness. Heavy burden. Force detached from spiritual sources. A problem may be solved soon.",
          "rdesc": "Annoyances. Treason. Separation, emigration. Some loses.",
-         "desc": "",
+         
          "sequence": 78},
 
     ]

@@ -66,7 +66,6 @@ def specific_card(card_url):
 							name = my_card['name'],
 							title = my_card['name'],
 							meaning = my_card['desc'],
-							message = my_card['message'],
 							reversed_meaning = my_card['rdesc'],
 							image = my_card['image'],
 						    previous = previous_card_url,
