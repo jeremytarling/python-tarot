@@ -3,8 +3,14 @@
 <div class="row">	
 	<div class="col-md-12">
 	    <h3>{{ name }}</h3>
-	    <p><strong>meaning:</strong> {{ meaning }}</p>
-	   	<p><strong>reversed meaning:</strong> {{ reversed_meaning }}</p>
+	    {% if cardtype == "major": %}
+		    <p><strong>meaning:</strong> {{ meaning }}</p>
+		    <p><strong>message:</strong> <em>{{ message }}</em></p>
+		   	<p><strong>reversed meaning:</strong> {{ reversed_meaning }}</p>
+		{% else %}
+		    <p><strong>meaning:</strong> {{ meaning }}</p>
+		   	<p><strong>reversed meaning:</strong> {{ reversed_meaning }}</p>
+		{% endif %}
 	    <img src="/static/{{ image }}" />
 		<p><a href="{{ previous }}">previous card</a> || <a href="{{ next }}">next card</a></p>
 	</div>
