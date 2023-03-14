@@ -4,21 +4,22 @@
 	<div class="col-md-12">
 	{% if rev: %}
 	    <h3>{{ name }} - reversed</h3>
+	    <img src="/static/{{ image }}" style="transform: rotate(180deg)" />
 	    <p>{{ reversed_meaning }}</p>
 	    <!-- debug <p>cardtype: {{ cardtype }}</p> -->
-	    <img src="/static/{{ image }}" style="transform: rotate(180deg)" />
 	{% else %}
 		{% if cardtype == "major": %}
 		    <h3>{{ name }}</h3>
+		    <img src="/static/{{ image }}" />
 		    <p>{{ meaning }}</p>
 		    <p><strong>message:</strong> {{ message }}</p>
 		    <!-- debug <p>cardtype: {{ cardtype }}</p> -->
 		{% else %}
 			<h3>{{ name }}</h3>
+		    <img src="/static/{{ image }}" />
 		    <p>{{ meaning }}</p>
 		    <!-- debug <p>cardtype: {{ cardtype }}</p> -->
 		{% endif %}
-	    <img src="/static/{{ image }}" />
 	{% endif %}
 	<p style="margin-top: 10px"><a href="/one-card/{{ url }}">more about this card</a></p>
 	</div>

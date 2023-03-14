@@ -83,7 +83,7 @@ def get_deck():
          "sequence": 9,
          "cardtype": "major"},
 
-        {"name": "The Wheel of Fortune", "url": "the_wheel_of_fortune", "image": "images/10.jpeg",
+        {"name": "Wheel of Fortune", "url": "the_wheel_of_fortune", "image": "images/10.jpeg",
          "desc": "Change in circumstances and position. A rise after a fall. Gambling, putting faith in capricious luck. Life cycles, closure of circles. Adapting to the routine of everyday life. A hint to previous incarnations.",
          "message": "accept life’s ups and downs",
          "rdesc": "A decline after a period of rising. Danger lurks at the summit. Moving in a closed circle. Capricious mood changes. Feeling powerless to affect one’s situation.",
@@ -125,7 +125,7 @@ def get_deck():
          "sequence": 15,
          "cardtype": "major"},
 
-        {"name": "The House of God", "url": "the_house_of_god", "image": "images/16.jpeg",
+        {"name": "House of God", "url": "the_house_of_god", "image": "images/16.jpeg",
          "desc": "Breaking up of solid structures. Getting free from confinement. Sudden breakthrough after long preparations. Sparkling sexual encounter. Success lies in simplicity and modesty.",
          "message": "return to the solid ground of reality",
          "rdesc": "Shock, collapse of projects or trusted structures. A fall from an apparently solid and secure position. Chaos, confusion, difficulty in understanding what is going on. Vanity and pride lead to failure.",

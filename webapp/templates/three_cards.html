@@ -10,16 +10,16 @@
 
 		  	<div class="col-md-4">
 			    <h3>{{ card[0].name }} - reversed</h3>
-		    	<p>{{ card[0].rdesc }}</p>
 		    	<img src="/static/{{ card[0].image }}" style="transform: rotate(180deg)" />
+		    	<p>{{ card[0].rdesc }}</p>
 	    	</div>
 
    		{% else %}
 
 		  	<div class="col-md-4">
 			    <h3>{{ card[0].name }}</h3>
-		    	<p>{{ card[0].desc }}</p>
 		    	<img src="/static/{{ card[0].image }}" />
+		    	<p>{{ card[0].desc }}</p>
 	    	</div>
 
 		{% endif %}
