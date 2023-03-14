@@ -23,7 +23,7 @@ def get_deck():
         {"name": "The Magician", "url": "the_magician", "image": "images/01.jpeg",
          "desc": "The start of something. Beginner’s luck. Having various tools and means at our disposal. Use of supernatural forces. Creating reality with mind power. Training and acquisition of practical skills. Improvisation. Display or show for other people.",
          "message": "create a new reality",
-         "rdesc": "Trickery, sleight of hand, cheating. Showing off, pretending. Lack of self-awareness about body, sex-uality, or basic motives. Near miss due to inexperience or inaccuracy.",
+         "rdesc": "Trickery, sleight of hand, cheating. Showing off, pretending. Lack of self-awareness about body, sexuality, or basic motives. Near miss due to inexperience or inaccuracy.",
          "sequence": 1},
 
         {"name": "The Popess", "url": "the_popess", "image": "images/02.jpeg",
@@ -83,7 +83,7 @@ def get_deck():
         {"name": "Strength", "url": "strength", "image": "images/11.jpeg",
          "desc": "Power and courage to face challenges. Controlled expression of creative urges, drives and desires. Mobilization of inner resources towards a common goal. Taking risks.",
          "message": "take control of yourself",
-         "rdesc": "Need to keep things under control leads to constant tensions. A risk of losing one’s grip. Internal con-flicts and unrealistic assessment of one’s own forces may lead to failure.",
+         "rdesc": "Need to keep things under control leads to constant tensions. A risk of losing one’s grip. Internal conflicts and unrealistic assessment of one’s own forces may lead to failure.",
          "sequence": 11},
 
         {"name": "The Hanged Man", "url": "the_hanged_man", "image": "images/12.jpeg",
@@ -119,7 +119,7 @@ def get_deck():
         {"name": "The Star", "url": "the_star", "image": "images/17.jpeg",
          "desc": "Openness, simplicity, return to nature. Purity, honesty. Showing yourself “as you are,” accepting one’s body and desires. Generosity. Luck from heaven. Intuitive feeling of guidance or energy coming from a higher plane.",
          "message": "flow from a pure source",
-         "rdesc": "Naive optimism and wishful-thinking. Exposing oneself to danger or abuse. Difficulty in setting prop-er boundaries. Squandering, wastefulness.",
+         "rdesc": "Naive optimism and wishful-thinking. Exposing oneself to danger or abuse. Difficulty in setting proper boundaries. Squandering, wastefulness.",
          "sequence": 17},
 
         {"name": "The Moon", "url": "the_moon", "image": "images/18.jpeg",
@@ -149,7 +149,7 @@ def get_deck():
         {"name": "The Fool", "url": "the_fool", "image": "images/00.jpeg",
          "desc": "Freedom from conventions and norms. Something or someone unique and exceptional. Options kept open. Giving up control, spontaneity. Uncertainty, attention to the here and now. Going on a trip.",
          "message": "keep on the move",
-         "rdesc": "Difficulty in choosing and committing oneself to something stable. Restlessness. Lack of purpose. Get-ting lost. Foolish behavior. Eccentricity, lack of acceptance by the social environment. Difficulty in planning ahead.",
+         "rdesc": "Difficulty in choosing and committing oneself to something stable. Restlessness. Lack of purpose. Getting lost. Foolish behavior. Eccentricity, lack of acceptance by the social environment. Difficulty in planning ahead.",
          "sequence": 22},
 
         {"name": "King of Swords", "url": "king_of_swords", "image": "images/swki.jpeg",
