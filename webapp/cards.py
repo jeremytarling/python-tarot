@@ -248,7 +248,7 @@ def get_deck():
 
         {"name": "Queen of Disks", "url": "queen_of_disks", "image": "images/pequ.jpeg",
          "desc": "Tangible assets, material and personal stability, a sober and realistic vision. Looking at things from a practical and pragmatic perspective.",
-         "rdesc": "Conservatism, resistance to change, aiming only to preserve the existing assets. Looking at things on-ly from the material perspective.",
+         "rdesc": "Conservatism, resistance to change, aiming only to preserve the existing assets. Looking at things only from the material perspective.",
          "sequence": 35,
          "cardtype": "court"},
 
