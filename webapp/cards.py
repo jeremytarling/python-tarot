@@ -93,7 +93,7 @@ def get_deck():
         {"name": "Strength", "url": "strength", "image": "images/11.jpeg",
          "desc": "Power and courage to face challenges. Controlled expression of creative urges, drives and desires. Mobilization of inner resources towards a common goal. Taking risks.",
          "message": "take control of yourself",
-         "rdesc": "Need to keep things under control leads to constant tensions. A risk of losing one’s grip. Internal conflicts and unrealistic assessment of one’s own forces may lead to failure.",
+         "rdesc": "The need to keep things under control leads to constant tensions. A risk of losing one’s grip. Internal conflicts and unrealistic assessment of one’s own forces may lead to failure.",
          "sequence": 11,
          "cardtype": "major"},
 
