@@ -337,7 +337,7 @@ def get_deck():
          "cardtype": "court"},
 
         {"name": "King of Clubs", "url": "king_of_clubs", "image": "images/waki.jpeg",
-         "desc": "A mature attitude to urges and desires. Controlled creativity. Prodding oneself to make a move for-ward. Investing present assets in future projects.",
+         "desc": "A mature attitude to urges and desires. Controlled creativity. Prodding oneself to make a move forward. Investing present assets in future projects.",
          "rdesc": "Plans to move forward are frustrated by self-defeating acts. Hesitation, conflicts, tendency to make things too heavy and complex.",
          "sequence": 50,
          "cardtype": "court"},
