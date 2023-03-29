@@ -6,5 +6,4 @@ My source code has no license restrictions, please feel free to fork or re-use. 
 
 As for me, my name is Jeremy Tarling and I work as a metadata specialist at the BBC. I've been fascinated by the tarot since childhood when my aunty first introduced me to the cards.
 
-
 @jeremytarling
