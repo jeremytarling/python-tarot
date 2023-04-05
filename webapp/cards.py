@@ -457,7 +457,7 @@ def get_deck():
          "cardtype": "minor"},
 
         {"name": "Six of Swords", "url": "six_of_swords", "image": "images/sw06.jpeg",
-         "desc": "Adaptation. Accepting limitations and adapting oneself to them. Respecting the present order. Com-promising in order to make the best of the existing situation.",
+         "desc": "Adaptation. Accepting limitations and adapting oneself to them. Respecting the present order. Compromising in order to make the best of the existing situation.",
          "rdesc": "Resignation, surrender, giving up the ambition to change things for the better. Lack of fighting spirit.",
          "sequence": 69,
          "cardtype": "minor"},
