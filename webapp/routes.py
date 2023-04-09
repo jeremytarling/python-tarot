@@ -16,9 +16,9 @@ def index():
 
 
 # home page
-@app.route('/all-cards', strict_slashes=False)
+@app.route('/tarot-study', strict_slashes=False)
 def all_cards():
-	return render_template("all_cards.html")
+	return render_template("tarot_study.html")
 
 
 # get one card
@@ -69,11 +69,11 @@ def specific_card(card_url):
 	if my_card['sequence'] > 0 :
 		previous_card_url = '/one-card/' + list(filter(lambda previous_card: previous_card['sequence'] == (my_card['sequence'] -1), my_deck))[0]['url']
 	else :
-		previous_card_url = '/all-cards'
+		previous_card_url = '/tarot-study'
 	if my_card['sequence'] < 77 :
 		next_card_url = '/one-card/' + list(filter(lambda next_card: next_card['sequence'] == (my_card['sequence'] +1), my_deck))[0]['url']
 	else :
-		next_card_url = '/all-cards'
+		next_card_url = '/tarot-study'
 	if my_card['cardtype'] == "major" :
 		return render_template("specific_card.html",
 								name = my_card['name'],
