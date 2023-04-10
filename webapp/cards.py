@@ -452,7 +452,7 @@ def get_deck():
 
         {"name": "Five of Coins", "url": "five_of_coins", "image": "images/pe05.jpeg",
          "desc": "Disruption. Something new appears and destabilizes existing structures. A new element gets attention, but also awakens resistance.",
-         "rdesc": "(similar to upright) Disruption. Something new appears and destabilizes existing structures. A new element gets atten-tion, but also awakens resistance.",
+         "rdesc": "(similar to upright) Disruption. Something new appears and destabilizes existing structures. A new element gets attention, but also awakens resistance.",
          "sequence": 68,
          "cardtype": "minor"},
 
