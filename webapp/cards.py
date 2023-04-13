@@ -343,7 +343,7 @@ def get_deck():
          "cardtype": "court"},
 
         {"name": "Ace of Swords", "url": "ace_of_swords", "image": "images/sw01.jpeg",
-         "desc": "A planned initiative. Rational and logical thinking, sharpness of mind. A conclusive decision. Readi-ness to fight. Ambition, competitiveness. A victory with stable achievements.",
+         "desc": "A planned initiative. Rational and logical thinking, sharpness of mind. A conclusive decision. Readiness to fight. Ambition, competitiveness. A victory with stable achievements.",
          "rdesc": "Negative and unproductive thoughts. Misconceptions, delusions. Self-defeat. Injury.",
          "sequence": 50,
          "cardtype": "ace"},
