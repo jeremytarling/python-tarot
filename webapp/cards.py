@@ -397,7 +397,7 @@ def get_deck():
          "cardtype": "minor"},
 
         {"name": "Ten of Swords", "url": "ten_of_swords", "image": "images/sw10.jpeg",
-         "desc": "Exhaustion. A complex situation with many conflicting interests. A long battle without a clear out-come. Need to find an ally who will attack the problem from a different direction.",
+         "desc": "Exhaustion. A complex situation with many conflicting interests. A long battle without a clear outcome. Need to find an ally who will attack the problem from a different direction.",
          "rdesc": "Immobility. Impossible to move now. Feeling attacked from different sides. A painful and humiliating defeat.",
          "sequence": 59,
          "cardtype": "minor"},
