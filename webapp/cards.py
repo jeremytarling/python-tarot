@@ -367,7 +367,7 @@ def get_deck():
          "cardtype": "minor"},
 
         {"name": "Five of Swords", "url": "five_of_swords", "image": "images/sw05.jpeg",
-         "desc": "Breakthrough. A forward thrust overcoming the existing limits. Keeping up spirits in a tight situation. Doing things in one’s own way.",
+         "desc": "Breakthrough. A forward thrust overcoming the existing limits. Keeping up spirits in a tight situation. Doing things one’s own way.",
          "rdesc": "A failed initiative to change the situation. Stubbornness leading nowhere. Oppressing factors cannot be removed now.",
          "sequence": 54,
          "cardtype": "minor"},
