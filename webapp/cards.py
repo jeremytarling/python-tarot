@@ -121,7 +121,7 @@ def get_deck():
         {"name": "Temperance", "url": "temperance", "image": "images/14.jpeg",
          "desc": "Reconciliation, compromise, relaxation of tensions. Integration of opposites. Ability to do the seemingly impossible. A slow process of distillation and improvement. Patience, perseverance. Self-improvement.",
          "message": "find the golden mean",
-         "rdesc": "Going back and forth without making real progress. Losing patience with a lengthy process. Emotion-al preoccupation with oneself, pushing away others who might come to help.",
+         "rdesc": "Going back and forth without making real progress. Losing patience with a lengthy process. Emotional preoccupation with oneself, pushing away others who might come to help.",
          "sequence": 14,
          "cardtype": "major"},
 
