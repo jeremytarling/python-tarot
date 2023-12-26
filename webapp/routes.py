@@ -66,11 +66,11 @@ def more_cards():
 def specific_card(card_url):
 	my_deck = cards.get_deck()
 	my_card = list(filter(lambda my_card: my_card['url'] == card_url, my_deck))[0]
-	if my_card['sequence'] > 0 :
+	if my_card['sequence'] > 1 :
 		previous_card_url = '/one-card/' + list(filter(lambda previous_card: previous_card['sequence'] == (my_card['sequence'] -1), my_deck))[0]['url']
 	else :
 		previous_card_url = '/tarot-study'
-	if my_card['sequence'] < 77 :
+	if my_card['sequence'] < 78 :
 		next_card_url = '/one-card/' + list(filter(lambda next_card: next_card['sequence'] == (my_card['sequence'] +1), my_deck))[0]['url']
 	else :
 		next_card_url = '/tarot-study'
@@ -81,6 +81,7 @@ def specific_card(card_url):
 								meaning = my_card['desc'],
 								message = my_card['message'],
 								reversed_meaning = my_card['rdesc'],
+								golden_dawn = my_card['golden_dawn'],
 								image = my_card['image'],
 							    previous = previous_card_url,
 							    next = next_card_url,
@@ -92,6 +93,7 @@ def specific_card(card_url):
 								title = my_card['name'],
 								meaning = my_card['desc'],
 								reversed_meaning = my_card['rdesc'],
+								golden_dawn = my_card['golden_dawn'],
 								image = my_card['image'],
 							    previous = previous_card_url,
 							    next = next_card_url,
