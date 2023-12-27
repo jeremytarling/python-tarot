@@ -15,10 +15,15 @@ def index():
 	return render_template("index.html")
 
 
-# home page
+# tarot study
 @app.route('/tarot-study', strict_slashes=False)
 def all_cards():
 	return render_template("tarot_study.html")
+
+# reading list
+@app.route('/reading-list', strict_slashes=False)
+def reading_list():
+	return render_template("reading_list.html")
 
 
 # get one card
