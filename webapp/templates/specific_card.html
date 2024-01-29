@@ -1,20 +1,50 @@
 {% extends "base.html" %}
 {% block content %}
-<div class="row">	
-	<div class="col-md-12">
-	    <h3>{{ name }}</h3>
-	    <img src="/static/{{ image }}" style="padding-bottom:15px" />
-	    {% if cardtype == "major": %}
-		    <p><strong>interpretation:</strong> {{ meaning }}</p>
-		    <p><strong>message:</strong> <em>{{ message }}</em></p>
-		   	<p><strong>if reversed:</strong> {{ reversed_meaning }}</p>
-		   	<!-- <p><strong>Golden Dawn title:</strong> {{ golden_dawn }}</p> -->
-		{% else %}
-		    <p><strong>interpretation:</strong> {{ meaning }}</p>
-		   	<p><strong>if reversed:</strong> {{ reversed_meaning }}</p>
-		   	<!-- <p><strong>Golden Dawn title:</strong> {{ golden_dawn }}</p> -->
-		{% endif %}
-		<p><a href="{{ previous }}">previous card</a> || <a href="{{ next }}">next card</a></p>
+
+<div class="row">
+
+	<div class="col-md-4">
+
+	    <img src="/static/{{ image }}" style="padding-top:25px" />
+
 	</div>
+
+	<div class="col-md-8">
+
+		<h3>{{ name }}</h3>
+
+		<hr />
+
+		{% if cardtype == "major": %}
+
+		    <h4>interpretation</h4>
+			<p>{{ meaning }}</p>
+
+		    <h4>message</h4>
+			<p><em>{{ message }}</em></p>
+
+		   	<h4>if reversed</h4>
+			<p>{{ reversed_meaning }}</p>
+
+		{% else %}
+
+		    <h4>interpretation</h4>
+			<p>{{ meaning }}</p>
+
+		   	<h4>if reversed</h4>
+			<p>{{ reversed_meaning }}</p>
+
+
+		{% endif %}
+
+		<hr />
+
+		<!-- <p><strong>Golden Dawn title:</strong> {{ golden_dawn }}</p> -->
+
+		<p><a href="{{ previous }}">previous card</a> || <a href="{{ next }}">next card</a></p>
+
+	</div>
+
 </div>
+
 {% endblock %}

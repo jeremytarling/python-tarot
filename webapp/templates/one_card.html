@@ -1,9 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
+
 <div class="row">	
+
 	<div class="col-md-12">
 	{% if rev: %}
-	    <h3>{{ name }} - reversed</h3>
+	    <h3>{{ name }} reversed</h3>
 	    <img src="/static/{{ image }}" style="transform: rotate(180deg); padding-top:15px" />
 	    <p>{{ reversed_meaning }}</p>
 	    <!-- debug <p>cardtype: {{ cardtype }}</p> -->
