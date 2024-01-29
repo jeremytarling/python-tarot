@@ -2,7 +2,6 @@
 from webapp import app 
 from flask import render_template
 
-
 # for the cards 
 from webapp import cards
 # and the shuffle
@@ -85,7 +84,8 @@ def specific_card(card_url):
 								title = my_card['name'],
 								meaning = my_card['desc'],
 								message = my_card['message'],
-								reversed_meaning = my_card['rdesc'],
+							    hebrew_letter=my_card['hebrew_letter'],
+							    reversed_meaning = my_card['rdesc'],
 								golden_dawn = my_card['golden_dawn'],
 								image = my_card['image'],
 							    previous = previous_card_url,

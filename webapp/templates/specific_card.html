@@ -26,6 +26,17 @@
 		   	<h4>if reversed</h4>
 			<p>{{ reversed_meaning }}</p>
 
+			<hr />
+
+			<h4>hermetic correspondences</h4>
+
+			<p>hebrew letter: {{ hebrew_letter|safe }}</p>
+
+			<p>occult title: {{ golden_dawn }}</p>
+
+
+			<hr />
+
 		{% else %}
 
 		    <h4>interpretation</h4>
@@ -34,15 +45,15 @@
 		   	<h4>if reversed</h4>
 			<p>{{ reversed_meaning }}</p>
 
+			<hr />
+
+			<h4>hermetic correspondences</h4>
+
+			<p>occult title: {{ golden_dawn }}</p>
+
+			<hr />
 
 		{% endif %}
-
-		<hr />
-
-		<h4>occult title</h4>
-		<p>{{ golden_dawn }}</p>
-
-		<hr />
 
 		<p><a href="{{ previous }}">previous card</a> || <a href="{{ next }}">next card</a></p>
 

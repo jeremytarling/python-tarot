@@ -26,6 +26,7 @@ def get_deck():
          "rdesc": "Difficulty in choosing and committing oneself to something stable. Restlessness. Lack of purpose. Getting lost. Foolish behavior. Eccentricity, lack of acceptance by the social environment. Difficulty in planning ahead.",
          "sequence": 21,
          "golden_dawn": "The Spirit of Aether",
+         "hebrew_letter": "Shin - &#64299;",
          "cardtype": "major"},
 
         {"name": "The Magician", "url": "the_magician", "image": "images/01.jpeg",
@@ -34,6 +35,7 @@ def get_deck():
          "rdesc": "Trickery, sleight of hand, cheating. Showing off, pretending. Lack of self-awareness about body, sexuality, or basic motives. Near miss due to inexperience or inaccuracy.",
          "sequence": 1,
          "golden_dawn": "The Magus of Power",
+         "hebrew_letter": "Aleph - &#1488;",
          "cardtype": "major"},
 
         {"name": "The Popess", "url": "the_popess", "image": "images/02.jpeg",
@@ -42,6 +44,7 @@ def get_deck():
          "rdesc": "Need to hide our true nature behind the conventions of normal society. Conservative approach to sex and the body. Emotional blockage.",
          "sequence": 2,
          "golden_dawn": "The Priestess of the Silver Star",
+         "hebrew_letter": "Beth - &#1489;",
          "cardtype": "major"},
 
         {"name": "The Empress", "url": "the_empress", "image": "images/03.jpeg",
@@ -50,6 +53,7 @@ def get_deck():
          "rdesc": "Impulsive behavior, someone difficult to reason with. Over-protectiveness, excessive involvement in the life of others. Problems with a strong mother figure.",
          "sequence": 3,
          "golden_dawn": "The Daughter of the Mighty Ones",
+         "hebrew_letter": "Gimmel - &#1490;",
          "cardtype": "major"},
 
         {"name": "The Emperor", "url": "the_emperor", "image": "images/04.jpeg",
@@ -58,6 +62,7 @@ def get_deck():
          "rdesc": "Belligerence, violence, trying to solve things by brute force. Dictatorship. Possibility of sexual abuse. Difficulty in coping with a dominant father figure. Denial and hiding of inner weaknesses.",
          "sequence": 4,
          "golden_dawn": "Sun of the Morning; Chief Among the Mighty",
+         "hebrew_letter": "Daleth - &#1491;",
          "cardtype": "major"},
 
         {"name": "The Pope", "url": "the_pope", "image": "images/05.jpeg",
@@ -66,6 +71,7 @@ def get_deck():
          "rdesc": "Excessive adhesion to conventions and outdated norms. Bureaucracy, an oppressive establishment. Hypocrisy, discrimination. Divorce.",
          "sequence": 5,
          "golden_dawn": "The Magus of the Eternal",
+         "hebrew_letter": "Heh - &#1492;",
          "cardtype": "major"},
 
         {"name": "The Lover", "url": "the_lover", "image": "images/06.jpeg",
@@ -74,6 +80,7 @@ def get_deck():
          "rdesc": "Complex relationship between several people, e.g., a romantic triangle or a tension between mother and wife. Hesitation, quandary. Confusion as to one’s own feeling and will.",
          "sequence": 6,
          "golden_dawn": "The Children of the Voice; The Oracles of the Mighty Gods",
+         "hebrew_letter": "Vav - &#1493;",
          "cardtype": "major"},
 
         {"name": "The Chariot", "url": "the_chariot", "image": "images/07.jpeg",
@@ -82,6 +89,7 @@ def get_deck():
          "rdesc": "Inner weakness hidden behind external show-off. Arrogance, vanity. Over-protectiveness, emotional closure. Confusion about one’s goals. Losing the simple touch with people and reality.",
          "sequence": 7,
          "golden_dawn": "The Child of the Powers of the Waters; The Lord of the Triumph of Light",
+         "hebrew_letter": "Zayin - &#1494;",
          "cardtype": "major"},
 
         {"name": "Justice", "url": "justice", "image": "images/08.jpeg",
@@ -90,6 +98,7 @@ def get_deck():
          "rdesc": "Petty accountability, a critical and judgmental attitude, guilt feelings. Repressive control of self and of others. Negative ideas blocking change and advance.",
          "sequence": 8,
          "golden_dawn": "The Daughter of the Lords of Truth; The Ruler of the Balance",
+         "hebrew_letter": "Cheth - &#1495;",
          "cardtype": "major"},
 
         {"name": "The Hermit", "url": "the_hermit", "image": "images/09.jpeg",
@@ -98,6 +107,7 @@ def get_deck():
          "desc": "A quest for truth or for spiritual understanding. Concentrating on a clear purpose. Caution, careful examination. Self-privation for the sake of a meaningful cause. Loyalty to principles, strong faith.",
          "sequence": 9,
          "golden_dawn": "The Magus of the Voice of Power; The Prophet of the Eternal",
+         "hebrew_letter": "Teth - &#1496;",
          "cardtype": "major"},
 
         {"name": "Wheel of Fortune", "url": "the_wheel_of_fortune", "image": "images/10.jpeg",
@@ -106,6 +116,7 @@ def get_deck():
          "rdesc": "A decline after a period of rising. Danger lurks at the summit. Moving in a closed circle. Capricious mood changes. Feeling powerless to affect one’s situation.",
          "sequence": 10,
          "golden_dawn": "The Lord of the Forces of Life",
+         "hebrew_letter": "Yod - &#1497;",
          "cardtype": "major"},
 
         {"name": "Strength", "url": "strength", "image": "images/11.jpeg",
@@ -114,6 +125,7 @@ def get_deck():
          "rdesc": "The need to keep things under control leads to constant tensions. A risk of losing one’s grip. Internal conflicts and unrealistic assessment of one’s own forces may lead to failure.",
          "sequence": 11,
          "golden_dawn": "The Daughter of the Flaming Sword",
+         "hebrew_letter": "Kaph - &#1499;",
          "cardtype": "major"},
 
         {"name": "The Hanged Man", "url": "the_hanged_man", "image": "images/12.jpeg",
@@ -122,6 +134,7 @@ def get_deck():
          "rdesc": "Isolation. Emotional stance of a victim. Inability to act. Denying one’s own unique qualities, striving to be “normal” at all costs. Living in one’s private and imaginary reality.",
          "sequence": 12,
          "golden_dawn": "The Spirit of the Mighty Waters",
+         "hebrew_letter": "Lamed - &#1500;",
          "cardtype": "major"},
 
         {"name": " ", "url": "13", "image": "images/13.jpeg",
@@ -130,6 +143,7 @@ def get_deck():
          "rdesc": "Difficulty in coping with loss or change. Temporary difficulties, a trying challenge. Disintegration. Realisation of a painful truth. Does not predict future death, but may reflect anxiety about dying or mourning over a loss which has already happened.",
          "sequence": 13,
          "golden_dawn": "The Child of the Great Transformers; The Lord of the Gates of Death",
+         "hebrew_letter": "Mem - &#1502;",
          "cardtype": "major"},
 
         {"name": "Temperance", "url": "temperance", "image": "images/14.jpeg",
@@ -138,6 +152,7 @@ def get_deck():
          "rdesc": "Going back and forth without making real progress. Losing patience with a lengthy process. Emotional preoccupation with oneself, pushing away others who might come to help.",
          "sequence": 14,
          "golden_dawn": "The Daughter of the Reconcilers; The BringerForth of Life",
+         "hebrew_letter": "Nun - &#1504;",
          "cardtype": "major"},
 
         {"name": "The Devil", "url": "the_devil", "image": "images/15.jpeg",
@@ -146,6 +161,7 @@ def get_deck():
          "rdesc": "Temptation, attraction to the dark and forbidden. Exploitation, egotism, domination. Compulsive self-gratification. Senseless behavior has its price. Difficulty in detaching oneself from an unhealthy bond.",
          "sequence": 15,
          "golden_dawn": "The Lord of the Gates of Matter; The Child of the Forces of Time",
+         "hebrew_letter": "Samek - &#1505;",
          "cardtype": "major"},
 
         {"name": "House of God", "url": "the_house_of_god", "image": "images/16.jpeg",
@@ -154,6 +170,7 @@ def get_deck():
          "rdesc": "Shock, collapse of projects or trusted structures. A fall from an apparently solid and secure position. Chaos, confusion, difficulty in understanding what is going on. Vanity and pride lead to failure.",
          "sequence": 16,
          "golden_dawn": "The Lord of the Hosts of the Mighty",
+         "hebrew_letter": "Ayin - &#1506;",
          "cardtype": "major"},
 
         {"name": "The Star", "url": "the_star", "image": "images/17.jpeg",
@@ -162,6 +179,7 @@ def get_deck():
          "rdesc": "Naive optimism and wishful-thinking. Exposing oneself to danger or abuse. Difficulty in setting proper boundaries. Squandering, wastefulness.",
          "sequence": 17,
          "golden_dawn": "The Daughter of the Firmament; The Dweller Between the Waters",
+         "hebrew_letter": "Peh - &#1508;",
          "cardtype": "major"},
 
         {"name": "The Moon", "url": "the_moon", "image": "images/18.jpeg",
@@ -170,6 +188,7 @@ def get_deck():
          "rdesc": "Vague and disturbing feelings. Emotional difficulties, a period of depression. Danger lurking under the surface. Retreat, the road ahead is hard to find.",
          "sequence": 18,
          "golden_dawn": "The Ruler of Flux & Reflux; The Child of the Sons of the Mighty",
+         "hebrew_letter": "Tzaddi - &#1510;",
          "cardtype": "major"},
 
         {"name": "The Sun", "url": "the_sun", "image": "images/19.jpeg",
@@ -178,6 +197,7 @@ def get_deck():
          "rdesc": "Living in a limited space, difficulty to face reality “in the open.” Immaturity, dependence on others. Someone or something too intense and energetic to feel comfortable with. An absent father.",
          "sequence": 19,
          "golden_dawn": "The Lord of the Fire of the World",
+         "hebrew_letter": "Qoph - &#1511;",
          "cardtype": "major"},
 
         {"name": "Judgement", "url": "judgement", "image": "images/20.jpeg",
@@ -186,6 +206,7 @@ def get_deck():
          "rdesc": "Revelation of something that should have been kept hidden. Lack of privacy. Unpleasant realization. Problems related to child-parent relations. Too much noise and drama.",
          "sequence": 20,
          "golden_dawn": "The Spirit of the Primal Fire",
+         "hebrew_letter": "Resh - &#1512;",
          "cardtype": "major"},
 
         {"name": "The World", "url": "the_world", "image": "images/21.jpeg",
@@ -194,6 +215,7 @@ def get_deck():
          "rdesc": "Life in a bubble, difficulty in sharing your world with others. Disconnection of inner feelings from external life. Preoccupation with oneself, idealized self-image, inability to move forward.",
          "sequence": 22,
          "golden_dawn": "The Great One of the Night of Time",
+         "hebrew_letter": "Tav - &#1514;",
          "cardtype": "major"},
 
         {"name": "Ace of Clubs", "url": "ace_of_clubs", "image": "images/wa01.jpeg",
