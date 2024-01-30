@@ -164,7 +164,7 @@ def get_deck():
          "hebrew_letter": "Samek - &#1505;",
          "cardtype": "major"},
 
-        {"name": "House of God", "url": "the_house_of_god", "image": "images/16.jpeg",
+        {"name": "The House of God", "url": "the_house_of_god", "image": "images/16.jpeg",
          "desc": "Breaking up of solid structures. Getting free from confinement. Sudden breakthrough after long preparations. Sparkling sexual encounter. Success lies in simplicity and modesty.",
          "message": "return to the solid ground of reality",
          "rdesc": "Shock, collapse of projects or trusted structures. A fall from an apparently solid and secure position. Chaos, confusion, difficulty in understanding what is going on. Vanity and pride lead to failure.",

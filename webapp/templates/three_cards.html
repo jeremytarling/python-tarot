@@ -38,6 +38,14 @@
 
 		    	<p>{{ card[0].desc }}</p>
 
+		    	{% if card[0].cardtype == "major": %}
+
+					<h4>message</h4>
+
+					<p><em>{{ card[0].message }}</em></p>
+
+				{% endif %}
+
 				<p><a href="/one-card/{{ card[0].url }}">more about this card</a></p>
 
 	    	</div>

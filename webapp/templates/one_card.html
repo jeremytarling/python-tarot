@@ -34,40 +34,25 @@
 
 		</div>
 
-		{% if cardtype == "major": %}
+		<div class="col-md-8">
 
-			<div class="col-md-8">
+			<h3>{{ name }}</h3>
 
-				<h3>{{ name }}</h3>
+			<hr />
 
-				<hr />
+			<h4>interpretation</h4>
+			<p>{{ meaning }}</p>
 
-				<h4>interpretation</h4>
-				<p>{{ meaning }}</p>
+			{% if cardtype == "major": %}
 
 				<h4>message</h4>
 				<p><em>{{ message }}</em></p>
 
-				<p><a href="/one-card/{{ url }}">more about this card</a></p>
+			{% endif %}
 
-			</div>
+			<p><a href="/one-card/{{ url }}">more about this card</a></p>
 
-		{% else %}
-
-			<div class="col-md-8">
-
-				<h3>{{ name }}</h3>
-
-				<hr />
-
-				<h4>interpretation</h4>
-				<p>{{ meaning }}</p>
-
-				<p><a href="/one-card/{{ url }}">more about this card</a></p>
-
-			</div>
-
-		{% endif %}
+		</div>
 
 	{% endif %}
 
