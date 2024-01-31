@@ -262,7 +262,7 @@ def get_deck():
          "desc": "Crossroads. Several options or ways to choose from. Every course offers benefits. A brief encounter with someone going his own way. Blocking an opponent’s line of advance.",
          "rdesc": "(similar to upright) Crossroads. Several options or ways to choose from. Every course offers benefits. A brief encounter with someone going his own way. Blocking an opponent’s line of advance.",
          "sequence": 28,
-         "golden_dawn": "dominion",
+         "golden_dawn": "Dominion",
          "qabalah": "♂  in ♈︎ (Mars in Aries)",
          "cardtype": "minor"},
 
@@ -270,7 +270,7 @@ def get_deck():
          "desc": "Direction. Moving forward after a moment of hesitation. Finding a middle path between two courses of action. Gaining an advantage by keeping neutrality between two conflicting sides.",
          "rdesc": "(similar to upright) Direction. Moving forward after a moment of hesitation. Finding a middle path between two courses of action. Gaining an advantage by keeping neutrality between two conflicting sides.",
          "sequence": 29,
-         "golden_dawn": "established strength",
+         "golden_dawn": "Established strength, virtue",
          "qabalah": "☉ in ♈︎ (Sun in Aries)",
          "cardtype": "minor"},
 
@@ -278,7 +278,7 @@ def get_deck():
          "desc": "Stalemate. A temporary stop in order to prepare for future advancement. Tensions at present, but good prospects in the long run. Making a move now is in nobody’s interest.",
          "rdesc": "(similar to upright) Stalemate. A temporary stop in order to prepare for future advancement. Tensions at present, but good prospects in the long run. Making a move now is in nobody’s interest.",
          "sequence": 30,
-         "golden_dawn": "perfected work",
+         "golden_dawn": "Perfected work, completion",
          "qabalah": "♀ in ♈︎ (Venus in Aries)",
          "cardtype": "minor"},
 
@@ -286,7 +286,7 @@ def get_deck():
          "desc": "Overcoming. Getting over a weak opposition. Breakdown of an equilibrium. Focusing on the main objective. An initiative to make a winning move.",
          "rdesc": "With the covering part of the central wand below – walking into a complex situation, losing one’s edge.",
          "sequence": 31,
-         "golden_dawn": "strife",
+         "golden_dawn": "Strife",
          "qabalah": "♄ in ♌︎ (Saturn in Leo)",
          "cardtype": "minor"},
 
@@ -294,7 +294,7 @@ def get_deck():
          "desc": "Collaboration. A strong alliance between two parties with different goals but common present interests. A taste for luxury made possible by favorable conditions.",
          "rdesc": "With the decorated flower at the bottom – excessive pursuit of luxury. Need to break up an alliance of opponents.",
          "sequence": 32,
-         "golden_dawn": "victory",
+         "golden_dawn": "Victory",
          "qabalah": "♃ in ♌︎ (Jupiter in Leo)",
          "cardtype": "minor"},
 
@@ -302,7 +302,7 @@ def get_deck():
          "desc": "Struggle. Someone putting up a fight against many opponents. Obstinacy, endurance, keeping one’s position in a conflict situation. A difficult combat with an uncertain outcome.",
          "rdesc": "(similar to upright) Struggle. Someone putting up a fight against many opponents. Obstinacy, endurance, keeping one’s position in a conflict situation. A difficult combat with an uncertain outcome.",
          "sequence": 33,
-         "golden_dawn": "valour",
+         "golden_dawn": "Valour",
          "qabalah": "♂ in ♌︎ (Mars in Leo)",
          "cardtype": "minor"},
 
@@ -310,7 +310,7 @@ def get_deck():
          "desc": "Regulation. It is possible to advance only by following the rules. Occupation with short-term goals while losing the long-term perspective. A roadblock.",
          "rdesc": "(similar to upright) Regulation. It is possible to advance only by following the rules. Occupation with short-term goals while losing the long-term perspective. A roadblock.",
          "sequence": 34,
-         "golden_dawn": "swiftness",
+         "golden_dawn": "Swiftness",
          "qabalah": "☿ in ♐︎ (Mercury in Sagittarius)",
          "cardtype": "minor"},
 
@@ -318,7 +318,7 @@ def get_deck():
          "desc": "Interruption. Difficulties and oppositions too hard to overcome. Giving up one’s projects to avoid conflict. Starting anew after a challenging period.",
          "rdesc": "(similar to upright) Interruption. Difficulties and oppositions too hard to overcome. Giving up one’s projects to avoid conflict. Starting anew after a challenging period.",
          "sequence": 35,
-         "golden_dawn": "great strength",
+         "golden_dawn": "Great strength",
          "qabalah": "☾ in ♐︎ (Moon in Sagittarius)",
          "cardtype": "minor"},
 
@@ -326,7 +326,7 @@ def get_deck():
          "desc": "Loyalty. A partnership or an alliance endures hardships and succeeds in getting over them. Pure intentions and perseverance lead to success. Honoring one’s principles in spite of difficulties.",
          "rdesc": "(similar to upright) Loyalty. A partnership or an alliance endures hardships and succeeds in getting over them. Pure intentions and perseverance lead to success. Honoring one’s principles in spite of difficulties.",
          "sequence": 36,
-         "golden_dawn": "oppression",
+         "golden_dawn": "Oppression",
          "qabalah": "♄ in ♐︎ (Saturn in Sagittarius)",
          "cardtype": "minor"},
 
@@ -374,7 +374,7 @@ def get_deck():
          "desc": "Partnership. A romantic relationship or a close personal alliance. Interpersonal dynamics based on social norms. Passion in a love relationship, which may turn against itself.",
          "rdesc": "A crisis in a couple relationship, disappointment with someone close to you.",
          "sequence": 42,
-         "golden_dawn": "love",
+         "golden_dawn": "Love",
          "qabalah": "♀ in ♋︎ (Venus in Cancer)",
          "cardtype": "minor"},
 
@@ -382,7 +382,7 @@ def get_deck():
          "desc": "Birth. Something new brings joy and happiness. Caring for a child. Issues of child-parent relations. A common project motivated by feelings and not only by interests.",
          "rdesc": "Problems in relations with one’s parents, or with one’s child. A strong alliance of two persons leaves a third one outside.",
          "sequence": 43,
-         "golden_dawn": "abundance",
+         "golden_dawn": "Abundance",
          "qabalah": "☿ in ♋︎ (Mercury in Cancer)",
          "cardtype": "minor"},
 
@@ -390,7 +390,7 @@ def get_deck():
          "desc": "Family. A collective of people (family, community etc.) with a history and a sense of belonging. Commitment to a group, at the price of giving up personal interests.",
          "rdesc": "Problems and discord in the family or in a long-lasting community. A fixed social structure which doesn’t allow for adaptation or flexibility.",
          "sequence": 44,
-         "golden_dawn": "blended pleasure",
+         "golden_dawn": "Blended pleasure, luxury",
          "qabalah": "☾ in ♋︎ (Moon in Cancer)",
          "cardtype": "minor"},
 
@@ -398,7 +398,7 @@ def get_deck():
          "desc": "Links. Popularity, relations with many people. Becoming the center of attention in a group. Relying on connections with other people to advance oneself or to overcome difficulties.",
          "rdesc": "Excessive preoccupation with social activity. Losing oneself in multiple superficial connections. Cultivating virtual instead of real contacts.",
          "sequence": 45,
-         "golden_dawn": "loss in pleasure",
+         "golden_dawn": "Loss in pleasure, disappointment",
          "qabalah": "♂ in ♏︎ (Mars in Scorpio)",
          "cardtype": "minor"},
 
@@ -406,7 +406,7 @@ def get_deck():
          "desc": "Continuity. A long-term relationship. Repetition between different generations in the family. A stable personal alliance.",
          "rdesc": "Monotony, tedious repetition. Falling time and again into the same emotional traps.",
          "sequence": 46,
-         "golden_dawn": "pleasure",
+         "golden_dawn": "Pleasure",
          "qabalah": "☉ in ♏︎ (Sun in Scorpio)",
          "cardtype": "minor"},
 
@@ -414,7 +414,7 @@ def get_deck():
          "desc": "Individuality. A single person finding his place in a group. Contact with people in high positions. Exceptional qualities are appreciated.",
          "rdesc": "Problems of integration in a group or an organization. Being part of a collective, but feeling isolated and estranged.",
          "sequence": 47,
-         "golden_dawn": "illusionary success",
+         "golden_dawn": "Illusionary success, debauch",
          "qabalah": "♀ in ♏︎ (Venus in Scorpio)",
          "cardtype": "minor"},
 
@@ -422,7 +422,7 @@ def get_deck():
          "desc": "Involvement. Developing personal relationships within a group. A favorable human-relations environment. A feast or a family event.",
          "rdesc": "Interference of the environment in a couple’s relationships. Pressures from one’s family in romantic or personal matters.",
          "sequence": 48,
-         "golden_dawn": "abandoned success",
+         "golden_dawn": "Abandoned success, indolence",
          "qabalah": "♄ in ♓︎ (Saturn in Pisces)",
          "cardtype": "minor"},
 
@@ -430,7 +430,7 @@ def get_deck():
          "desc": "Collectivity. A group or organization working harmoniously with everyone finding his proper place. Accepting one’s role in a social environment. Happiness, wishes coming true.",
          "rdesc": "A confusing social situation, difficulty in situating oneself within a complex environment.",
          "sequence": 49,
-         "golden_dawn": "material happiness",
+         "golden_dawn": "Material happiness",
          "qabalah": "♃ in ♓︎ (Jupiter in Pisces)",
          "cardtype": "minor"},
 
@@ -438,7 +438,7 @@ def get_deck():
          "desc": "Leadership. A person with special qualities receives appreciation and high status. Assuming responsibility for others. Maintaining a superior position.",
          "rdesc": "A fallen leader, loss of popularity. Disappointment because of ingratitude by people one has helped.",
          "sequence": 50,
-         "golden_dawn": "perfected success",
+         "golden_dawn": "Perfected success, satiety",
          "qabalah": "♂ in ♓︎ (Mars in Pisces)",
          "cardtype": "minor"},
 
@@ -486,7 +486,7 @@ def get_deck():
          "desc": "Boundaries. Limits that protect and define something which is in development. Making full use of the present situation. Preparations for future advancement. A clear view encompassing the overall situation.",
          "rdesc": "(similar to upright) Boundaries. Limits that protect and define something which is in development. Making full use of the present situation. Preparations for future advancement. A clear view encompassing the overall situation.",
          "sequence": 56,
-         "golden_dawn": "peace restored",
+         "golden_dawn": "Peace restored",
          "qabalah": "☾ in ♎︎ (Moon in Libra)",
          "cardtype": "minor"},
 
@@ -494,7 +494,7 @@ def get_deck():
          "desc": "Victory. Overcoming a weak opposition. Cutting through a quandary and going forward in a clear direction. A third party intervenes and wins over two weakened opponents.",
          "rdesc": "A failure, defeat from a weaker opponent. An unsuccessful attempt to make a decisive move.",
          "sequence": 57,
-         "golden_dawn": "sorrow",
+         "golden_dawn": "Sorrow",
          "qabalah": "♄ in ♎︎ (Saturn in Libra)",
          "cardtype": "minor"},
 
@@ -502,7 +502,7 @@ def get_deck():
          "desc": "Restriction. A limited space for development and maneuver. Trying to push against constraints. Potentials to grow once the present limitations become less solid.",
          "rdesc": "Confinement and blocking, lack of motivation or energy to break out of a limited situation.",
          "sequence": 58,
-         "golden_dawn": "rest from strife",
+         "golden_dawn": "Rest from strife, truce",
          "qabalah": "♃ in ♎︎ (Jupiter in Libra)",
          "cardtype": "minor"},
 
@@ -510,7 +510,7 @@ def get_deck():
          "desc": "Breakthrough. A forward thrust overcoming the existing limits. Keeping up spirits in a tight situation. Doing things one’s own way.",
          "rdesc": "A failed initiative to change the situation. Stubbornness leading nowhere. Oppressing factors cannot be removed now.",
          "sequence": 59,
-         "golden_dawn": "defeat",
+         "golden_dawn": "Defeat",
          "qabalah": "♀ in ♒︎ (Venus in Aquarius)",
          "cardtype": "minor"},
 
@@ -518,7 +518,7 @@ def get_deck():
          "desc": "Adaptation. Accepting limitations and adapting oneself to them. Respecting the present order. Compromising in order to make the best of the existing situation.",
          "rdesc": "Resignation, surrender, giving up the ambition to change things for the better. Lack of fighting spirit.",
          "sequence": 60,
-         "golden_dawn": "earned success",
+         "golden_dawn": "Earned success, science",
          "qabalah": "☿ in ♒︎ (Mercury in Aquarius)",
          "cardtype": "minor"},
 
@@ -526,7 +526,7 @@ def get_deck():
          "desc": "Sharpness. A focused and determined attitude. Concentrating on a clear goal and doing what it takes to reach it. Winning a fight with the odds evenly balanced.",
          "rdesc": "A narrow and over-concentrated vision. Investing one’s efforts and resources in a lost cause.",
          "sequence": 61,
-         "golden_dawn": "unstable effort",
+         "golden_dawn": "Unstable effort, futility",
          "qabalah": "☾ in ♒︎ (Moon in Aquarius)",
          "cardtype": "minor"},
 
@@ -534,7 +534,7 @@ def get_deck():
          "desc": "Defenses. Putting up shields and blocks. Psychological defense mechanisms. A need to be in total control. A well-guarded treasure. Entering another’s domain with permission.",
          "rdesc": "(similar to upright) Defenses. Putting up shields and blocks. Psychological defense mechanisms. A need to be in total control. A well-guarded treasure. Entering another’s domain with permission.",
          "sequence": 62,
-         "golden_dawn": "shortened force",
+         "golden_dawn": "Shortened force, interference",
          "qabalah": "♃ in ♊︎ (Jupiter in Gemini)",
          "cardtype": "minor"},
 
@@ -542,7 +542,7 @@ def get_deck():
          "desc": "Courage. Winning a fight against a superior force. Pure intentions. Putting imperfect means to good use.",
          "rdesc": "Losing against a stronger opponent. Sloppiness, imperfect preparations for a challenge.",
          "sequence": 63,
-         "golden_dawn": "despair and cruelty",
+         "golden_dawn": "Despair and cruelty",
          "qabalah": "♂ in ♊︎ (Mars in Gemini)",
          "cardtype": "minor"},
 
@@ -550,7 +550,7 @@ def get_deck():
          "desc": "Exhaustion. A complex situation with many conflicting interests. A long battle without a clear outcome. Need to find an ally who will attack the problem from a different direction.",
          "rdesc": "Immobility. Impossible to move now. Feeling attacked from different sides. A painful and humiliating defeat.",
          "sequence": 64,
-         "golden_dawn": "ruin",
+         "golden_dawn": "Ruin",
          "qabalah": "☉ in ♊︎ (Sun in Gemini)",
          "cardtype": "minor"},
 
@@ -598,7 +598,7 @@ def get_deck():
          "desc": "Duality. Two options or two elements. Collaborating while keeping distance. A winding road, advancing in complex ways. Recognition and acknowledgment.",
          "rdesc": "(similar to upright) Duality. Two options or two elements. Collaborating while keeping distance. A winding road, advancing in complex ways. Recognition and acknowledgment.",
          "sequence": 70,
-         "golden_dawn": "harmonious change",
+         "golden_dawn": "Harmonious change",
          "qabalah": "♃ in ♑︎ (Jupiter in Capricorn)",
          "cardtype": "minor"},
 
@@ -606,7 +606,7 @@ def get_deck():
          "desc": "Product. A partnership or an alliance bears fruit. First results of a project. Good prospects.",
          "rdesc": "Disappointment, a partnership or a project does not bear the expected fruits.",
          "sequence": 71,
-         "golden_dawn": "material works",
+         "golden_dawn": "Material works",
          "qabalah": "♂ in ♑︎ (Mars in Capricorn)",
          "cardtype": "minor"},
 
@@ -614,7 +614,7 @@ def get_deck():
          "desc": "Stability. Solid material assets. Tradition, reputation and honor. Time-tested reliability. Established social institutions.",
          "rdesc": "Conservatism, clinging to old and outdated patterns.",
          "sequence": 72,
-         "golden_dawn": "earthly power",
+         "golden_dawn": "Earthly power",
          "qabalah": "☉ in ♑︎ (Sun in Capricorn)",
          "cardtype": "minor"},
 
@@ -622,7 +622,7 @@ def get_deck():
          "desc": "Disruption. Something new appears and destabilizes existing structures. A new element gets attention, but also awakens resistance.",
          "rdesc": "(similar to upright) Disruption. Something new appears and destabilizes existing structures. A new element gets attention, but also awakens resistance.",
          "sequence": 73,
-         "golden_dawn": "material trouble",
+         "golden_dawn": "Material trouble, worry",
          "qabalah": "☿ in ♉︎ (Mercury in Taurus)",
          "cardtype": "minor"},
 
@@ -630,7 +630,7 @@ def get_deck():
          "desc": "Expansion. Abundance of resources and possible ways to advance. A positive outlook, success. A good balance between stability and movement.",
          "rdesc": "(similar to upright) Expansion. Abundance of resources and possible ways to advance. A positive outlook, success. A good balance between stability and movement.",
          "sequence": 74,
-         "golden_dawn": "material success",
+         "golden_dawn": "Material success",
          "qabalah": "☾ in ♉︎ (Moon in Taurus)",
          "cardtype": "minor"},
 
@@ -638,7 +638,7 @@ def get_deck():
          "desc": "Acceptance. Something new is well received. Help and protection. Integrating into a system without losing one’s individuality.",
          "rdesc": "Lack of independence, need to rely on help and acceptance from others.",
          "sequence": 75,
-         "golden_dawn": "success unfulfilled",
+         "golden_dawn": "Success unfulfilled, failure",
          "qabalah": "♄ in ♉︎ (Saturn in Taurus)",
          "cardtype": "minor"},
 
@@ -646,7 +646,7 @@ def get_deck():
          "desc": "Uniformity. A mechanical structure. Practical considerations prove efficient, but lack a human touch. Routine work. A slow and patient advance.",
          "rdesc": "(similar to upright) Uniformity. A mechanical structure. Practical considerations prove efficient, but lack a human touch. Routine work. A slow and patient advance.",
          "sequence": 76,
-         "golden_dawn": "prudence",
+         "golden_dawn": "Prudence",
          "qabalah": "☉ in ♍︎ (Sun in Virgo)",
          "cardtype": "minor"},
 
@@ -654,7 +654,7 @@ def get_deck():
          "desc": "Motivation. Carving a niche for oneself in an existing system. Ambition. Endurance and independent thinking bear long-term fruits.",
          "rdesc": "(similar to upright) Motivation. Carving a niche for oneself in an existing system. Ambition. Endurance and independent thinking bear long-term fruits.",
          "sequence": 77,
-         "golden_dawn": "material gain",
+         "golden_dawn": "Material gain",
          "qabalah": "♀ in ♍︎ (Venus in Virgo)",
          "cardtype": "minor"},
 
@@ -662,7 +662,7 @@ def get_deck():
          "desc": "Abundance. Intensive activity in practical affairs. Material success and achievements. Some may be getting more than others.",
          "rdesc": "(similar to upright) Abundance. Intensive activity in practical affairs. Material success and achievements. Some may be getting more than others.",
          "sequence": 78,
-         "golden_dawn": "wealth",
+         "golden_dawn": "Wealth",
          "qabalah": "☿ in ♍︎ (Mercury in Virgo)",
          "cardtype": "minor"}
 
