@@ -263,7 +263,7 @@ def get_deck():
          "rdesc": "(similar to upright) Crossroads. Several options or ways to choose from. Every course offers benefits. A brief encounter with someone going his own way. Blocking an opponent’s line of advance.",
          "sequence": 28,
          "golden_dawn": "dominion",
-         "qabalah": "Mars in Aries",
+         "qabalah": "♂  in ♈︎ (Mars in Aries)",
          "cardtype": "minor"},
 
         {"name": "Three of Clubs", "url": "three_of_clubs", "image": "images/wa03.jpeg",
@@ -271,7 +271,7 @@ def get_deck():
          "rdesc": "(similar to upright) Direction. Moving forward after a moment of hesitation. Finding a middle path between two courses of action. Gaining an advantage by keeping neutrality between two conflicting sides.",
          "sequence": 29,
          "golden_dawn": "established strength",
-         "qabalah": "Sun in Aries",
+         "qabalah": "☉ in ♈︎ (Sun in Aries)",
          "cardtype": "minor"},
 
         {"name": "Four of Clubs", "url": "four_of_clubs", "image": "images/wa04.jpeg",
@@ -279,7 +279,7 @@ def get_deck():
          "rdesc": "(similar to upright) Stalemate. A temporary stop in order to prepare for future advancement. Tensions at present, but good prospects in the long run. Making a move now is in nobody’s interest.",
          "sequence": 30,
          "golden_dawn": "perfected work",
-         "qabalah": "Venus in Aries",
+         "qabalah": "♀ in ♈︎ (Venus in Aries)",
          "cardtype": "minor"},
 
         {"name": "Five of Clubs", "url": "five_of_clubs", "image": "images/wa05.jpeg",
@@ -287,7 +287,7 @@ def get_deck():
          "rdesc": "With the covering part of the central wand below – walking into a complex situation, losing one’s edge.",
          "sequence": 31,
          "golden_dawn": "strife",
-         "qabalah": "Saturn in Leo",
+         "qabalah": "♄ in ♌︎ (Saturn in Leo)",
          "cardtype": "minor"},
 
         {"name": "Six of Clubs", "url": "six_of_clubs", "image": "images/wa06.jpeg",
@@ -295,7 +295,7 @@ def get_deck():
          "rdesc": "With the decorated flower at the bottom – excessive pursuit of luxury. Need to break up an alliance of opponents.",
          "sequence": 32,
          "golden_dawn": "victory",
-         "qabalah": "Jupiter in Leo",
+         "qabalah": "♃ in ♌︎ (Jupiter in Leo)",
          "cardtype": "minor"},
 
         {"name": "Seven of Clubs", "url": "seven_of_clubs", "image": "images/wa07.jpeg",
@@ -303,7 +303,7 @@ def get_deck():
          "rdesc": "(similar to upright) Struggle. Someone putting up a fight against many opponents. Obstinacy, endurance, keeping one’s position in a conflict situation. A difficult combat with an uncertain outcome.",
          "sequence": 33,
          "golden_dawn": "valour",
-         "qabalah": "Mars in Leo",
+         "qabalah": "♂ in ♌︎ (Mars in Leo)",
          "cardtype": "minor"},
 
         {"name": "Eight of Clubs", "url": "eight_of_clubs", "image": "images/wa08.jpeg",
@@ -311,7 +311,7 @@ def get_deck():
          "rdesc": "(similar to upright) Regulation. It is possible to advance only by following the rules. Occupation with short-term goals while losing the long-term perspective. A roadblock.",
          "sequence": 34,
          "golden_dawn": "swiftness",
-         "qabalah": "Mercury in Sagittarius",
+         "qabalah": "☿ in ♐︎ (Mercury in Sagittarius)",
          "cardtype": "minor"},
 
         {"name": "Nine of Clubs", "url": "nine_of_clubs", "image": "images/wa09.jpeg",
@@ -319,7 +319,7 @@ def get_deck():
          "rdesc": "(similar to upright) Interruption. Difficulties and oppositions too hard to overcome. Giving up one’s projects to avoid conflict. Starting anew after a challenging period.",
          "sequence": 35,
          "golden_dawn": "great strength",
-         "qabalah": "Moon in Sagittarius",
+         "qabalah": "☾ in ♐︎ (Moon in Sagittarius)",
          "cardtype": "minor"},
 
         {"name": "Ten of Clubs", "url": "ten_of_clubs", "image": "images/wa10.jpeg",
@@ -327,7 +327,7 @@ def get_deck():
          "rdesc": "(similar to upright) Loyalty. A partnership or an alliance endures hardships and succeeds in getting over them. Pure intentions and perseverance lead to success. Honoring one’s principles in spite of difficulties.",
          "sequence": 36,
          "golden_dawn": "oppression",
-         "qabalah": "Saturn in Sagittarius",
+         "qabalah": "♄ in ♐︎ (Saturn in Sagittarius)",
          "cardtype": "minor"},
 
         {"name": "King of Cups", "url": "king_of_cups", "image": "images/cuki.jpeg",
@@ -375,7 +375,7 @@ def get_deck():
          "rdesc": "A crisis in a couple relationship, disappointment with someone close to you.",
          "sequence": 42,
          "golden_dawn": "love",
-         "qabalah": "Venus in Cancer",
+         "qabalah": "♀ in ♋︎ (Venus in Cancer)",
          "cardtype": "minor"},
 
         {"name": "Three of Cups", "url": "three_of_cups", "image": "images/cu03.jpeg",
@@ -383,7 +383,7 @@ def get_deck():
          "rdesc": "Problems in relations with one’s parents, or with one’s child. A strong alliance of two persons leaves a third one outside.",
          "sequence": 43,
          "golden_dawn": "abundance",
-         "qabalah": "Mercury in Cancer",
+         "qabalah": "☿ in ♋︎ (Mercury in Cancer)",
          "cardtype": "minor"},
 
         {"name": "Four of Cups", "url": "four_of_cups", "image": "images/cu04.jpeg",
@@ -391,7 +391,7 @@ def get_deck():
          "rdesc": "Problems and discord in the family or in a long-lasting community. A fixed social structure which doesn’t allow for adaptation or flexibility.",
          "sequence": 44,
          "golden_dawn": "blended pleasure",
-         "qabalah": "Moon in Cancer",
+         "qabalah": "☾ in ♋︎ (Moon in Cancer)",
          "cardtype": "minor"},
 
         {"name": "Five of Cups", "url": "five_of_cups", "image": "images/cu05.jpeg",
@@ -399,7 +399,7 @@ def get_deck():
          "rdesc": "Excessive preoccupation with social activity. Losing oneself in multiple superficial connections. Cultivating virtual instead of real contacts.",
          "sequence": 45,
          "golden_dawn": "loss in pleasure",
-         "qabalah": "Mars in Scorpio",
+         "qabalah": "♂ in ♏︎ (Mars in Scorpio)",
          "cardtype": "minor"},
 
         {"name": "Six of Cups", "url": "six_of_cups", "image": "images/cu06.jpeg",
@@ -407,7 +407,7 @@ def get_deck():
          "rdesc": "Monotony, tedious repetition. Falling time and again into the same emotional traps.",
          "sequence": 46,
          "golden_dawn": "pleasure",
-         "qabalah": "Sun in Scorpio",
+         "qabalah": "☉ in ♏︎ (Sun in Scorpio)",
          "cardtype": "minor"},
 
         {"name": "Seven of Cups", "url": "seven_of_cups", "image": "images/cu07.jpeg",
@@ -415,7 +415,7 @@ def get_deck():
          "rdesc": "Problems of integration in a group or an organization. Being part of a collective, but feeling isolated and estranged.",
          "sequence": 47,
          "golden_dawn": "illusionary success",
-         "qabalah": "Venus in Scorpio",
+         "qabalah": "♀ in ♏︎ (Venus in Scorpio)",
          "cardtype": "minor"},
 
         {"name": "Eight of Cups", "url": "eight_of_cups", "image": "images/cu08.jpeg",
@@ -423,7 +423,7 @@ def get_deck():
          "rdesc": "Interference of the environment in a couple’s relationships. Pressures from one’s family in romantic or personal matters.",
          "sequence": 48,
          "golden_dawn": "abandoned success",
-         "qabalah": "Saturn in Pisces",
+         "qabalah": "♄ in ♓︎ (Saturn in Pisces)",
          "cardtype": "minor"},
 
         {"name": "Nine of Cups", "url": "nine_of_cups", "image": "images/cu09.jpeg",
@@ -431,7 +431,7 @@ def get_deck():
          "rdesc": "A confusing social situation, difficulty in situating oneself within a complex environment.",
          "sequence": 49,
          "golden_dawn": "material happiness",
-         "qabalah": "Jupiter in Pisces",
+         "qabalah": "♃ in ♓︎ (Jupiter in Pisces)",
          "cardtype": "minor"},
 
         {"name": "Ten of Cups", "url": "ten_of_cups", "image": "images/cu10.jpeg",
@@ -439,7 +439,7 @@ def get_deck():
          "rdesc": "A fallen leader, loss of popularity. Disappointment because of ingratitude by people one has helped.",
          "sequence": 50,
          "golden_dawn": "perfected success",
-         "qabalah": "Mars in Pisces",
+         "qabalah": "♂ in ♓︎ (Mars in Pisces)",
          "cardtype": "minor"},
 
         {"name": "King of Swords", "url": "king_of_swords", "image": "images/swki.jpeg",
@@ -487,7 +487,7 @@ def get_deck():
          "rdesc": "(similar to upright) Boundaries. Limits that protect and define something which is in development. Making full use of the present situation. Preparations for future advancement. A clear view encompassing the overall situation.",
          "sequence": 56,
          "golden_dawn": "peace restored",
-         "qabalah": "Moon in Libra",
+         "qabalah": "☾ in ♎︎ (Moon in Libra)",
          "cardtype": "minor"},
 
         {"name": "Three of Swords", "url": "three_of_swords", "image": "images/sw03.jpeg",
@@ -495,7 +495,7 @@ def get_deck():
          "rdesc": "A failure, defeat from a weaker opponent. An unsuccessful attempt to make a decisive move.",
          "sequence": 57,
          "golden_dawn": "sorrow",
-         "qabalah": "Saturn in Libra",
+         "qabalah": "♄ in ♎︎ (Saturn in Libra)",
          "cardtype": "minor"},
 
         {"name": "Four of Swords", "url": "four_of_swords", "image": "images/sw04.jpeg",
@@ -503,7 +503,7 @@ def get_deck():
          "rdesc": "Confinement and blocking, lack of motivation or energy to break out of a limited situation.",
          "sequence": 58,
          "golden_dawn": "rest from strife",
-         "qabalah": "Jupiter in Libra",
+         "qabalah": "♃ in ♎︎ (Jupiter in Libra)",
          "cardtype": "minor"},
 
         {"name": "Five of Swords", "url": "five_of_swords", "image": "images/sw05.jpeg",
@@ -511,7 +511,7 @@ def get_deck():
          "rdesc": "A failed initiative to change the situation. Stubbornness leading nowhere. Oppressing factors cannot be removed now.",
          "sequence": 59,
          "golden_dawn": "defeat",
-         "qabalah": "Venus in Aquarius",
+         "qabalah": "♀ in ♒︎ (Venus in Aquarius)",
          "cardtype": "minor"},
 
         {"name": "Six of Swords", "url": "six_of_swords", "image": "images/sw06.jpeg",
@@ -519,7 +519,7 @@ def get_deck():
          "rdesc": "Resignation, surrender, giving up the ambition to change things for the better. Lack of fighting spirit.",
          "sequence": 60,
          "golden_dawn": "earned success",
-         "qabalah": "Mercury in Aquarius",
+         "qabalah": "☿ in ♒︎ (Mercury in Aquarius)",
          "cardtype": "minor"},
 
         {"name": "Seven of Swords", "url": "seven_of_swords", "image": "images/sw07.jpeg",
@@ -527,7 +527,7 @@ def get_deck():
          "rdesc": "A narrow and over-concentrated vision. Investing one’s efforts and resources in a lost cause.",
          "sequence": 61,
          "golden_dawn": "unstable effort",
-         "qabalah": "Moon in Aquarius",
+         "qabalah": "☾ in ♒︎ (Moon in Aquarius)",
          "cardtype": "minor"},
 
         {"name": "Eight of Swords", "url": "eight_of_swords", "image": "images/sw08.jpeg",
@@ -535,7 +535,7 @@ def get_deck():
          "rdesc": "(similar to upright) Defenses. Putting up shields and blocks. Psychological defense mechanisms. A need to be in total control. A well-guarded treasure. Entering another’s domain with permission.",
          "sequence": 62,
          "golden_dawn": "shortened force",
-         "qabalah": "Jupiter in Gemini",
+         "qabalah": "♃ in ♊︎ (Jupiter in Gemini)",
          "cardtype": "minor"},
 
         {"name": "Nine of Swords", "url": "nine_of_swords", "image": "images/sw09.jpeg",
@@ -543,7 +543,7 @@ def get_deck():
          "rdesc": "Losing against a stronger opponent. Sloppiness, imperfect preparations for a challenge.",
          "sequence": 63,
          "golden_dawn": "despair and cruelty",
-         "qabalah": "Mars in Gemini",
+         "qabalah": "♂ in ♊︎ (Mars in Gemini)",
          "cardtype": "minor"},
 
         {"name": "Ten of Swords", "url": "ten_of_swords", "image": "images/sw10.jpeg",
@@ -551,7 +551,7 @@ def get_deck():
          "rdesc": "Immobility. Impossible to move now. Feeling attacked from different sides. A painful and humiliating defeat.",
          "sequence": 64,
          "golden_dawn": "ruin",
-         "qabalah": "Sun in Gemini",
+         "qabalah": "☉ in ♊︎ (Sun in Gemini)",
          "cardtype": "minor"},
 
         {"name": "King of Coins", "url": "king_of_coins", "image": "images/peki.jpeg",
@@ -599,7 +599,7 @@ def get_deck():
          "rdesc": "(similar to upright) Duality. Two options or two elements. Collaborating while keeping distance. A winding road, advancing in complex ways. Recognition and acknowledgment.",
          "sequence": 70,
          "golden_dawn": "harmonious change",
-         "qabalah": "Jupiter in Capricorn",
+         "qabalah": "♃ in ♑︎ (Jupiter in Capricorn)",
          "cardtype": "minor"},
 
         {"name": "Three of Coins", "url": "three_of_coins", "image": "images/pe03.jpeg",
@@ -607,7 +607,7 @@ def get_deck():
          "rdesc": "Disappointment, a partnership or a project does not bear the expected fruits.",
          "sequence": 71,
          "golden_dawn": "material works",
-         "qabalah": "Mars in Capricorn",
+         "qabalah": "♂ in ♑︎ (Mars in Capricorn)",
          "cardtype": "minor"},
 
         {"name": "Four of Coins", "url": "four_of_coins", "image": "images/pe04.jpeg",
@@ -615,7 +615,7 @@ def get_deck():
          "rdesc": "Conservatism, clinging to old and outdated patterns.",
          "sequence": 72,
          "golden_dawn": "earthly power",
-         "qabalah": "Sun in Capricorn",
+         "qabalah": "☉ in ♑︎ (Sun in Capricorn)",
          "cardtype": "minor"},
 
         {"name": "Five of Coins", "url": "five_of_coins", "image": "images/pe05.jpeg",
@@ -623,7 +623,7 @@ def get_deck():
          "rdesc": "(similar to upright) Disruption. Something new appears and destabilizes existing structures. A new element gets attention, but also awakens resistance.",
          "sequence": 73,
          "golden_dawn": "material trouble",
-         "qabalah": "Mercury in Taurus",
+         "qabalah": "☿ in ♉︎ (Mercury in Taurus)",
          "cardtype": "minor"},
 
         {"name": "Six of Coins", "url": "six_of_coins", "image": "images/pe06.jpeg",
@@ -631,7 +631,7 @@ def get_deck():
          "rdesc": "(similar to upright) Expansion. Abundance of resources and possible ways to advance. A positive outlook, success. A good balance between stability and movement.",
          "sequence": 74,
          "golden_dawn": "material success",
-         "qabalah": "Moon in Taurus",
+         "qabalah": "☾ in ♉︎ (Moon in Taurus)",
          "cardtype": "minor"},
 
         {"name": "Seven of Coins", "url": "seven_of_coins", "image": "images/pe07.jpeg",
@@ -639,7 +639,7 @@ def get_deck():
          "rdesc": "Lack of independence, need to rely on help and acceptance from others.",
          "sequence": 75,
          "golden_dawn": "success unfulfilled",
-         "qabalah": "Saturn in Taurus",
+         "qabalah": "♄ in ♉︎ (Saturn in Taurus)",
          "cardtype": "minor"},
 
         {"name": "Eight of Coins", "url": "eight_of_coins", "image": "images/pe08.jpeg",
@@ -647,7 +647,7 @@ def get_deck():
          "rdesc": "(similar to upright) Uniformity. A mechanical structure. Practical considerations prove efficient, but lack a human touch. Routine work. A slow and patient advance.",
          "sequence": 76,
          "golden_dawn": "prudence",
-         "qabalah": "Sun in Virgo",
+         "qabalah": "☉ in ♍︎ (Sun in Virgo)",
          "cardtype": "minor"},
 
         {"name": "Nine of Coins", "url": "nine_of_coins", "image": "images/pe09.jpeg",
@@ -655,7 +655,7 @@ def get_deck():
          "rdesc": "(similar to upright) Motivation. Carving a niche for oneself in an existing system. Ambition. Endurance and independent thinking bear long-term fruits.",
          "sequence": 77,
          "golden_dawn": "material gain",
-         "qabalah": "Venus in Virgo",
+         "qabalah": "♀ in ♍︎ (Venus in Virgo)",
          "cardtype": "minor"},
 
         {"name": "Ten of Coins", "url": "ten_of_coins", "image": "images/pe10.jpeg",
@@ -663,7 +663,7 @@ def get_deck():
          "rdesc": "(similar to upright) Abundance. Intensive activity in practical affairs. Material success and achievements. Some may be getting more than others.",
          "sequence": 78,
          "golden_dawn": "wealth",
-         "qabalah": "Mercury in Virgo",
+         "qabalah": "☿ in ♍︎ (Mercury in Virgo)",
          "cardtype": "minor"}
 
     ]
