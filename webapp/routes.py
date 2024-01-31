@@ -30,6 +30,7 @@ def reading_list():
 def one_card():
 	my_deck = cards.get_deck()
 	my_card = cards.get_card(my_deck)
+
 	if my_card[0]['cardtype'] == "major" :
 		return render_template("one_card.html",
 								name = my_card[0]['name'],
@@ -84,9 +85,9 @@ def specific_card(card_url):
 								title = my_card['name'],
 								meaning = my_card['desc'],
 								message = my_card['message'],
-							    hebrew_letter=my_card['hebrew_letter'],
 							    reversed_meaning = my_card['rdesc'],
 								golden_dawn = my_card['golden_dawn'],
+								qabalah=my_card['qabalah'],
 								image = my_card['image'],
 							    previous = previous_card_url,
 							    next = next_card_url,
@@ -99,6 +100,7 @@ def specific_card(card_url):
 								meaning = my_card['desc'],
 								reversed_meaning = my_card['rdesc'],
 								golden_dawn = my_card['golden_dawn'],
+								qabalah=my_card['qabalah'],
 								image = my_card['image'],
 							    previous = previous_card_url,
 							    next = next_card_url,

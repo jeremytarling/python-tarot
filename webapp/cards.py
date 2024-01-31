@@ -26,7 +26,7 @@ def get_deck():
          "rdesc": "Difficulty in choosing and committing oneself to something stable. Restlessness. Lack of purpose. Getting lost. Foolish behavior. Eccentricity, lack of acceptance by the social environment. Difficulty in planning ahead.",
          "sequence": 21,
          "golden_dawn": "The Spirit of Aether",
-         "hebrew_letter": "Shin - &#64299;",
+         "qabalah": "Shin - &#64299;",
          "cardtype": "major"},
 
         {"name": "The Magician", "url": "the_magician", "image": "images/01.jpeg",
@@ -35,7 +35,7 @@ def get_deck():
          "rdesc": "Trickery, sleight of hand, cheating. Showing off, pretending. Lack of self-awareness about body, sexuality, or basic motives. Near miss due to inexperience or inaccuracy.",
          "sequence": 1,
          "golden_dawn": "The Magus of Power",
-         "hebrew_letter": "Aleph - &#1488;",
+         "qabalah": "Aleph - &#1488;",
          "cardtype": "major"},
 
         {"name": "The Popess", "url": "the_popess", "image": "images/02.jpeg",
@@ -44,7 +44,7 @@ def get_deck():
          "rdesc": "Need to hide our true nature behind the conventions of normal society. Conservative approach to sex and the body. Emotional blockage.",
          "sequence": 2,
          "golden_dawn": "The Priestess of the Silver Star",
-         "hebrew_letter": "Beth - &#1489;",
+         "qabalah": "Beth - &#1489;",
          "cardtype": "major"},
 
         {"name": "The Empress", "url": "the_empress", "image": "images/03.jpeg",
@@ -53,7 +53,7 @@ def get_deck():
          "rdesc": "Impulsive behavior, someone difficult to reason with. Over-protectiveness, excessive involvement in the life of others. Problems with a strong mother figure.",
          "sequence": 3,
          "golden_dawn": "The Daughter of the Mighty Ones",
-         "hebrew_letter": "Gimmel - &#1490;",
+         "qabalah": "Gimmel - &#1490;",
          "cardtype": "major"},
 
         {"name": "The Emperor", "url": "the_emperor", "image": "images/04.jpeg",
@@ -62,7 +62,7 @@ def get_deck():
          "rdesc": "Belligerence, violence, trying to solve things by brute force. Dictatorship. Possibility of sexual abuse. Difficulty in coping with a dominant father figure. Denial and hiding of inner weaknesses.",
          "sequence": 4,
          "golden_dawn": "Sun of the Morning; Chief Among the Mighty",
-         "hebrew_letter": "Daleth - &#1491;",
+         "qabalah": "Daleth - &#1491;",
          "cardtype": "major"},
 
         {"name": "The Pope", "url": "the_pope", "image": "images/05.jpeg",
@@ -71,7 +71,7 @@ def get_deck():
          "rdesc": "Excessive adhesion to conventions and outdated norms. Bureaucracy, an oppressive establishment. Hypocrisy, discrimination. Divorce.",
          "sequence": 5,
          "golden_dawn": "The Magus of the Eternal",
-         "hebrew_letter": "Heh - &#1492;",
+         "qabalah": "Heh - &#1492;",
          "cardtype": "major"},
 
         {"name": "The Lover", "url": "the_lover", "image": "images/06.jpeg",
@@ -80,7 +80,7 @@ def get_deck():
          "rdesc": "Complex relationship between several people, e.g., a romantic triangle or a tension between mother and wife. Hesitation, quandary. Confusion as to one’s own feeling and will.",
          "sequence": 6,
          "golden_dawn": "The Children of the Voice; The Oracles of the Mighty Gods",
-         "hebrew_letter": "Vav - &#1493;",
+         "qabalah": "Vav - &#1493;",
          "cardtype": "major"},
 
         {"name": "The Chariot", "url": "the_chariot", "image": "images/07.jpeg",
@@ -89,7 +89,7 @@ def get_deck():
          "rdesc": "Inner weakness hidden behind external show-off. Arrogance, vanity. Over-protectiveness, emotional closure. Confusion about one’s goals. Losing the simple touch with people and reality.",
          "sequence": 7,
          "golden_dawn": "The Child of the Powers of the Waters; The Lord of the Triumph of Light",
-         "hebrew_letter": "Zayin - &#1494;",
+         "qabalah": "Zayin - &#1494;",
          "cardtype": "major"},
 
         {"name": "Justice", "url": "justice", "image": "images/08.jpeg",
@@ -98,7 +98,7 @@ def get_deck():
          "rdesc": "Petty accountability, a critical and judgmental attitude, guilt feelings. Repressive control of self and of others. Negative ideas blocking change and advance.",
          "sequence": 8,
          "golden_dawn": "The Daughter of the Lords of Truth; The Ruler of the Balance",
-         "hebrew_letter": "Cheth - &#1495;",
+         "qabalah": "Cheth - &#1495;",
          "cardtype": "major"},
 
         {"name": "The Hermit", "url": "the_hermit", "image": "images/09.jpeg",
@@ -107,7 +107,7 @@ def get_deck():
          "desc": "A quest for truth or for spiritual understanding. Concentrating on a clear purpose. Caution, careful examination. Self-privation for the sake of a meaningful cause. Loyalty to principles, strong faith.",
          "sequence": 9,
          "golden_dawn": "The Magus of the Voice of Power; The Prophet of the Eternal",
-         "hebrew_letter": "Teth - &#1496;",
+         "qabalah": "Teth - &#1496;",
          "cardtype": "major"},
 
         {"name": "Wheel of Fortune", "url": "the_wheel_of_fortune", "image": "images/10.jpeg",
@@ -116,7 +116,7 @@ def get_deck():
          "rdesc": "A decline after a period of rising. Danger lurks at the summit. Moving in a closed circle. Capricious mood changes. Feeling powerless to affect one’s situation.",
          "sequence": 10,
          "golden_dawn": "The Lord of the Forces of Life",
-         "hebrew_letter": "Yod - &#1497;",
+         "qabalah": "Yod - &#1497;",
          "cardtype": "major"},
 
         {"name": "Strength", "url": "strength", "image": "images/11.jpeg",
@@ -125,7 +125,7 @@ def get_deck():
          "rdesc": "The need to keep things under control leads to constant tensions. A risk of losing one’s grip. Internal conflicts and unrealistic assessment of one’s own forces may lead to failure.",
          "sequence": 11,
          "golden_dawn": "The Daughter of the Flaming Sword",
-         "hebrew_letter": "Kaph - &#1499;",
+         "qabalah": "Kaph - &#1499;",
          "cardtype": "major"},
 
         {"name": "The Hanged Man", "url": "the_hanged_man", "image": "images/12.jpeg",
@@ -134,7 +134,7 @@ def get_deck():
          "rdesc": "Isolation. Emotional stance of a victim. Inability to act. Denying one’s own unique qualities, striving to be “normal” at all costs. Living in one’s private and imaginary reality.",
          "sequence": 12,
          "golden_dawn": "The Spirit of the Mighty Waters",
-         "hebrew_letter": "Lamed - &#1500;",
+         "qabalah": "Lamed - &#1500;",
          "cardtype": "major"},
 
         {"name": " ", "url": "13", "image": "images/13.jpeg",
@@ -143,7 +143,7 @@ def get_deck():
          "rdesc": "Difficulty in coping with loss or change. Temporary difficulties, a trying challenge. Disintegration. Realisation of a painful truth. Does not predict future death, but may reflect anxiety about dying or mourning over a loss which has already happened.",
          "sequence": 13,
          "golden_dawn": "The Child of the Great Transformers; The Lord of the Gates of Death",
-         "hebrew_letter": "Mem - &#1502;",
+         "qabalah": "Mem - &#1502;",
          "cardtype": "major"},
 
         {"name": "Temperance", "url": "temperance", "image": "images/14.jpeg",
@@ -152,7 +152,7 @@ def get_deck():
          "rdesc": "Going back and forth without making real progress. Losing patience with a lengthy process. Emotional preoccupation with oneself, pushing away others who might come to help.",
          "sequence": 14,
          "golden_dawn": "The Daughter of the Reconcilers; The BringerForth of Life",
-         "hebrew_letter": "Nun - &#1504;",
+         "qabalah": "Nun - &#1504;",
          "cardtype": "major"},
 
         {"name": "The Devil", "url": "the_devil", "image": "images/15.jpeg",
@@ -161,7 +161,7 @@ def get_deck():
          "rdesc": "Temptation, attraction to the dark and forbidden. Exploitation, egotism, domination. Compulsive self-gratification. Senseless behavior has its price. Difficulty in detaching oneself from an unhealthy bond.",
          "sequence": 15,
          "golden_dawn": "The Lord of the Gates of Matter; The Child of the Forces of Time",
-         "hebrew_letter": "Samek - &#1505;",
+         "qabalah": "Samek - &#1505;",
          "cardtype": "major"},
 
         {"name": "The House of God", "url": "the_house_of_god", "image": "images/16.jpeg",
@@ -170,7 +170,7 @@ def get_deck():
          "rdesc": "Shock, collapse of projects or trusted structures. A fall from an apparently solid and secure position. Chaos, confusion, difficulty in understanding what is going on. Vanity and pride lead to failure.",
          "sequence": 16,
          "golden_dawn": "The Lord of the Hosts of the Mighty",
-         "hebrew_letter": "Ayin - &#1506;",
+         "qabalah": "Ayin - &#1506;",
          "cardtype": "major"},
 
         {"name": "The Star", "url": "the_star", "image": "images/17.jpeg",
@@ -179,7 +179,7 @@ def get_deck():
          "rdesc": "Naive optimism and wishful-thinking. Exposing oneself to danger or abuse. Difficulty in setting proper boundaries. Squandering, wastefulness.",
          "sequence": 17,
          "golden_dawn": "The Daughter of the Firmament; The Dweller Between the Waters",
-         "hebrew_letter": "Peh - &#1508;",
+         "qabalah": "Peh - &#1508;",
          "cardtype": "major"},
 
         {"name": "The Moon", "url": "the_moon", "image": "images/18.jpeg",
@@ -188,7 +188,7 @@ def get_deck():
          "rdesc": "Vague and disturbing feelings. Emotional difficulties, a period of depression. Danger lurking under the surface. Retreat, the road ahead is hard to find.",
          "sequence": 18,
          "golden_dawn": "The Ruler of Flux & Reflux; The Child of the Sons of the Mighty",
-         "hebrew_letter": "Tzaddi - &#1510;",
+         "qabalah": "Tzaddi - &#1510;",
          "cardtype": "major"},
 
         {"name": "The Sun", "url": "the_sun", "image": "images/19.jpeg",
@@ -197,7 +197,7 @@ def get_deck():
          "rdesc": "Living in a limited space, difficulty to face reality “in the open.” Immaturity, dependence on others. Someone or something too intense and energetic to feel comfortable with. An absent father.",
          "sequence": 19,
          "golden_dawn": "The Lord of the Fire of the World",
-         "hebrew_letter": "Qoph - &#1511;",
+         "qabalah": "Qoph - &#1511;",
          "cardtype": "major"},
 
         {"name": "Judgement", "url": "judgement", "image": "images/20.jpeg",
@@ -206,7 +206,7 @@ def get_deck():
          "rdesc": "Revelation of something that should have been kept hidden. Lack of privacy. Unpleasant realization. Problems related to child-parent relations. Too much noise and drama.",
          "sequence": 20,
          "golden_dawn": "The Spirit of the Primal Fire",
-         "hebrew_letter": "Resh - &#1512;",
+         "qabalah": "Resh - &#1512;",
          "cardtype": "major"},
 
         {"name": "The World", "url": "the_world", "image": "images/21.jpeg",
@@ -215,7 +215,7 @@ def get_deck():
          "rdesc": "Life in a bubble, difficulty in sharing your world with others. Disconnection of inner feelings from external life. Preoccupation with oneself, idealized self-image, inability to move forward.",
          "sequence": 22,
          "golden_dawn": "The Great One of the Night of Time",
-         "hebrew_letter": "Tav - &#1514;",
+         "qabalah": "Tav - &#1514;",
          "cardtype": "major"},
 
         {"name": "Ace of Clubs", "url": "ace_of_clubs", "image": "images/wa01.jpeg",
@@ -223,6 +223,7 @@ def get_deck():
          "rdesc": "Lack of energy, restriction, repressed sexuality, a creative block.",
          "sequence": 23,
          "golden_dawn": "The Root of the Powers of Fire",
+         "qabalah": "&#x1f702; (Fire) of Kether",
          "cardtype": "ace"},
 
         {"name": "Two of Clubs", "url": "two_of_clubs", "image": "images/wa02.jpeg",
@@ -230,6 +231,7 @@ def get_deck():
          "rdesc": "(similar to upright) Crossroads. Several options or ways to choose from. Every course offers benefits. A brief encounter with someone going his own way. Blocking an opponent’s line of advance.",
          "sequence": 24,
          "golden_dawn": "dominion",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Three of Clubs", "url": "three_of_clubs", "image": "images/wa03.jpeg",
@@ -237,6 +239,7 @@ def get_deck():
          "rdesc": "(similar to upright) Direction. Moving forward after a moment of hesitation. Finding a middle path between two courses of action. Gaining an advantage by keeping neutrality between two conflicting sides.",
          "sequence": 25,
          "golden_dawn": "established strength",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Four of Clubs", "url": "four_of_clubs", "image": "images/wa04.jpeg",
@@ -244,6 +247,7 @@ def get_deck():
          "rdesc": "(similar to upright) Stalemate. A temporary stop in order to prepare for future advancement. Tensions at present, but good prospects in the long run. Making a move now is in nobody’s interest.",
          "sequence": 26,
          "golden_dawn": "perfected work",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Five of Clubs", "url": "five_of_clubs", "image": "images/wa05.jpeg",
@@ -251,6 +255,7 @@ def get_deck():
          "rdesc": "With the covering part of the central wand below – walking into a complex situation, losing one’s edge.",
          "sequence": 27,
          "golden_dawn": "strife",
+         "qabalah": "1st decante of Leo, ruled by Saturn",
          "cardtype": "minor"},
 
         {"name": "Six of Clubs", "url": "six_of_clubs", "image": "images/wa06.jpeg",
@@ -258,6 +263,7 @@ def get_deck():
          "rdesc": "With the decorated flower at the bottom – excessive pursuit of luxury. Need to break up an alliance of opponents.",
          "sequence": 28,
          "golden_dawn": "victory",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Seven of Clubs", "url": "seven_of_clubs", "image": "images/wa07.jpeg",
@@ -265,6 +271,7 @@ def get_deck():
          "rdesc": "(similar to upright) Struggle. Someone putting up a fight against many opponents. Obstinacy, endurance, keeping one’s position in a conflict situation. A difficult combat with an uncertain outcome.",
          "sequence": 29,
          "golden_dawn": "valour",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Eight of Clubs", "url": "eight_of_clubs", "image": "images/wa08.jpeg",
@@ -272,6 +279,7 @@ def get_deck():
          "rdesc": "(similar to upright) Regulation. It is possible to advance only by following the rules. Occupation with short-term goals while losing the long-term perspective. A roadblock.",
          "sequence": 30,
          "golden_dawn": "swiftness",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Nine of Clubs", "url": "nine_of_clubs", "image": "images/wa09.jpeg",
@@ -279,6 +287,7 @@ def get_deck():
          "rdesc": "(similar to upright) Interruption. Difficulties and oppositions too hard to overcome. Giving up one’s projects to avoid conflict. Starting anew after a challenging period.",
          "sequence": 31,
          "golden_dawn": "great strength",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Ten of Clubs", "url": "ten_of_clubs", "image": "images/wa10.jpeg",
@@ -286,6 +295,7 @@ def get_deck():
          "rdesc": "(similar to upright) Loyalty. A partnership or an alliance endures hardships and succeeds in getting over them. Pure intentions and perseverance lead to success. Honoring one’s principles in spite of difficulties.",
          "sequence": 32,
          "golden_dawn": "oppression",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Page of Clubs", "url": "page_of_clubs", "image": "images/wapa.jpeg",
@@ -293,6 +303,7 @@ def get_deck():
          "rdesc": "A task too heavy for the querent’s strength. Difficulty in controlling desires and urges. Immature approach to sexuality.",
          "sequence": 33,
          "golden_dawn": "The Princess of the Shining Flame: the Rose of the Palace of Fire.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Knight of Clubs", "url": "knight_of_clubs", "image": "images/wakn.jpeg",
@@ -300,6 +311,7 @@ def get_deck():
          "rdesc": "Preoccupation with the satisfaction of one’s own desires. Problem in defining long-term goals. Submitting to temptation.",
          "sequence": 34,
          "golden_dawn": "The Prince of the Chariot of Fire.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Queen of Clubs", "url": "queen_of_clubs", "image": "images/waqu.jpeg",
@@ -307,6 +319,7 @@ def get_deck():
          "rdesc": "Intimidation, menace. Using sexuality as a means of control. Problems with a strong mother figure. Fear of feminine power.",
          "sequence": 35,
          "golden_dawn": "The Queen of the Thrones of Flame.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "King of Clubs", "url": "king_of_clubs", "image": "images/waki.jpeg",
@@ -314,6 +327,7 @@ def get_deck():
          "rdesc": "Plans to move forward are frustrated by self-defeating acts. Hesitation, conflicts, tendency to make things too heavy and complex.",
          "sequence": 36,
          "golden_dawn": "The Lord of the Flame & Lightning: the King of the Spirits of Fire.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Ace of Cups", "url": "ace_of_cups", "image": "images/cu01.jpeg",
@@ -321,6 +335,7 @@ def get_deck():
          "rdesc": "Emotional dryness, feeling oneself empty. Avoidance of intimacy, negative feelings, heartbreak.",
          "sequence": 37,
          "golden_dawn": "The Root of the Powers of Water",
+         "qabalah": "&#x1f704; (Water) of Kether",
          "cardtype": "ace"},
 
         {"name": "Two of Cups", "url": "two_of_cups", "image": "images/cu02.jpeg",
@@ -328,6 +343,7 @@ def get_deck():
          "rdesc": "A crisis in a couple relationship, disappointment with someone close to you.",
          "sequence": 38,
          "golden_dawn": "love",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Three of Cups", "url": "three_of_cups", "image": "images/cu03.jpeg",
@@ -335,6 +351,7 @@ def get_deck():
          "rdesc": "Problems in relations with one’s parents, or with one’s child. A strong alliance of two persons leaves a third one outside.",
          "sequence": 39,
          "golden_dawn": "abundance",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Four of Cups", "url": "four_of_cups", "image": "images/cu04.jpeg",
@@ -342,6 +359,7 @@ def get_deck():
          "rdesc": "Problems and discord in the family or in a long-lasting community. A fixed social structure which doesn’t allow for adaptation or flexibility.",
          "sequence": 40,
          "golden_dawn": "blended pleasure",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Five of Cups", "url": "five_of_cups", "image": "images/cu05.jpeg",
@@ -349,6 +367,7 @@ def get_deck():
          "rdesc": "Excessive preoccupation with social activity. Losing oneself in multiple superficial connections. Cultivating virtual instead of real contacts.",
          "sequence": 41,
          "golden_dawn": "loss in pleasure",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Six of Cups", "url": "six_of_cups", "image": "images/cu06.jpeg",
@@ -356,6 +375,7 @@ def get_deck():
          "rdesc": "Monotony, tedious repetition. Falling time and again into the same emotional traps.",
          "sequence": 42,
          "golden_dawn": "pleasure",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Seven of Cups", "url": "seven_of_cups", "image": "images/cu07.jpeg",
@@ -363,6 +383,7 @@ def get_deck():
          "rdesc": "Problems of integration in a group or an organization. Being part of a collective, but feeling isolated and estranged.",
          "sequence": 43,
          "golden_dawn": "illusionary success",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Eight of Cups", "url": "eight_of_cups", "image": "images/cu08.jpeg",
@@ -370,6 +391,7 @@ def get_deck():
          "rdesc": "Interference of the environment in a couple’s relationships. Pressures from one’s family in romantic or personal matters.",
          "sequence": 44,
          "golden_dawn": "abandoned success",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Nine of Cups", "url": "nine_of_cups", "image": "images/cu09.jpeg",
@@ -377,6 +399,7 @@ def get_deck():
          "rdesc": "A confusing social situation, difficulty in situating oneself within a complex environment.",
          "sequence": 45,
          "golden_dawn": "material happiness",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Ten of Cups", "url": "ten_of_cups", "image": "images/cu10.jpeg",
@@ -384,6 +407,7 @@ def get_deck():
          "rdesc": "A fallen leader, loss of popularity. Disappointment because of ingratitude by people one has helped.",
          "sequence": 46,
          "golden_dawn": "perfected success",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Page of Cups", "url": "page_of_cups", "image": "images/cupa.jpeg",
@@ -391,6 +415,7 @@ def get_deck():
          "rdesc": "Over-absorption in one’s personal feelings, losing contact with others. Sloppiness in practical affairs.",
          "sequence": 47,
          "golden_dawn": "The Princess of the Waters: the Lotus of the Palace of the Floods.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Knight of Cups", "url": "knight_of_cups", "image": "images/cukn.jpeg",
@@ -398,6 +423,7 @@ def get_deck():
          "rdesc": "Superficial and unstable feelings. An over-optimistic but unrealistic attitude. An overt display of shallow or insincere feelings. ",
          "sequence": 48,
          "golden_dawn": "The Prince of the Chariot of the Waters.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Queen of Cups", "url": "queen_of_cups", "image": "images/cuqu.jpeg",
@@ -405,6 +431,7 @@ def get_deck():
          "rdesc": "Closure, defensiveness. Distrust of others due to negative past experiences. Hiding one’s emotions under guise of rational criticism.",
          "sequence": 49,
          "golden_dawn": "The Queen of the Thrones of the Waters.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "King of Cups", "url": "king_of_cups", "image": "images/cuki.jpeg",
@@ -412,6 +439,7 @@ def get_deck():
          "rdesc": "Difficulty in overcoming an emotional blow. A pessimistic outlook caused by negative past experiences. ",
          "sequence": 50,
          "golden_dawn": "The Lord of the Waves of the Waters: the King of the Hosts of the Sea.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Ace of Swords", "url": "ace_of_swords", "image": "images/sw01.jpeg",
@@ -419,6 +447,7 @@ def get_deck():
          "rdesc": "Negative and unproductive thoughts. Misconceptions, delusions. Self-defeat. Injury.",
          "sequence": 51,
          "golden_dawn": "The Root of the Powers of Air",
+         "qabalah": "&#x1f701; (Air) of Kether",
          "cardtype": "ace"},
 
         {"name": "Two of Swords", "url": "two_of_swords", "image": "images/sw02.jpeg",
@@ -426,6 +455,7 @@ def get_deck():
          "rdesc": "(similar to upright) Boundaries. Limits that protect and define something which is in development. Making full use of the present situation. Preparations for future advancement. A clear view encompassing the overall situation.",
          "sequence": 52,
          "golden_dawn": "peace restored",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Three of Swords", "url": "three_of_swords", "image": "images/sw03.jpeg",
@@ -433,6 +463,7 @@ def get_deck():
          "rdesc": "A failure, defeat from a weaker opponent. An unsuccessful attempt to make a decisive move.",
          "sequence": 53,
          "golden_dawn": "sorrow",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Four of Swords", "url": "four_of_swords", "image": "images/sw04.jpeg",
@@ -440,6 +471,7 @@ def get_deck():
          "rdesc": "Confinement and blocking, lack of motivation or energy to break out of a limited situation.",
          "sequence": 54,
          "golden_dawn": "rest from strife",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Five of Swords", "url": "five_of_swords", "image": "images/sw05.jpeg",
@@ -447,6 +479,7 @@ def get_deck():
          "rdesc": "A failed initiative to change the situation. Stubbornness leading nowhere. Oppressing factors cannot be removed now.",
          "sequence": 55,
          "golden_dawn": "defeat",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Six of Swords", "url": "six_of_swords", "image": "images/sw06.jpeg",
@@ -454,6 +487,7 @@ def get_deck():
          "rdesc": "Resignation, surrender, giving up the ambition to change things for the better. Lack of fighting spirit.",
          "sequence": 56,
          "golden_dawn": "earned success",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Seven of Swords", "url": "seven_of_swords", "image": "images/sw07.jpeg",
@@ -461,6 +495,7 @@ def get_deck():
          "rdesc": "A narrow and over-concentrated vision. Investing one’s efforts and resources in a lost cause.",
          "sequence": 57,
          "golden_dawn": "unstable effort",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Eight of Swords", "url": "eight_of_swords", "image": "images/sw08.jpeg",
@@ -468,6 +503,7 @@ def get_deck():
          "rdesc": "(similar to upright) Defenses. Putting up shields and blocks. Psychological defense mechanisms. A need to be in total control. A well-guarded treasure. Entering another’s domain with permission.",
          "sequence": 58,
          "golden_dawn": "shortened force",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Nine of Swords", "url": "nine_of_swords", "image": "images/sw09.jpeg",
@@ -475,6 +511,7 @@ def get_deck():
          "rdesc": "Losing against a stronger opponent. Sloppiness, imperfect preparations for a challenge.",
          "sequence": 59,
          "golden_dawn": "despair and cruelty",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Ten of Swords", "url": "ten_of_swords", "image": "images/sw10.jpeg",
@@ -482,6 +519,7 @@ def get_deck():
          "rdesc": "Immobility. Impossible to move now. Feeling attacked from different sides. A painful and humiliating defeat.",
          "sequence": 60,
          "golden_dawn": "ruin",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Page of Swords", "url": "page_of_swords", "image": "images/swpa.jpeg",
@@ -489,6 +527,7 @@ def get_deck():
          "rdesc": "Confusion, negative and inhibiting thoughts, self-defeat. Sloppy use of one’s own tools may cause damage.",
          "sequence": 61,
          "golden_dawn": "The Princess of the Rushing Winds: the Lotus of the Palace of Air.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Knight of Swords", "url": "knight_of_swords", "image": "images/swkn.jpeg",
@@ -496,6 +535,7 @@ def get_deck():
          "rdesc": "Trying to force one’s misguided views, insisting on a wrong direction. Losing touch with the ground.",
          "sequence": 62,
          "golden_dawn": "The Prince of the Chariot of the Winds.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Queen of Swords", "url": "queen_of_swords", "image": "images/swqu.jpeg",
@@ -503,6 +543,7 @@ def get_deck():
          "rdesc": "Defensiveness and rigidity. Suspicion and fixed ideas block advancement and preclude new connections.",
          "sequence": 63,
          "golden_dawn": "The Queen of the Thrones of Air.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "King of Swords", "url": "king_of_swords", "image": "images/swki.jpeg",
@@ -510,6 +551,7 @@ def get_deck():
          "rdesc": "A divided heart, a need to cut off from something to which one is still attached. Over-calculating in a vain attempt to overcome uncertainty.",
          "sequence": 64,
          "golden_dawn": "The Lord of the Wind & the Breezes: the King of the Spirits of Air.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Ace of Coins", "url": "ace_of_coins", "image": "images/pe01.jpeg",
@@ -517,6 +559,7 @@ def get_deck():
          "rdesc": "(similar to upright) A good start in material things. Financial and physical stability. A practical perspective. A significant sum of money. Utilitarian approach. Greed. Something basic and unsophisticated.",
          "sequence": 65,
          "golden_dawn": "The Root of the Powers of Earth",
+         "qabalah": "&#x1f703; (Earth) of Kether",
          "cardtype": "ace"},
 
         {"name": "Two of Coins", "url": "two_of_coins", "image": "images/pe02.jpeg",
@@ -524,6 +567,7 @@ def get_deck():
          "rdesc": "(similar to upright) Duality. Two options or two elements. Collaborating while keeping distance. A winding road, advancing in complex ways. Recognition and acknowledgment.",
          "sequence": 66,
          "golden_dawn": "harmonious change",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Three of Coins", "url": "three_of_coins", "image": "images/pe03.jpeg",
@@ -531,6 +575,7 @@ def get_deck():
          "rdesc": "Disappointment, a partnership or a project does not bear the expected fruits.",
          "sequence": 67,
          "golden_dawn": "material works",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Four of Coins", "url": "four_of_coins", "image": "images/pe04.jpeg",
@@ -538,6 +583,7 @@ def get_deck():
          "rdesc": "Conservatism, clinging to old and outdated patterns.",
          "sequence": 68,
          "golden_dawn": "earthly power",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Five of Coins", "url": "five_of_coins", "image": "images/pe05.jpeg",
@@ -545,6 +591,7 @@ def get_deck():
          "rdesc": "(similar to upright) Disruption. Something new appears and destabilizes existing structures. A new element gets attention, but also awakens resistance.",
          "sequence": 69,
          "golden_dawn": "material trouble",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Six of Coins", "url": "six_of_coins", "image": "images/pe06.jpeg",
@@ -552,6 +599,7 @@ def get_deck():
          "rdesc": "(similar to upright) Expansion. Abundance of resources and possible ways to advance. A positive outlook, success. A good balance between stability and movement.",
          "sequence": 70,
          "golden_dawn": "material success",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Seven of Coins", "url": "seven_of_coins", "image": "images/pe07.jpeg",
@@ -559,6 +607,7 @@ def get_deck():
          "rdesc": "Lack of independence, need to rely on help and acceptance from others.",
          "sequence": 71,
          "golden_dawn": "success unfulfilled",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Eight of Coins", "url": "eight_of_coins", "image": "images/pe08.jpeg",
@@ -566,6 +615,7 @@ def get_deck():
          "rdesc": "(similar to upright) Uniformity. A mechanical structure. Practical considerations prove efficient, but lack a human touch. Routine work. A slow and patient advance.",
          "sequence": 72,
          "golden_dawn": "prudence",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Nine of Coins", "url": "nine_of_coins", "image": "images/pe09.jpeg",
@@ -573,6 +623,7 @@ def get_deck():
          "rdesc": "(similar to upright) Motivation. Carving a niche for oneself in an existing system. Ambition. Endurance and independent thinking bear long-term fruits.",
          "sequence": 73,
          "golden_dawn": "material gain",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Ten of Coins", "url": "ten_of_coins", "image": "images/pe10.jpeg",
@@ -580,6 +631,7 @@ def get_deck():
          "rdesc": "(similar to upright) Abundance. Intensive activity in practical affairs. Material success and achievements. Some may be getting more than others.",
          "sequence": 74,
          "golden_dawn": "wealth",
+         "qabalah": "",
          "cardtype": "minor"},
 
         {"name": "Page of Coins", "url": "page_of_coins", "image": "images/pepa.jpeg",
@@ -587,6 +639,7 @@ def get_deck():
          "rdesc": "Hesitation, lack of clear purpose. Thinking in terms of past achievements misses present opportunities.",
          "sequence": 75,
          "golden_dawn": "The Princess of the Echoing Hills: the Rose of the Palace of Earth.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Knight of Coins", "url": "knight_of_coins", "image": "images/pekn.jpeg",
@@ -594,6 +647,7 @@ def get_deck():
          "rdesc": "Constant pursuit of money, without reaching material stability. Passions and desires may interfere with practical plans.",
          "sequence": 76,
          "golden_dawn": "The Prince of the Chariot of Earth.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "Queen of Coins", "url": "queen_of_coins", "image": "images/pequ.jpeg",
@@ -601,6 +655,7 @@ def get_deck():
          "rdesc": "Conservatism, resistance to change, aiming only to preserve the existing assets. Looking at things only from the material perspective.",
          "sequence": 77,
          "golden_dawn": "The Queen of the Thrones of Earth.",
+         "qabalah": "",
          "cardtype": "court"},
 
         {"name": "King of Coins", "url": "king_of_coins", "image": "images/peki.jpeg",
@@ -608,6 +663,7 @@ def get_deck():
          "rdesc": "Dissatisfaction with what one already has. Disregard of the good things in the present situation. A limited outlook.",
          "sequence": 78,
          "golden_dawn": "The Lord of the Wide & Fertile Land: the King of the Spirits of Earth.",
+         "qabalah": "",
          "cardtype": "court"}
 
     ]
