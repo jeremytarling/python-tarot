@@ -32,7 +32,13 @@
 
 		<h4>hermetic correspondences</h4>
 
-		<p>occult title: {{ golden_dawn }}</p>
+		{% if cardtype == "major": %}
+
+			<p>hebrew letter: <span style="font-size: large">{{ hebrew_letter|safe }}</span></p>
+
+		{% endif %}
+
+		<p>occult title: {{ occult_title }}</p>
 
 		<p>qabalah: {{ qabalah|safe }}</p>
 
