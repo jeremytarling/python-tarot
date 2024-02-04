@@ -89,6 +89,7 @@ def specific_card(card_url):
 								occult_title = my_card['occult_title'],
 								hebrew_letter = my_card['hebrew_letter'],
 								qabalah=my_card['qabalah'],
+								meditation=my_card['meditation'],
 								image = my_card['image'],
 							    previous = previous_card_url,
 							    next = next_card_url,

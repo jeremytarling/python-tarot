@@ -28,6 +28,7 @@ def get_deck():
          "occult_title": "The Magus of Power",
          "qabalah": "from Kether to Tiphareth",
          "hebrew_letter": "&#1488;",
+         "meditation" : "The wind blows where it wills, and you hear the sound of it,\nbut you do not know whence it comes or whither it goes;\nso it is with every one who is born of the Spirit.\n(John 3:8)",
          "cardtype": "major"},
 
         {"name": "The Popess", "url": "the_popess", "image": "images/02.jpeg",
@@ -38,6 +39,7 @@ def get_deck():
          "occult_title": "The Priestess of the Silver Star",
          "qabalah": "from Kether to Chokmah",
          "hebrew_letter": "&#1489;",
+         "meditation" : "Wisdom has built her house,\nshe has set up seven pillars.\n(Proverbs 9:1)",
          "cardtype": "major"},
 
         {"name": "The Empress", "url": "the_empress", "image": "images/03.jpeg",
@@ -48,6 +50,7 @@ def get_deck():
          "occult_title": "The Daughter of the Mighty Ones",
          "qabalah": "from Kether to Binah",
          "hebrew_letter": "&#1490;",
+         "meditation" : "Behold the handmaid of the Lord;\nlet it be unto me according to your word.\n(Luke 1:38)",
          "cardtype": "major"},
 
         {"name": "The Emperor", "url": "the_emperor", "image": "images/04.jpeg",
@@ -58,6 +61,7 @@ def get_deck():
          "occult_title": "Sun of the Morning; Chief Among the Mighty",
          "qabalah": "between Chokmah and Binah",
          "hebrew_letter": "&#1491;",
+         "meditation" : "Blessed is he who comes in the name of the Lord.\n(Luke 13:35)",
          "cardtype": "major"},
 
         {"name": "The Pope", "url": "the_pope", "image": "images/05.jpeg",
@@ -68,6 +72,7 @@ def get_deck():
          "occult_title": "The Magus of the Eternal",
          "qabalah": "from Tiphareth to Chokmah",
          "hebrew_letter": "&#1492;",
+         "meditation" : "I am the way, and the truth, and the life.\nNo-one comes to the Father but by me.\n(John 14:6)",
          "cardtype": "major"},
 
         {"name": "The Lover", "url": "the_lover", "image": "images/06.jpeg",
@@ -78,6 +83,7 @@ def get_deck():
          "occult_title": "The Children of the Voice; The Oracles of the Mighty Gods",
          "qabalah": "from Binah to Tiphareth",
          "hebrew_letter": "&#1493;",
+         "meditation" : "I, Wisdom, dwell in prudence,\nand I posess knowledge and discretion...\nI love those who love me,\nand those who seek me find me.\n(Proverbs 7:12,17)",
          "cardtype": "major"},
 
         {"name": "The Chariot", "url": "the_chariot", "image": "images/07.jpeg",
@@ -88,6 +94,7 @@ def get_deck():
          "occult_title": "The Child of the Powers of the Waters; The Lord of the Triumph of Light",
          "qabalah": "from Binah to Geburah",
          "hebrew_letter": "&#1494;",
+         "meditation" : "Then the devil left him, and behold,\nAngels came and ministered to him.\n(Matther 3:11)",
          "cardtype": "major"},
 
         {"name": "Justice", "url": "justice", "image": "images/08.jpeg",
@@ -98,6 +105,7 @@ def get_deck():
          "occult_title": "The Daughter of the Lords of Truth; The Ruler of the Balance",
          "qabalah": "from Chesed to Chokmah",
          "hebrew_letter": "&#1495;",
+         "meditation" : "The Son and the Spirit — this is all that is granted to us.\nWith respect to absolute unity or the Father, no one has been able to see him nor will see him in this world,\nif this is not within the octenary—which is, in fact, the only way whereby one could attain to him.\n(Louis Claude de Saint-Martin, Des nombres)",
          "cardtype": "major"},
 
         {"name": "The Hermit", "url": "the_hermit", "image": "images/09.jpeg",
@@ -108,6 +116,7 @@ def get_deck():
          "occult_title": "The Magus of the Voice of Power; The Prophet of the Eternal",
          "qabalah": "between Geburah and Chesed",
          "hebrew_letter": "&#1496;",
+         "meditation" : "For the gate is narrow and the way is hard that leads to life,\nand those who find it are few.\n(Matthew 7:14)",
          "cardtype": "major"},
 
         {"name": "The Wheel of Fortune", "url": "the_wheel_of_fortune", "image": "images/10.jpeg",
@@ -118,6 +127,7 @@ def get_deck():
          "occult_title": "The Lord of the Forces of Life",
          "qabalah": "from Tiphareth to Chesed",
          "hebrew_letter": "&#1497;",
+         "meditation" : "Vanity of vanities, all is vanity...\nWhat has been is what will be,\nand what has been done is what will be done;\nand there is nothing new under the sun.\n(Ecclesiastes 1:2,9)",
          "cardtype": "major"},
 
         {"name": "Strength", "url": "strength", "image": "images/11.jpeg",
@@ -128,6 +138,7 @@ def get_deck():
          "occult_title": "The Daughter of the Flaming Sword",
          "qabalah": "from Geburah to Tiphareth",
          "hebrew_letter": "&#1499;",
+         "meditation" : "This is the strongest of all powers, the force of all forces;\nit overcomes every subtle thing and penetrates every solid.\n(the Emerald Tablet, 9)",
          "cardtype": "major"},
 
         {"name": "The Hanged Man", "url": "the_hanged_man", "image": "images/12.jpeg",
@@ -138,6 +149,7 @@ def get_deck():
          "occult_title": "The Spirit of the Mighty Waters",
          "qabalah": "from Netzach to Chesed",
          "hebrew_letter": "&#1500;",
+         "meditation" : "Foxes have holes, and birds of the air have nests;\nbut the Son of man has nowhere to lay his head.\n(Matthew viii. 20)",
          "cardtype": "major"},
 
         {"name": "13", "url": "13", "image": "images/13.jpeg",
@@ -148,6 +160,7 @@ def get_deck():
          "occult_title": "The Child of the Great Transformers; The Lord of the Gates of Death",
          "qabalah": "from Hod to Geburah",
          "hebrew_letter": "&#1502;",
+         "meditation" : "And the woman said to the serpent \"We may eat of the fruit of the trees of the garden,\nbut God said 'You shall not eat of the fruit of the tree which is in the midst of the garden,\nneither shall you touch it, lest you die.'\"\nBut the serpent said to the woman \"You will not die.\nFor God knows that when you eat of it your eyes will be opened,\nand you will be as gods, knowing good and evil.\"\n(Genesis 3:2-5)",
          "cardtype": "major"},
 
         {"name": "Temperance", "url": "temperance", "image": "images/14.jpeg",
@@ -158,6 +171,7 @@ def get_deck():
          "occult_title": "The Daughter of the Reconcilers; The BringerForth of Life",
          "qabalah": "from Netzach to Tiphareth",
          "hebrew_letter": "&#1504;",
+         "meditation" : "Everyone who drinks of this water will thirst again,\nbut whoever drinks of the water that I shall give him will never thirst;\nthe water that I shall give him will become in him a spring of water welling up to eternal life.\n(John 4:13-14)",
          "cardtype": "major"},
 
         {"name": "The Devil", "url": "the_devil", "image": "images/15.jpeg",
@@ -168,6 +182,7 @@ def get_deck():
          "occult_title": "The Lord of the Gates of Matter; The Child of the Forces of Time",
          "qabalah": "from Tiphareth to Hod",
          "hebrew_letter": "&#1505;",
+         "meditation" : "",
          "cardtype": "major"},
 
         {"name": "The House of God", "url": "the_house_of_god", "image": "images/16.jpeg",
@@ -178,6 +193,7 @@ def get_deck():
          "occult_title": "The Lord of the Hosts of the Mighty",
          "qabalah": "between Netzach and Hod",
          "hebrew_letter": "&#1506;",
+         "meditation" : "He who exalts himself will be abased,\nand he who humbles himself will be exalted.\n(Luke 14:11)",
          "cardtype": "major"},
 
         {"name": "The Star", "url": "the_star", "image": "images/17.jpeg",
@@ -188,6 +204,7 @@ def get_deck():
          "occult_title": "The Daughter of the Firmament; The Dweller Between the Waters",
          "qabalah": "between Hod and Yesod",
          "hebrew_letter": "&#1508;",
+         "meditation" : "The righteous flourish like the palm tree, and grow like a cedar in Lebanon...\nThey still bring forth fruit in old age, they are ever full of sap and green...\n(Psalm 92:12-14)",
          "cardtype": "major"},
 
         {"name": "The Moon", "url": "the_moon", "image": "images/18.jpeg",
@@ -198,6 +215,7 @@ def get_deck():
          "occult_title": "The Ruler of Flux & Reflux; The Child of the Sons of the Mighty",
          "qabalah": "between Yesod and Netzach",
          "hebrew_letter": "&#1510;",
+         "meditation" : "The intellect is characterised by a naturai inability to comprehend life...\nBut it is to the very inwardness of life that intuition leads us —\nby intuition I mean instinct that has become disinterested, self-conscious,\ncapable of reflecting upon its object and of enlarging it indefinitely.\n(Henri Bergson, Creative Evolution)",
          "cardtype": "major"},
 
         {"name": "The Sun", "url": "the_sun", "image": "images/19.jpeg",
@@ -208,6 +226,7 @@ def get_deck():
          "occult_title": "The Lord of the Fire of the World",
          "qabalah": "between Tiphareth and Yesod",
          "hebrew_letter": "&#1511;",
+         "meditation" : "I am the Alpha and the Omega,\nthe first and the last,\nthe beginning and the end.\n(Revelation 22:13)",
          "cardtype": "major"},
 
         {"name": "Judgement", "url": "judgement", "image": "images/20.jpeg",
@@ -218,6 +237,7 @@ def get_deck():
          "occult_title": "The Spirit of the Primal Fire",
          "qabalah": "between Yesod and Malkuth",
          "hebrew_letter": "&#1512;",
+         "meditation" : "For as the Father raises the dead and gives them life,\nso also the Son gives life to whom he will.\nThe Father judges no one,\nbut has given all judgement to the Son...\n(John 5:21-22)",
          "cardtype": "major"},
 
         {"name": "The Fool", "url": "the_fool", "image": "images/00.jpeg",
@@ -228,6 +248,7 @@ def get_deck():
          "occult_title": "The Spirit of Aether",
          "qabalah": "between Malkuth and Netzach",
          "hebrew_letter": "&#64299;",
+         "meditation" : "If any one among you thinks that he is wise in this age,\nlet him become a fool that he may become wise.\nFor the wisdom of this world is folly before God.\n(I Corinthians 3:18-19)",
          "cardtype": "major"},
 
         {"name": "The World", "url": "the_world", "image": "images/21.jpeg",
@@ -238,6 +259,7 @@ def get_deck():
          "occult_title": "The Great One of the Night of Time",
          "qabalah": "between Hod and Malkuth",
          "hebrew_letter": "&#1514;",
+         "meditation" : "Then I was at work beside him,\nand I was daily his delight,\nrejoicing before him always,\nrejoicing in his inhabited world\nand delighting in the sons of men.\n(Proverbs 7 30-31)",
          "cardtype": "major"},
 
         {"name": "King of Clubs", "url": "king_of_clubs", "image": "images/waki.jpeg",

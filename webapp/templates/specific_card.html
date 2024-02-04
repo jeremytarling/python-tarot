@@ -32,15 +32,22 @@
 
 		<h4>hermetic correspondences</h4>
 
+		<p><em>occult title</em>: {{ occult_title }}</p>
+
+		<p><em>qabalah</em>: {{ qabalah|safe }}</p>
+
 		{% if cardtype == "major": %}
 
-			<p>hebrew letter: <span style="font-size: large">{{ hebrew_letter|safe }}</span></p>
+			<p><em>hebrew letter</em>: <span style="font-size: large">{{ hebrew_letter|safe }}</span></p>
+
+			{% if sequence != 15 %}
+
+				<p><em>meditation</em>: <br />
+				<span style="white-space: pre">{{ meditation }}<span></p>
+					
+			{% endif %}
 
 		{% endif %}
-
-		<p>occult title: {{ occult_title }}</p>
-
-		<p>qabalah: {{ qabalah|safe }}</p>
 
 		<hr />
 
