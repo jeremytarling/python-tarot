@@ -105,7 +105,7 @@ def get_deck():
          "occult_title": "The Daughter of the Lords of Truth; The Ruler of the Balance",
          "qabalah": "from Chesed to Chokmah",
          "hebrew_letter": "&#1495;",
-         "meditation" : "The Son and the Spirit — this is all that is granted to us.\nWith respect to absolute unity or the Father, no one has been able to see him nor will see him in this world,\nif this is not within the octenary—which is, in fact, the only way whereby one could attain to him.\n(Louis Claude de Saint-Martin, Des nombres)",
+         "meditation" : "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased:\nI will put my spirit upon him, and he shall show justice to the Gentiles.\n(Matthew 12:18)",
          "cardtype": "major"},
 
         {"name": "The Hermit", "url": "the_hermit", "image": "images/09.jpeg",
