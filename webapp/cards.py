@@ -105,7 +105,7 @@ def get_deck():
          "occult_title": "The Daughter of the Lords of Truth; The Ruler of the Balance",
          "qabalah": "from Chesed to Chokmah",
          "hebrew_letter": "&#1495;",
-         "meditation" : "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased:\nI will put my spirit upon him, and he shall show justice to the Gentiles.\n(Matthew 12:18)",
+         "meditation" : "Behold my servant, whom I have chosen; my beloved,\nin whom my soul is well pleased:\nI will put my spirit upon him,\nand he shall show justice to the gentiles.\n(Matthew 12:18)",
          "cardtype": "major"},
 
         {"name": "The Hermit", "url": "the_hermit", "image": "images/09.jpeg",
