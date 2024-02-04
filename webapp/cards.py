@@ -28,7 +28,7 @@ def get_deck():
          "occult_title": "The Magus of Power",
          "qabalah": "from Kether to Tiphareth",
          "hebrew_letter": "&#1488;",
-         "meditation" : "The wind blows where it wills, and you hear the sound of it,\nbut you do not know whence it comes or whither it goes;\nso it is with every one who is born of the Spirit.\n(John 3:8)",
+         "meditation" : "The wind blows where it wills, and you hear the sound of it\nbut you do not know whence it comes or whither it goes;\nso it is with every one who is born of the Spirit.\n(John 3:8)",
          "cardtype": "major"},
 
         {"name": "The Popess", "url": "the_popess", "image": "images/02.jpeg",
@@ -116,7 +116,7 @@ def get_deck():
          "occult_title": "The Magus of the Voice of Power; The Prophet of the Eternal",
          "qabalah": "between Geburah and Chesed",
          "hebrew_letter": "&#1496;",
-         "meditation" : "For the gate is narrow and the way is hard that leads to life,\nand those who find it are few.\n(Matthew 7:14)",
+         "meditation" : "For the gate is narrow and the way is hard that leads to life\nand those who find it are few.\n(Matthew 7:14)",
          "cardtype": "major"},
 
         {"name": "The Wheel of Fortune", "url": "the_wheel_of_fortune", "image": "images/10.jpeg",
@@ -149,7 +149,7 @@ def get_deck():
          "occult_title": "The Spirit of the Mighty Waters",
          "qabalah": "from Netzach to Chesed",
          "hebrew_letter": "&#1500;",
-         "meditation" : "Foxes have holes, and birds of the air have nests;\nbut the Son of man has nowhere to lay his head.\n(Matthew viii. 20)",
+         "meditation" : "Foxes have holes, and birds of the air have nests;\nbut the Son of man has nowhere to lay his head.\n(Matthew 8:20)",
          "cardtype": "major"},
 
         {"name": "13", "url": "13", "image": "images/13.jpeg",
@@ -160,7 +160,7 @@ def get_deck():
          "occult_title": "The Child of the Great Transformers; The Lord of the Gates of Death",
          "qabalah": "from Hod to Geburah",
          "hebrew_letter": "&#1502;",
-         "meditation" : "And the woman said to the serpent \"We may eat of the fruit of the trees of the garden,\nbut God said 'You shall not eat of the fruit of the tree which is in the midst of the garden,\nneither shall you touch it, lest you die.'\"\nBut the serpent said to the woman \"You will not die.\nFor God knows that when you eat of it your eyes will be opened,\nand you will be as gods, knowing good and evil.\"\n(Genesis 3:2-5)",
+         "meditation" : "And the woman said to the serpent \"We may eat of the\nfruit of the trees of the garden, but God said 'You shall\nnot eat of the fruit of the tree which is in the midst of the\ngarden, neither shall you touch it, lest you die.'\"\nBut the serpent said to the woman \"You will not die.\nFor God knows that when you eat of it your eyes will be\nopened, and you will be as gods, knowing good and evil.\"\n(Genesis 3:2-5)",
          "cardtype": "major"},
 
         {"name": "Temperance", "url": "temperance", "image": "images/14.jpeg",
@@ -171,7 +171,7 @@ def get_deck():
          "occult_title": "The Daughter of the Reconcilers; The BringerForth of Life",
          "qabalah": "from Netzach to Tiphareth",
          "hebrew_letter": "&#1504;",
-         "meditation" : "Everyone who drinks of this water will thirst again,\nbut whoever drinks of the water that I shall give him will never thirst;\nthe water that I shall give him will become in him a spring of water welling up to eternal life.\n(John 4:13-14)",
+         "meditation" : "Everyone who drinks of this water will thirst again,\nbut whoever drinks of the water that I shall give him\nwill never thirst; the water that I shall give him will\nbecome in him a spring of water welling up to eternal life.\n(John 4:13-14)",
          "cardtype": "major"},
 
         {"name": "The Devil", "url": "the_devil", "image": "images/15.jpeg",
@@ -204,7 +204,7 @@ def get_deck():
          "occult_title": "The Daughter of the Firmament; The Dweller Between the Waters",
          "qabalah": "between Hod and Yesod",
          "hebrew_letter": "&#1508;",
-         "meditation" : "The righteous flourish like the palm tree, and grow like a cedar in Lebanon...\nThey still bring forth fruit in old age, they are ever full of sap and green...\n(Psalm 92:12-14)",
+         "meditation" : "The righteous flourish like the palm tree,\nand grow like a cedar in Lebanon...\nThey still bring forth fruit in old age,\nthey are ever full of sap and green...\n(Psalm 92:12-14)",
          "cardtype": "major"},
 
         {"name": "The Moon", "url": "the_moon", "image": "images/18.jpeg",
@@ -215,7 +215,7 @@ def get_deck():
          "occult_title": "The Ruler of Flux & Reflux; The Child of the Sons of the Mighty",
          "qabalah": "between Yesod and Netzach",
          "hebrew_letter": "&#1510;",
-         "meditation" : "The intellect is characterised by a naturai inability to comprehend life...\nBut it is to the very inwardness of life that intuition leads us —\nby intuition I mean instinct that has become disinterested, self-conscious,\ncapable of reflecting upon its object and of enlarging it indefinitely.\n(Henri Bergson, Creative Evolution)",
+         "meditation" : "The intellect is characterised by a naturai inability to\ncomprehend life... But it is to the very inwardness of\nlife that intuition leads us — by intuition I mean instinct\nthat has become disinterested, self-conscious, capable\nof reflecting upon its object and of enlarging it indefinitely.\n(Henri Bergson, Creative Evolution)",
          "cardtype": "major"},
 
         {"name": "The Sun", "url": "the_sun", "image": "images/19.jpeg",
