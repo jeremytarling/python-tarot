@@ -664,7 +664,7 @@ def get_deck():
 
         {"name": "Five of Clubs", "url": "five_of_clubs", "image": "images/wa05.jpeg",
          "desc": "Overcoming. Getting over a weak opposition. Breakdown of an equilibrium. Focusing on the main objective. An initiative to make a winning move.",
-         "rdesc": "With the covering part of the central wand below – walking into a complex situation, losing one’s edge.",
+         "rdesc": "(top right leaf becomes bottom left) Walking into a complex situation, losing one’s edge.",
          "sequence": 73,
          "occult_title": "Strife",
          "qabalah": "♄ in ♌︎ (Saturn in Leo)",
@@ -672,7 +672,7 @@ def get_deck():
 
         {"name": "Six of Clubs", "url": "six_of_clubs", "image": "images/wa06.jpeg",
          "desc": "Collaboration. A strong alliance between two parties with different goals but common present interests. A taste for luxury made possible by favorable conditions.",
-         "rdesc": "With the decorated flower at the bottom – excessive pursuit of luxury. Need to break up an alliance of opponents.",
+         "rdesc": "(with the decorated flower at the bottom) Excessive pursuit of luxury. Need to break up an alliance of opponents.",
          "sequence": 74,
          "occult_title": "Victory",
          "qabalah": "♃ in ♌︎ (Jupiter in Leo)",
