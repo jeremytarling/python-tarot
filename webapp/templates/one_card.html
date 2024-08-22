@@ -4,10 +4,7 @@
   {% if rev: %}
 
   <div class="col-md-4">
-    <img
-      src="/static/{{ image }}"
-      style="transform: rotate(180deg); padding-bottom: 25px"
-    />
+    <img src="/static/{{ image }}" class="card reversed" />
   </div>
 
   <div class="col-md-8">
@@ -25,7 +22,7 @@
   {% else %}
 
   <div class="col-md-4">
-    <img src="/static/{{ image }}" style="padding-top: 25px" />
+    <img src="/static/{{ image }}" class="card" />
   </div>
 
   <div class="col-md-8">
