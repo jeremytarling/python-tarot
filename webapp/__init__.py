@@ -1,5 +1,6 @@
 # create a Flask object
-from flask import Flask # type: ignore
+from flask import Flask  # type: ignore
+
 app = Flask(__name__)
 
 # and import the routes

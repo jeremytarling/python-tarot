@@ -1,59 +1,50 @@
-{% extends "base.html" %}
+{% extends "base.html" %} {% block content %}
 
-{% block content %}
+<div class="row">
+  {% for card in hand %} {% if card[1]: %}
 
-<div class="row">	
+  <div class="col-md-4">
+    <img
+      src="/static/{{ card[0].image }}"
+      style="transform: rotate(180deg); padding-bottom: 25px"
+    />
 
-	{% for card in hand %}
+    <h3>{{ card[0].name }} reversed</h3>
 
-		{% if card[1]: %}
+    <hr />
 
-		  	<div class="col-md-4">
+    <h4>interpretation</h4>
 
-		    	<img src="/static/{{ card[0].image }}" style="transform: rotate(180deg); padding-bottom: 25px" />
+    <p>{{ card[0].rdesc }}</p>
 
-				<h3>{{ card[0].name }} reversed</h3>
+    <p><a href="/one-card/{{ card[0].url }}">more about this card</a></p>
+  </div>
 
-				<hr />
+  {% else %}
 
-		   		<h4>interpretation</h4>
+  <div class="col-md-4">
+    <img src="/static/{{ card[0].image }}" style="padding-top: 25px" />
 
-				<p>{{ card[0].rdesc }}</p>
+    <h3>{{ card[0].name }}</h3>
 
-				<p><a href="/one-card/{{ card[0].url }}">more about this card</a></p>
+    <hr />
 
-	    	</div>
+    <h4>interpretation</h4>
 
-   		{% else %}
+    <p>{{ card[0].desc }}</p>
 
-		  	<div class="col-md-4">
+    {% if card[0].card_type == "major": %}
 
-		    	<img src="/static/{{ card[0].image }}" style="padding-top:25px" />
+    <h4>message</h4>
 
-				<h3>{{ card[0].name }}</h3>
+    <p><em>{{ card[0].message }}</em></p>
 
-				<hr />
+    {% endif %}
 
-		   		<h4>interpretation</h4>
+    <p><a href="/one-card/{{ card[0].url }}">more about this card</a></p>
+  </div>
 
-		    	<p>{{ card[0].desc }}</p>
-
-		    	{% if card[0].card_type == "major": %}
-
-					<h4>message</h4>
-
-					<p><em>{{ card[0].message }}</em></p>
-
-				{% endif %}
-
-				<p><a href="/one-card/{{ card[0].url }}">more about this card</a></p>
-
-	    	</div>
-
-		{% endif %}
-
-    {% endfor %}
-
+  {% endif %} {% endfor %}
 </div>
 
 {% endblock %}

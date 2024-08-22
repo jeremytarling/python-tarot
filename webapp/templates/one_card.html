@@ -1,61 +1,52 @@
-{% extends "base.html" %}
-{% block content %}
+{% extends "base.html" %} {% block content %}
 
 <div class="row">
+  {% if rev: %}
 
-	{% if rev: %}
+  <div class="col-md-4">
+    <img
+      src="/static/{{ image }}"
+      style="transform: rotate(180deg); padding-bottom: 25px"
+    />
+  </div>
 
-		<div class="col-md-4">
+  <div class="col-md-8">
+    <h3>{{ name }} reversed</h3>
 
-	    	<img src="/static/{{ image }}" style="transform: rotate(180deg); padding-bottom:25px" />
+    <hr />
 
-		</div>
+    <h4>interpretation</h4>
 
-		<div class="col-md-8">
+    <p>{{ reversed_meaning }}</p>
 
-		    <h3>{{ name }} reversed</h3>
+    <p><a href="/one-card/{{ url }}">more about this card</a></p>
+  </div>
 
-			<hr />
+  {% else %}
 
-		   	<h4>interpretation</h4>
+  <div class="col-md-4">
+    <img src="/static/{{ image }}" style="padding-top: 25px" />
+  </div>
 
-			<p>{{ reversed_meaning }}</p>
+  <div class="col-md-8">
+    <h3>{{ name }}</h3>
 
-			<p><a href="/one-card/{{ url }}">more about this card</a></p>
+    <hr />
 
+    <h4>interpretation</h4>
+    <p>{{ meaning }}</p>
 
-		</div>
+    {% if card_type == "major": %}
 
-	{% else %}
+    <h4>message</h4>
+    <p><em>{{ message }}</em></p>
 
-		<div class="col-md-4">
+    {% endif %}
 
-			<img src="/static/{{ image }}" style="padding-top:25px" />
+    <p><a href="/one-card/{{ url }}">more about this card</a></p>
+  </div>
 
-		</div>
-
-		<div class="col-md-8">
-
-			<h3>{{ name }}</h3>
-
-			<hr />
-
-			<h4>interpretation</h4>
-			<p>{{ meaning }}</p>
-
-			{% if card_type == "major": %}
-
-				<h4>message</h4>
-				<p><em>{{ message }}</em></p>
-
-			{% endif %}
-
-			<p><a href="/one-card/{{ url }}">more about this card</a></p>
-
-		</div>
-
-	{% endif %}
-
+  {% endif %}
 </div>
 
 {% endblock %}

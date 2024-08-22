@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     {% if title %}
     <title>{{ title }}</title>
@@ -12,13 +11,16 @@
     <title>the Tarot</title>
     {% endif %}
     <!-- Bootstrap -->
-    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet" />
     <!-- Custom styles for this template -->
-    <link href="/static/css/starter-template.css" rel="stylesheet">
+    <link href="/static/css/starter-template.css" rel="stylesheet" />
 
-    <link rel="icon" type="image/gif" href="/static/images/favicon.gif">
+    <link rel="icon" type="image/gif" href="/static/images/favicon.gif" />
     <!-- Hebrew font -->
-    <link href='https://fonts.googleapis.com/css?family=Noto Serif Hebrew' rel='stylesheet'>
+    <link
+      href="https://fonts.googleapis.com/css?family=Noto Serif Hebrew"
+      rel="stylesheet"
+    />
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -32,7 +34,14 @@
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <button
+            type="button"
+            class="navbar-toggle collapsed"
+            data-toggle="collapse"
+            data-target="#navbar"
+            aria-expanded="false"
+            aria-controls="navbar"
+          >
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -46,24 +55,18 @@
             <li><a href="/three-cards">draw three cards</a></li>
             <li><a href="/tarot-study">tarot study</a></li>
           </ul>
-        </div><!--/.nav-collapse -->
+        </div>
+        <!--/.nav-collapse -->
       </div>
     </nav>
 
     <div class="container">
-
-      <div class="starter-template">
-        
-        {% block content %}{% endblock %}
-
-      </div>
-
-    </div><!-- /.container -->
+      <div class="starter-template">{% block content %}{% endblock %}</div>
+    </div>
+    <!-- /.container -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/static/js/bootstrap.min.js"></script>
-
   </body>
-
 </html>

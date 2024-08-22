@@ -1,50 +1,94 @@
-{% extends "base.html" %}
+{% extends "base.html" %} {% block content %}
 
-{% block content %}
+<h2>Welcome to the Tarot!</h2>
 
-    <h2>Welcome to the Tarot!</h2>
+<div class="row">
+  <div class="col-md-8">
+    <p>
+      Having trouble making a decision? Worried about the future? Concerned that
+      secret forces are controlling your destiny? Then it's time to consult the
+      Tarot..
+    </p>
 
-    <div class="row">
+    <hr />
 
-        <div class="col-md-8">
+    <h4>
+      Ask your question out loud (be as specific as you can) and chose one or
+      three cards:
+    </h4>
 
-            <p>Having trouble making a decision? Worried about the future? Concerned that secret forces are controlling your destiny? Then it's time to consult the Tarot..</p>
+    <p>
+      <strong><a href="/one-card">draw one random card</a></strong> <br />a word
+      of advice in answer to your question;
+    </p>
 
-            <hr />
+    <p>
+      <strong><a href="/three-cards">draw three random cards</a></strong>
+      <br />advice with more context - your perception (self conscious
+      awareness), what you don't know (subsconcious knowledge) and the truth of
+      the matter (superconsciousness).
+    </p>
 
-            <h4>Ask your question out loud (be as specific as you can) and chose one or three cards:</h4>
+    <p>
+      <strong><a href="/tarot-study">tarot study</a></strong> <br />The tarot is
+      much more than a tool for divination - here you will find listings for
+      each card together with their interpretations and hermetic
+      correspondences.
+    </p>
 
-            <p><strong><a href="/one-card">draw one random card</a></strong>
-            <br />a word of advice in answer to your question;</p>
+    <hr />
 
-            <p><strong><a href="/three-cards">draw three random cards</a></strong>
-            <br />advice with more context - your perception (self conscious awareness), what you don't know (subsconcious knowledge) and the truth of the matter (superconsciousness).</p>
+    <h4>WTF?</h4>
 
-            <p><strong><a href="/tarot-study">tarot study</a></strong>
-                <br />The tarot is much more than a tool for divination - here you will find listings for each card together with their interpretations and hermetic correspondences.</p>
+    <p>
+      This little website is a simple application written in Python to draw one
+      or three randomly selected tarot cards from a dictionary of 78
+      descriptions and image references. The
+      <a href="https://github.com/jeremytarling/python-tarot"
+        >source code is here</a
+      >
+      - there are no license restrictions on the code, please feel free to fork
+      or re-use.
+    </p>
 
-            <hr />
+    <p>
+      The card images are the late Jean-Claude Flornoy's lovely restoration of
+      the tarot of
+      <a href="https://gallica.bnf.fr/ark:/12148/btv1b10537343h" target="new"
+        >Jean Dodal</a
+      >
+      - you can buy the deck from his website
+      <a href="https://tarot-history.com/tarot-of-jean-dodal/" target="new"
+        >Tarot History</a
+      >. They are used here with the kind permission of Roxanne Flornoy.
+    </p>
 
-            <h4>WTF?</h4>
+    <p>
+      The card interpretations are the work of the late
+      <a href="http://www.cbdtarot.com/download/" target="_blank"
+        >Dr Yoav Ben Dov</a
+      >, which he made available under the
+      <a
+        href="https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        target="_blank"
+        >Creative Commons by-nc-sa licence</a
+      >
+      - please be sure to link back to his website if you use them.
+    </p>
 
-            <p>This little website is a simple application written in Python to draw one or three randomly selected tarot cards from a dictionary of 78 descriptions and image references.  The <a href="https://github.com/jeremytarling/python-tarot">source code is here</a> - there are no license restrictions on the code, please feel free to fork or re-use.</p>
+    <p>
+      As for me, my name is
+      <a href="https://linktr.ee/jeremytarling">Jeremy Tarling</a> and I work as
+      a metadata specialist at the BBC. I've been fascinated by the tarot since
+      childhood when my aunty first introduced me to the cards.
+    </p>
 
-            <p>The card images are the late Jean-Claude Flornoy's lovely restoration of the tarot of <a href="https://gallica.bnf.fr/ark:/12148/btv1b10537343h" target="new">Jean Dodal</a> - you can buy the deck from his website <a href="https://tarot-history.com/tarot-of-jean-dodal/" target="new">Tarot History</a>. They are used here with the kind permission of Roxanne Flornoy.</p>
+    <hr />
+  </div>
 
-            <p> The card interpretations are the work of the late <a href="http://www.cbdtarot.com/download/" target="_blank">Dr Yoav Ben Dov</a>, which he made available under the <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">Creative Commons by-nc-sa licence</a> - please be sure to link back to his website if you use them.</p>
-
-            <p>As for me, my name is <a href="https://linktr.ee/jeremytarling">Jeremy Tarling</a> and I work as a metadata specialist at the BBC. I've been fascinated by the tarot since childhood when my aunty first introduced me to the cards.</p>
-            
-            <hr />
-
-        </div>
-
-        <div class="col-md-4">
-
-            <a href="/one-card/the_magician"><img src="/static/images/01.jpeg" /></a>
-
-        </div>
-
-    </div>
+  <div class="col-md-4">
+    <a href="/one-card/the_magician"><img src="/static/images/01.jpeg" /></a>
+  </div>
+</div>
 
 {% endblock %}
