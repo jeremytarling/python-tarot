@@ -44,21 +44,9 @@ def more_cards():
 @app.route("/one-card/<card_url>")
 def specific_card(card_url):
     this_card, previous_card, next_card = get_card(card_url)
-    is_major = this_card["card_type"] == "major"
-
     return render_template(
         "specific_card.html",
-        name=this_card["name"],
-        title=this_card["name"],
-        meaning=this_card["desc"],
-        message=this_card["message"] if is_major else None,
-        reversed_meaning=this_card["rdesc"],
-        hebrew_letter=this_card["hebrew_letter"] if is_major else None,
-        qabalah=this_card["qabalah"],
-        meditation=this_card["meditation"] if is_major else None,
-        image=this_card["image"],
-        previous=previous_card["url"] if previous_card else "/tarot-study",
-        next=next_card["url"] if next_card else "/tarot-study",
-        sequence=this_card["sequence"],
-        card_type=this_card["card_type"],
+        card=this_card,
+        previous_card=previous_card,
+        next_card=next_card,
     )
