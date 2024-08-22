@@ -2,26 +2,27 @@
 
 <div class="row">
   <div class="col-md-4">
-    <img src="/static/{{ image }}" class="card {{ "reversed" if rev }}" />
+    <img src="/static/{{ card.image }}" class="card {{ "reversed" if is_reversed
+    }}" />
   </div>
 
   <div class="col-md-8">
-    <h3>{{ name }}{{ " (reversed)" if rev }}</h3>
+    <h3>{{ card.name }}{{ " (reversed)" if is_reversed }}</h3>
 
     <hr />
 
     <h4>interpretation</h4>
-    <p>{{ meaning if not rev else reversed_meaning }}</p>
+    <p>{{ card.desc if not is_reversed else card.rdesc }}</p>
 
-    {% if card_type == "major": %}
+    {% if "message" in card: %}
 
     <h4>message</h4>
-    <p><em>{{ message }}</em></p>
+    <p><em>{{ card.message }}</em></p>
 
     {% endif %}
   </div>
 
-  <p><a href="/one-card/{{ url }}">more about this card</a></p>
+  <p><a href="/one-card/{{ card.url }}">more about this card</a></p>
 </div>
 
 {% endblock %}

@@ -28,15 +28,8 @@ def one_card():
     this_card, is_reversed = draw()
     return render_template(
         "one_card.html",
-        name=this_card["name"],
-        title=this_card["name"],
-        rev=is_reversed,
-        meaning=this_card["desc"],
-        message=this_card.get("message") if "message" in this_card else None,
-        reversed_meaning=this_card["rdesc"],
-        image=this_card["image"],
-        url=this_card["url"],
-        card_type=this_card["card_type"],
+        card=this_card,
+        is_reversed=is_reversed,
     )
 
 
