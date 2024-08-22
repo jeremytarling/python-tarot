@@ -3,7 +3,7 @@ from webapp import app
 from flask import render_template
 
 # for the cards 
-from webapp import cards
+from webapp import deck
 
 
 # home page
@@ -26,8 +26,8 @@ def reading_list():
 # get one card
 @app.route('/one-card', strict_slashes=False)
 def one_card():
-	my_deck = cards.get_deck()
-	my_card = cards.get_card(my_deck)
+	my_deck = deck.get_deck()
+	my_card = deck.get_card(my_deck)
 
 	if my_card[0]['cardtype'] == "major" :
 		return render_template("one_card.html",
@@ -54,11 +54,11 @@ def one_card():
 # get three cards
 @app.route('/three-cards', strict_slashes=False)
 def more_cards():
-	my_deck = cards.get_deck()
+	my_deck = deck.get_deck()
 	hand = []
 	num = 1
 	while num < 4:
-		my_card = cards.get_card(my_deck)
+		my_card = deck.get_card(my_deck)
 		hand.append(my_card)
 		num +=1
 	return render_template("three_cards.html", hand = hand, title="Three card spread")
@@ -67,7 +67,7 @@ def more_cards():
 # get specific card
 @app.route('/one-card/<card_url>')
 def specific_card(card_url):
-	my_deck = cards.get_deck()
+	my_deck = deck.get_deck()
 	my_card = list(filter(lambda my_card: my_card['url'] == card_url, my_deck))[0]
 	if my_card['sequence'] > 1 :
 		previous_card_url = '/one-card/' + list(filter(lambda previous_card: previous_card['sequence'] == (my_card['sequence'] -1), my_deck))[0]['url']
