@@ -18,7 +18,7 @@
 		<h4>interpretation</h4>
 		<p>{{ card.desc }}</p>
 
-		{% if "message" in card: %}
+		{% if "message" in card %}
 
 		    <h4>message</h4>
 			<p><em>{{ card.message }}</em></p>
@@ -34,11 +34,11 @@
 
 		<p><em>qabalah</em>: {{ qabalah|safe }}</p>
 
-		{% if "hebrew_letter" in card: %}
+		{% if "hebrew_letter" in card %}
 			<p><em>hebrew letter</em>: <span style="font-family: 'Noto Serif Hebrew'">{{ card.hebrew_letter|safe }}</span></p>
 		{% endif %}
 
-		{% if "meditation" in card: %}
+		{% if "meditation" in card %}
 
 			<p><em>meditation</em>: <br />
 			<span style="white-space: pre">{{ card.meditation }}<span></p>
@@ -47,11 +47,11 @@
 
 		<hr />
 
-		{% if previous_card: %}
+		{% if previous_card %}
 			<p><a href="{{ previous_card.url }}">previous card</a>
-		{% endif: %}
+		{% endif %}
 		&nbsp;||&nbsp;
-		{% if next_card: %}
+		{% if next_card %}
 			<p><a href="{{ next_card.url }}">next card</a></p>
 		{% endif %}
 
