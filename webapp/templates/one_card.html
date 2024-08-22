@@ -1,37 +1,17 @@
 {% extends "base.html" %} {% block content %}
 
 <div class="row">
-  {% if rev: %}
-
   <div class="col-md-4">
-    <img src="/static/{{ image }}" class="card reversed" />
+    <img src="/static/{{ image }}" class="card {{ "reversed" if rev }}" />
   </div>
 
   <div class="col-md-8">
-    <h3>{{ name }} reversed</h3>
+    <h3>{{ name }}{{ " (reversed)" if rev }}</h3>
 
     <hr />
 
     <h4>interpretation</h4>
-
-    <p>{{ reversed_meaning }}</p>
-
-    <p><a href="/one-card/{{ url }}">more about this card</a></p>
-  </div>
-
-  {% else %}
-
-  <div class="col-md-4">
-    <img src="/static/{{ image }}" class="card" />
-  </div>
-
-  <div class="col-md-8">
-    <h3>{{ name }}</h3>
-
-    <hr />
-
-    <h4>interpretation</h4>
-    <p>{{ meaning }}</p>
+    <p>{{ meaning if not rev else reversed_meaning }}</p>
 
     {% if card_type == "major": %}
 
@@ -39,11 +19,9 @@
     <p><em>{{ message }}</em></p>
 
     {% endif %}
-
-    <p><a href="/one-card/{{ url }}">more about this card</a></p>
   </div>
 
-  {% endif %}
+  <p><a href="/one-card/{{ url }}">more about this card</a></p>
 </div>
 
 {% endblock %}
