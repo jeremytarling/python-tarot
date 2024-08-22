@@ -1,5 +1,6 @@
 from flask import Flask, render_template  # type: ignore
 from .deck import draw, get_card
+import json
 
 app = Flask(__name__)
 
@@ -19,7 +20,9 @@ def all_cards():
 # reading list
 @app.route("/reading-list", strict_slashes=False)
 def reading_list():
-    return render_template("reading_list.html")
+    with open("webapp/static/json/reading-list.json", encoding="utf8") as file:
+        selections = json.load(file)
+    return render_template("reading_list.html", selections=selections)
 
 
 # get one card
