@@ -18,7 +18,7 @@
 		<h4>interpretation</h4>
 		<p>{{ meaning }}</p>
 
-		{% if cardtype == "major": %}
+		{% if card_type == "major": %}
 
 		    <h4>message</h4>
 			<p><em>{{ message }}</em></p>
@@ -34,7 +34,7 @@
 
 		<p><em>qabalah</em>: {{ qabalah|safe }}</p>
 
-		{% if cardtype == "major": %}
+		{% if card_type == "major": %}
 
 			<p><em>hebrew letter</em>: <span style="font-family: 'Noto Serif Hebrew'">{{ hebrew_letter|safe }}</span></p>
 
