@@ -1,0 +1,60 @@
+[
+  {
+    "tradition": "the French tradition (tarot de Marseille)",
+    "suggestions": [
+      {
+        "title": "The Marseille Tarot Revealed",
+        "author": "Yoav Ben-Dov",
+        "url": "https://shop.watkinsbooks.com/collections/divination/products/he-marseille-tarot-revealed-by-yoav-ben-dov",
+        "description": "a great beginner's book, and the card interpretations used in this website"
+      },
+      {
+        "title": "Way of Tarot: The Spiritual Teacher in the Cards",
+        "author": "Alejandro Jodorowsky and Marianne Costa",
+        "url": "https://www.amazon.co.uk/Way-Tarot-Spiritual-Teacher-Cards/dp/1594772630",
+        "description": "rich and complex interpretations of the Marseille tarot"
+      },
+      {
+        "title": "Seeing The World",
+        "author": "Jean Claude Flornoy",
+        "url": "https://www.treadwells-london.com/product-page/seeing-the-world-jean-claude-flornoy",
+        "description": "a fascinating book by the restorer of the tarots of Dodal and Noblet, linking the tarot to the history of the Compagnons du Devoir"
+      },
+      {
+        "title": "Meditations on the Tarot",
+        "author": "Victor Tomberg",
+        "url": "https://www.amazon.co.uk/Meditations-Tarot-Journey-Christian-Hermeticism/dp/1585421618",
+        "description": "a journey into Christian Hermeticism by one of its masters (and the source of the major arcana meditations on this site)"
+      }
+    ]
+  },
+  {
+    "tradition": "the English tradition (Waite, Case, Crowley, etc)",
+    "suggestions": [
+      {
+        "title": "Tarot of the Magicians",
+        "author": "Oswald Wirth",
+        "url": "https://shop.watkinsbooks.com/collections/divination/products/tarot-of-the-magicians-by-oswald-wirth",
+        "description": "a bridge from the French tradition to the work of the English and American occultists that followed"
+      },
+      {
+        "title": "The Pictorial Key to the Tarot",
+        "author": "A. E. Waite",
+        "url": "https://www.amazon.co.uk/Pictorial-Key-Tarot-Waite/dp/0877282188",
+        "description": "Arthur Waite's explanations of Pamela Coleman Smith's ubiquitous tarot deck"
+      },
+      {
+        "title": "The Tarot: A Key to the Wisdom of the Ages",
+        "author": "Paul Foster Case",
+        "url": "https://www.amazon.co.uk/Tarot-Wisdom-Paul-Foster-Case/dp/1585424919",
+        "description": "Paul Case's reworking of the Waite-Smith deck with deeper Qabalistic insights"
+      },
+      {
+        "title": "The Book of Thoth",
+        "author": "Aleister Crowley",
+        "url": "https://www.treadwells-london.com/product-page/the-book-of-thoth-aleister-crowley",
+        "description": "Crowley's magnum opus, a detailed exposition of his recreation of the tarot as painted by Freida Harris"
+      }
+    ]
+  }
+]

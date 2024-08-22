@@ -1,59 +1,32 @@
-{% extends "base.html" %}
+{% extends "base.html" %} {% block content %}
 
-{% block content %}
+<div class="row">
+  {% for card, is_reversed in hand %}
 
-<div class="row">	
+  <div class="col-md-4">
+    <img src="/static/{{ card.image }}" class="card {{ "reversed" if is_reversed
+    }}" />
 
-	{% for card in hand %}
+    <h3>{{ card.name }}{{ " (reversed)" if is_reversed }}</h3>
 
-		{% if card[1]: %}
+    <hr />
 
-		  	<div class="col-md-4">
+    <h4>interpretation</h4>
 
-		    	<img src="/static/{{ card[0].image }}" style="transform: rotate(180deg); padding-bottom: 25px" />
+    <p>{{ card.desc if not is_reversed else card.rdesc }}</p>
 
-				<h3>{{ card[0].name }} reversed</h3>
+    {% if card.card_type == "major" %}
 
-				<hr />
+    <h4>message</h4>
 
-		   		<h4>interpretation</h4>
+    <p><em>{{ card.message }}</em></p>
 
-				<p>{{ card[0].rdesc }}</p>
+    {% endif %}
 
-				<p><a href="/one-card/{{ card[0].url }}">more about this card</a></p>
+    <p><a href="/one-card/{{ card.url }}">more about this card</a></p>
+  </div>
 
-	    	</div>
-
-   		{% else %}
-
-		  	<div class="col-md-4">
-
-		    	<img src="/static/{{ card[0].image }}" style="padding-top:25px" />
-
-				<h3>{{ card[0].name }}</h3>
-
-				<hr />
-
-		   		<h4>interpretation</h4>
-
-		    	<p>{{ card[0].desc }}</p>
-
-		    	{% if card[0].cardtype == "major": %}
-
-					<h4>message</h4>
-
-					<p><em>{{ card[0].message }}</em></p>
-
-				{% endif %}
-
-				<p><a href="/one-card/{{ card[0].url }}">more about this card</a></p>
-
-	    	</div>
-
-		{% endif %}
-
-    {% endfor %}
-
+  {% endfor %}
 </div>
 
 {% endblock %}
