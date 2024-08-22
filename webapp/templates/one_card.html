@@ -14,7 +14,7 @@
     <h4>interpretation</h4>
     <p>{{ card.desc if not is_reversed else card.rdesc }}</p>
 
-    {% if "message" in card: %}
+    {% if "message" in card %}
 
     <h4>message</h4>
     <p><em>{{ card.message }}</em></p>
