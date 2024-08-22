@@ -4,8 +4,6 @@ from flask import render_template
 
 # for the cards 
 from webapp import cards
-# and the shuffle
-import random
 
 
 # home page
