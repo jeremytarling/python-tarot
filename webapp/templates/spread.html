@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="spread">
+  {% for card, is_reversed in hand %}
+    {% include "card.html" with context %}
+  {% endfor %}
+</div>
+
+{% endblock %}

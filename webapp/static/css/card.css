@@ -1,8 +1,30 @@
-img.card:not(.reversed) {
+.card {
+  max-width: 300px;
+  text-align: center;
+}
+
+.card h2 {
+  font-size: 1.75em;
+  text-decoration: underline;
+}
+
+.interpretations {
+  text-align: left;
+}
+
+.card:not(.reversed) img {
   padding-bottom: 25px;
 }
 
-img.card.reversed {
+.card.card:not(.reversed) .interpretations.rev {
+  color: rgba(0, 0, 0, 0.2);
+}
+
+.card.reversed img {
   padding-top: 25px;
   transform: rotate(180deg);
+}
+
+.card.reversed .interpretations.upr {
+  color: rgba(0, 0, 0, 0.2);
 }

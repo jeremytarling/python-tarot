@@ -1,6 +1,5 @@
 from flask import Flask, render_template  # type: ignore
-from .deck import draw, get_card
-import json
+from .deck import deck, draw, get_card
 
 app = Flask(__name__)
 
@@ -11,45 +10,33 @@ def index():
     return render_template("index.html")
 
 
-# tarot study
-@app.route("/tarot-study", strict_slashes=False)
-def all_cards():
-    return render_template("tarot_study.html")
 
-
-# reading list
-@app.route("/reading-list", strict_slashes=False)
-def reading_list():
-    with open("webapp/static/json/reading-list.json", encoding="utf8") as file:
-        selections = json.load(file)
-    return render_template("reading_list.html", selections=selections)
-
-
-# get one card
-@app.route("/one-card", strict_slashes=False)
-def one_card():
-    this_card, is_reversed = draw()
+# get a spread
+@app.route("/<card_count>-card-spread", strict_slashes=False)
+def more_cards(card_count):
+    card_count = int(card_count)
+    if card_count > len(deck):
+        print("Cannot draw more cards than are in the deck.")
+        card_count = len(deck)
+    elif card_count < 1:
+        print("Cannot draw fewer than one card.")
+        card_count = 1
     return render_template(
-        "one_card.html",
-        card=this_card,
-        is_reversed=is_reversed,
+        "spread.html",
+        hand=[draw() for _ in range(card_count)],
+        title=f"{card_count} card spread",
     )
-
-
-# get three cards
-@app.route("/three-cards", strict_slashes=False)
-def more_cards():
-    hand = [draw() for _ in range(3)]
-    return render_template("three_cards.html", hand=hand, title="Three card spread")
 
 
 # get specific card
-@app.route("/one-card/<card_url>")
-def specific_card(card_url):
-    this_card, previous_card, next_card = get_card(card_url)
+@app.route("/card/<card_index>")
+def specific_card(card_index):
+    this_card, previous_card, next_card = get_card(int(card_index))
     return render_template(
-        "specific_card.html",
-        card=this_card,
+        "spread.html",
+        hand=[(this_card, False)],
+        title=this_card["name"],
         previous_card=previous_card,
         next_card=next_card,
     )
+

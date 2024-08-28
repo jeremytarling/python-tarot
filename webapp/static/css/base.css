@@ -1,0 +1,8 @@
+.main-content {
+  margin: 20px 10%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}

@@ -1,925 +1,2284 @@
 [
   {
-    "name": "The Magician",
-    "url": "the_magician",
-    "image": "images/01.jpeg",
-    "desc": "The start of something. Beginner’s luck. Having various tools and means at our disposal. Use of supernatural forces. Creating reality with mind power. Training and acquisition of practical skills. Improvisation. Display or show for other people.",
-    "message": "create a new reality",
-    "rdesc": "Trickery, sleight of hand, cheating. Showing off, pretending. Lack of self-awareness about body, sexuality, or basic motives. Near miss due to inexperience or inaccuracy.",
-    "sequence": 1,
-    "qabalah": "from Kether to Tiphareth",
-    "hebrew_letter": "&#1488;",
-    "meditation": "The wind blows where it wills, and you hear the sound of it\nbut you do not know whence it comes or whither it goes;\nso it is with every one who is born of the Spirit.\n(John 3:8)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Popess",
-    "url": "the_popess",
-    "image": "images/02.jpeg",
-    "desc": "Wisdom combining intellect and intuition. A spiritual mother. A woman hiding her strengths in a world of men. Modesty. Secrets, something hidden, mystery. Getting a hint of something which remains largely unknown. Impossible to give a definite answer now.",
-    "message": "know how to set boundaries",
-    "rdesc": "Need to hide our true nature behind the conventions of normal society. Conservative approach to sex and the body. Emotional blockage.",
-    "sequence": 2,
-    "qabalah": "from Kether to Chokmah",
-    "hebrew_letter": "&#1489;",
-    "meditation": "Wisdom has built her house,\nshe has set up seven pillars.\n(Proverbs 9:1)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Empress",
-    "url": "the_empress",
-    "image": "images/03.jpeg",
-    "desc": "Abundance, growth, productivity. Natural or human touch within an artificial framework. Emotional intelligence. Protection and care. Motherhood. A powerful female figure. Strong feminine identity.",
-    "message": "act from the guts",
-    "rdesc": "Impulsive behavior, someone difficult to reason with. Over-protectiveness, excessive involvement in the life of others. Problems with a strong mother figure.",
-    "sequence": 3,
-    "qabalah": "from Kether to Binah",
-    "hebrew_letter": "&#1490;",
-    "meditation": "Behold the handmaid of the Lord;\nlet it be unto me according to your word.\n(Luke 1:38)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Emperor",
-    "url": "the_emperor",
-    "image": "images/04.jpeg",
-    "desc": "Practical and material achievements. Matters relating to the workplace or source of income. Authority and control, a commanding position. A protective father figure, patron or sponsor. Assertiveness. Military affairs.",
-    "message": "show leadership and responsibility",
-    "rdesc": "Belligerence, violence, trying to solve things by brute force. Dictatorship. Possibility of sexual abuse. Difficulty in coping with a dominant father figure. Denial and hiding of inner weaknesses.",
-    "sequence": 4,
-    "qabalah": "between Chokmah and Binah",
-    "hebrew_letter": "&#1491;",
-    "meditation": "Blessed is he who comes in the name of the Lord.\n(Luke 13:35)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Pope",
-    "url": "the_pope",
-    "image": "images/05.jpeg",
-    "desc": "Teacher, instructor, or counselor. Education and knowledge, academic expertise. Organized religion, conventional medicine or psychology. Spiritual father. Consultation or treatment by a specialist. Marriage.",
-    "message": "respect knowledge and education",
-    "rdesc": "Excessive adhesion to conventions and outdated norms. Bureaucracy, an oppressive establishment. Hypocrisy, discrimination. Divorce.",
-    "sequence": 5,
-    "qabalah": "from Tiphareth to Chokmah",
-    "hebrew_letter": "&#1492;",
-    "meditation": "I am the way, and the truth, and the life.\nNo-one comes to the Father but by me.\n(John 14:6)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Lover",
-    "url": "the_lover",
-    "image": "images/06.jpeg",
-    "desc": "Love, amorous relationship. Emotional entanglement. Need to make a choice, or to disengage oneself from past influences. Inclinations of the heart correspond to the will of heaven. Small steps actually taken are the visible signs of inner desire.",
-    "message": "follow the path of the heart.",
-    "rdesc": "Complex relationship between several people, e.g., a romantic triangle or a tension between mother and wife. Hesitation, quandary. Confusion as to one’s own feeling and will.",
-    "sequence": 6,
-    "qabalah": "from Binah to Tiphareth",
-    "hebrew_letter": "&#1493;",
-    "meditation": "I, Wisdom, dwell in prudence,\nand I posess knowledge and discretion...\nI love those who love me,\nand those who seek me find me.\n(Proverbs 7:12,17)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Chariot",
-    "url": "the_chariot",
-    "image": "images/07.jpeg",
-    "desc": "Victory or an achievement putting the querent in a strong and protected position. Ambition, energy, motivation to move forward. Public honor. Power and high status.",
-    "message": "dare and win",
-    "rdesc": "Inner weakness hidden behind external show-off. Arrogance, vanity. Over-protectiveness, emotional closure. Confusion about one’s goals. Losing the simple touch with people and reality.",
-    "sequence": 7,
-    "qabalah": "from Binah to Geburah",
-    "hebrew_letter": "&#1494;",
-    "meditation": "Then the devil left him, and behold,\nAngels came and ministered to him.\n(Matther 3:11)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "Justice",
-    "url": "justice",
-    "image": "images/08.jpeg",
-    "desc": "Law and order, legal and court issues. A fair and balanced judgment. A developed conscience. Rationality, reasoning by clear rules and common norms. Touch of grace and humanity beyond the objective considerations.",
-    "message": "act with reason and by the accepted norms",
-    "rdesc": "Petty accountability, a critical and judgmental attitude, guilt feelings. Repressive control of self and of others. Negative ideas blocking change and advance.",
-    "sequence": 8,
-    "qabalah": "from Chesed to Chokmah",
-    "hebrew_letter": "&#1495;",
-    "meditation": "Behold my servant, whom I have chosen; my beloved,\nin whom my soul is well pleased:\nI will put my spirit upon him,\nand he shall show justice to the gentiles.\n(Matthew 12:18)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Hermit",
-    "url": "the_hermit",
-    "image": "images/09.jpeg",
-    "rdesc": "A closed and reclusive attitude. Isolation, loneliness. Fixed ideas. Excessive caution and suspicion, a critical approach looking for defects. Hidden and denied desires.",
-    "message": "look for the essence of things",
-    "desc": "A quest for truth or for spiritual understanding. Concentrating on a clear purpose. Caution, careful examination. Self-privation for the sake of a meaningful cause. Loyalty to principles, strong faith.",
-    "sequence": 9,
-    "qabalah": "between Geburah and Chesed",
-    "hebrew_letter": "&#1496;",
-    "meditation": "For the gate is narrow and the way is hard that leads to life\nand those who find it are few.\n(Matthew 7:14)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Wheel of Fortune",
-    "url": "the_wheel_of_fortune",
-    "image": "images/10.jpeg",
-    "desc": "Change in circumstances and position. A rise after a fall. Gambling, putting faith in capricious luck. Life cycles, closure of circles. Adapting to the routine of everyday life. A hint to previous incarnations.",
-    "message": "accept life’s ups and downs",
-    "rdesc": "A decline after a period of rising. Danger lurks at the summit. Moving in a closed circle. Capricious mood changes. Feeling powerless to affect one’s situation.",
-    "sequence": 10,
-    "qabalah": "from Tiphareth to Chesed",
-    "hebrew_letter": "&#1497;",
-    "meditation": "Vanity of vanities, all is vanity...\nWhat has been is what will be,\nand what has been done is what will be done;\nand there is nothing new under the sun.\n(Ecclesiastes 1:2,9)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "Strength",
-    "url": "strength",
-    "image": "images/11.jpeg",
-    "desc": "Power and courage to face challenges. Controlled expression of creative urges, drives and desires. Mobilization of inner resources towards a common goal. Taking risks.",
-    "message": "take control of yourself",
-    "rdesc": "The need to keep things under control leads to constant tensions. A risk of losing one’s grip. Internal conflicts and unrealistic assessment of one’s own forces may lead to failure.",
-    "sequence": 11,
-    "qabalah": "from Geburah to Tiphareth",
-    "hebrew_letter": "&#1499;",
-    "meditation": "This is the strongest of all powers, the force of all forces;\nit overcomes every subtle thing and penetrates every solid.\n(the Emerald Tablet, 9)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Hanged Man",
-    "url": "the_hanged_man",
-    "image": "images/12.jpeg",
-    "desc": "Seeing things from a unique point of view. Enduring difficulties for a worthy cause. A period of deep self examination. Passivity, acceptance of reality even if it is the opposite of what one expects.",
-    "message": "look at things from the opposite perspective",
-    "rdesc": "Isolation. Emotional stance of a victim. Inability to act. Denying one’s own unique qualities, striving to be “normal” at all costs. Living in one’s private and imaginary reality.",
-    "sequence": 12,
-    "qabalah": "from Netzach to Chesed",
-    "hebrew_letter": "&#1500;",
-    "meditation": "Foxes have holes, and birds of the air have nests;\nbut the Son of man has nowhere to lay his head.\n(Matthew 8:20)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "13",
-    "url": "13",
-    "image": "images/13.jpeg",
-    "desc": "The end of something whose time has come. Cutting off past influences or attachment to dominant figures. Giving up the superfluous and keeping only the essential. Disintegration of the old makes room for the new.",
-    "message": "give up what is over",
-    "rdesc": "Difficulty in coping with loss or change. Temporary difficulties, a trying challenge. Disintegration. Realisation of a painful truth. Does not predict future death, but may reflect anxiety about dying or mourning over a loss which has already happened.",
-    "sequence": 13,
-    "qabalah": "from Hod to Geburah",
-    "hebrew_letter": "&#1502;",
-    "meditation": "And the woman said to the serpent \"We may eat of the\nfruit of the trees of the garden, but God said 'You shall\nnot eat of the fruit of the tree which is in the midst of the\ngarden, neither shall you touch it, lest you die.'\"\nBut the serpent said to the woman \"You will not die.\nFor God knows that when you eat of it your eyes will be\nopened, and you will be as gods, knowing good and evil.\"\n(Genesis 3:2-5)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "Temperance",
-    "url": "temperance",
-    "image": "images/14.jpeg",
-    "desc": "Reconciliation, compromise, relaxation of tensions. Integration of opposites. Ability to do the seemingly impossible. A slow process of distillation and improvement. Patience, perseverance. Self-improvement.",
-    "message": "find the golden mean",
-    "rdesc": "Going back and forth without making real progress. Losing patience with a lengthy process. Emotional preoccupation with oneself, pushing away others who might come to help.",
-    "sequence": 14,
-    "qabalah": "from Netzach to Tiphareth",
-    "hebrew_letter": "&#1504;",
-    "meditation": "Everyone who drinks of this water will thirst again,\nbut whoever drinks of the water that I shall give him\nwill never thirst; the water that I shall give him will\nbecome in him a spring of water welling up to eternal life.\n(John 4:13-14)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Devil",
-    "url": "the_devil",
-    "image": "images/15.jpeg",
-    "desc": "A burst of creativity. Paradoxes and contradictions. Irony and mocking of common norms. Acting from desires, passions and impulses. Moving on from a past family trauma.",
-    "message": "express passion and desire.",
-    "rdesc": "Temptation, attraction to the dark and forbidden. Exploitation, egotism, domination. Compulsive self-gratification. Senseless behavior has its price. Difficulty in detaching oneself from an unhealthy bond.",
-    "sequence": 15,
-    "qabalah": "from Tiphareth to Hod",
-    "hebrew_letter": "&#1505;",
-    "meditation": "",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The House of God",
-    "url": "the_house_of_god",
-    "image": "images/16.jpeg",
-    "desc": "Breaking up of solid structures. Getting free from confinement. Sudden breakthrough after long preparations. Sparkling sexual encounter. Success lies in simplicity and modesty.",
-    "message": "return to the solid ground of reality",
-    "rdesc": "Shock, collapse of projects or trusted structures. A fall from an apparently solid and secure position. Chaos, confusion, difficulty in understanding what is going on. Vanity and pride lead to failure.",
-    "sequence": 16,
-    "qabalah": "between Netzach and Hod",
-    "hebrew_letter": "&#1506;",
-    "meditation": "He who exalts himself will be abased,\nand he who humbles himself will be exalted.\n(Luke 14:11)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Star",
-    "url": "the_star",
-    "image": "images/17.jpeg",
-    "desc": "Openness, simplicity, return to nature. Purity, honesty. Showing yourself “as you are,” accepting one’s body and desires. Generosity. Luck from heaven. Intuitive feeling of guidance or energy coming from a higher plane.",
-    "message": "flow from a pure source",
-    "rdesc": "Naive optimism and wishful-thinking. Exposing oneself to danger or abuse. Difficulty in setting proper boundaries. Squandering, wastefulness.",
-    "sequence": 17,
-    "qabalah": "between Hod and Yesod",
-    "hebrew_letter": "&#1508;",
-    "meditation": "The righteous flourish like the palm tree,\nand grow like a cedar in Lebanon...\nThey still bring forth fruit in old age,\nthey are ever full of sap and green...\n(Psalm 92:12-14)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Moon",
-    "url": "the_moon",
-    "image": "images/18.jpeg",
-    "desc": "Deep emotions, perhaps related to a mother or feminine figure. A different experience of reality. Longing for the unreachable. Finding one’s hidden strengths. Occupation with the remote past. A hidden treasure.",
-    "message": "don’t be afraid to go deep down",
-    "rdesc": "Vague and disturbing feelings. Emotional difficulties, a period of depression. Danger lurking under the surface. Retreat, the road ahead is hard to find.",
-    "sequence": 18,
-    "qabalah": "between Yesod and Netzach",
-    "hebrew_letter": "&#1510;",
-    "meditation": "The intellect is characterised by a naturai inability to\ncomprehend life... But it is to the very inwardness of\nlife that intuition leads us — by intuition I mean instinct\nthat has become disinterested, self-conscious, capable\nof reflecting upon its object and of enlarging it indefinitely.\n(Henri Bergson, Creative Evolution)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "The Sun",
-    "url": "the_sun",
-    "image": "images/19.jpeg",
-    "desc": "Light and warmth, abundance, blessings. Pleasant feeling, emotional or physical healing. Partnership, trust, sharing, brotherhood. Human touch. An ideal father figure. Matters relating to children. Setting limits in a moderate and non-oppressive way.",
-    "message": "find suitable partners",
-    "rdesc": "Living in a limited space, difficulty to face reality “in the open.” Immaturity, dependence on others. Someone or something too intense and energetic to feel comfortable with. An absent father.",
-    "sequence": 19,
-    "qabalah": "between Tiphareth and Yesod",
-    "hebrew_letter": "&#1511;",
-    "meditation": "I am the Alpha and the Omega,\nthe first and the last,\nthe beginning and the end.\n(Revelation 22:13)",
-    "card_type": "major"
-  },
-
-  {
-    "name": "Judgement",
-    "url": "judgement",
-    "image": "images/20.jpeg",
-    "desc": "Revelation, enlightenment, a new understanding. A turning point in a therapy process. Healing of a family relationship. Disclosure, secrets revealed, publicity. Birth of a baby or of a new thing.",
-    "message": "awaken to spiritual reality",
-    "rdesc": "Revelation of something that should have been kept hidden. Lack of privacy. Unpleasant realization. Problems related to child-parent relations. Too much noise and drama.",
-    "sequence": 20,
-    "qabalah": "between Yesod and Malkuth",
-    "hebrew_letter": "&#1512;",
-    "meditation": "For as the Father raises the dead and gives them life,\nso also the Son gives life to whom he will.\nThe Father judges no one,\nbut has given all judgement to the Son...\n(John 5:21-22)",
-    "card_type": "major"
-  },
-
-  {
+    "fortune_telling": [
+      "Watch for new projects and new beginnings",
+      "Prepare to take something on faith",
+      "Something new comes your way; go for it"
+    ],
+    "keywords": ["freedom", "faith", "inexperience", "innocence"],
+    "meanings": {
+      "light": [
+        "Freeing yourself from limitation",
+        "Expressing joy and youthful vigor",
+        "Being open-minded",
+        "Taking a leap of faith",
+        "Attuning yourself to your instincts",
+        "Being eager or curious",
+        "Exploring your potential",
+        "Embracing innovation and change"
+      ],
+      "shadow": [
+        "Being gullible and naive",
+        "Taking unnecessary risks",
+        "Failing to be serious when required",
+        "Being silly or distracted",
+        "Lacking experience",
+        "Failing to honor well-established traditions and limits",
+        "Behaving inappropriately"
+      ]
+    },
     "name": "The Fool",
-    "url": "the_fool",
-    "image": "images/00.jpeg",
-    "desc": "Freedom from conventions and norms. Something or someone unique and exceptional. Options kept open. Giving up control, spontaneity. Uncertainty, attention to the here and now. Going on a trip.",
-    "message": "keep on the move",
-    "rdesc": "Difficulty in choosing and committing oneself to something stable. Restlessness. Lack of purpose. Getting lost. Foolish behavior. Eccentricity, lack of acceptance by the social environment. Difficulty in planning ahead.",
-    "sequence": 21,
-    "qabalah": "between Malkuth and Netzach",
-    "hebrew_letter": "&#64299;",
-    "meditation": "If any one among you thinks that he is wise in this age,\nlet him become a fool that he may become wise.\nFor the wisdom of this world is folly before God.\n(I Corinthians 3:18-19)",
-    "card_type": "major"
+    "rank": 0,
+    "suit": "major"
   },
-
   {
+    "fortune_telling": [
+      "A powerful man may play a role in your day",
+      "Your current situation must be seen as one element of a much larger plan"
+    ],
+    "keywords": ["capability", "empowerment", "activity"],
+    "meanings": {
+      "light": [
+        "Taking appropriate action",
+        "Receiving guidance from a higher power",
+        "Becoming a channel of divine will",
+        "Expressing masculine energy in appropriate and constructive ways",
+        "Being yourself in every way"
+      ],
+      "shadow": [
+        "Inflating your own ego",
+        "Abusing talents",
+        "Manipulating or deceiving others",
+        "Being too aggressive",
+        "Using cheap illusions to dazzle others",
+        "Refusing to invest the time and effort needed to master your craft",
+        "Taking shortcuts"
+      ]
+    },
+    "name": "The Magician",
+    "rank": 1,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "A mysterious woman arrives",
+      "A sexual secret may surface",
+      "Someone knows more than he or she will reveal"
+    ],
+    "keywords": ["intuition", "reflection", "purity", "initiation"],
+    "meanings": {
+      "light": [
+        "Listening to your feelings and intuitions",
+        "Exploring unconventional spirituality",
+        "Keeping secrets",
+        "Being receptive",
+        "Reflecting instead of acting",
+        "Observing others",
+        "Preserving purity"
+      ],
+      "shadow": [
+        "Being aloof",
+        "Obsessing on secrets and conspiracies",
+        "Rejecting guidance from spirit or intuition",
+        "Revealing all",
+        "Ignoring gut feelings",
+        "Refusing to become involved, even when involvement is appropriate"
+      ]
+    },
+    "name": "The Papess/High Priestess",
+    "rank": 2,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Pregnancy is in the cards",
+      "An opportunity to be involved in luxurious sexuality is coming",
+      "Beware a tendency toward addiction"
+    ],
+    "keywords": ["fertility", "productivity", "ripeness", "nurturing"],
+    "meanings": {
+      "light": [
+        "Nurturing yourself and others",
+        "Bearing fruit",
+        "Celebrating your body",
+        "Bearing (literal or figurative) children",
+        "Reveling in luxury",
+        "Mothering those around you in positive ways",
+        "Enjoying your sexuality",
+        "Getting things done"
+      ],
+      "shadow": [
+        "Overindulging",
+        "Being greedy",
+        "Smothering someone with attention",
+        "Debilitating someone by being overprotective",
+        "Inhibiting productivity by obsessing on productivity",
+        "Being overcome by addictive behavior"
+      ]
+    },
+    "name": "The Empress",
+    "rank": 3,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "A father figure arrives",
+      "A new employer or authority figure will give you orders",
+      "Expect discipline or correction in the near future"
+    ],
+    "keywords": ["authority", "regulation", "direction", "structure"],
+    "meanings": {
+      "light": [
+        "Exercising authority",
+        "Defining limits",
+        "Directing the flow of work",
+        "Communicating clear guidelines",
+        "Being in control of yourself and others",
+        "Tempering aggressive masculinity with wisdom and experience"
+      ],
+      "shadow": [
+        "Micromanaging",
+        "Crushing the creativity of others with a rigid, iron-fisted approach",
+        "Insisting on getting your own way",
+        "Assuming a dictatorial mindset",
+        "Using overt force to achieve your goals and maintain order"
+      ]
+    },
+    "name": "The Emperor",
+    "rank": 4,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Expect to be caught in a misdeed and punished accordingly",
+      "Pray for forgiveness and confess wrongdoings",
+      "A more experienced man, spiritual leader, or father figure will come into your life"
+    ],
+    "keywords": ["guidance", "knowledge", "revelation", "belief"],
+    "meanings": {
+      "light": [
+        "Teaching or guiding others",
+        "Searching for the truth",
+        "Asking for guidance from a higher power",
+        "Acknowledging the wisdom and experience of others",
+        "Taking vows",
+        "Engaging in heartfelt rituals",
+        "Volunteering"
+      ],
+      "shadow": [
+        "Using experience as a means of manipulating or misguiding others",
+        "Being dogmatic",
+        "Favoring tradition over what is expedient or necessary",
+        "Going through the motions of empty rituals",
+        "Concealing wisdom",
+        "Restricting access to spiritual truths or the gods"
+      ]
+    },
+    "name": "The Pope/Hierophant",
+    "rank": 5,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "A new personal or professional relationship blossoms",
+      "Sexual opportunities abound",
+      "Unexpectedly, a friend becomes a lover"
+    ],
+    "keywords": ["love", "passion", "unity", "choice"],
+    "meanings": {
+      "light": [
+        "Being in love",
+        "Showing your love to others",
+        "Expressing passion or romantic feelings",
+        "Aligning yourself with groups or like-minded others",
+        "Bringing people together",
+        "Making well-informed decisions"
+      ],
+      "shadow": [
+        "Debilitating passion",
+        "Allowing an unhealthy desire for love to motivate destructive behavior",
+        "Disrupting unity",
+        "Working against the best interests of those who care about you",
+        "Ill-informed decisions"
+      ]
+    },
+    "name": "The Lovers",
+    "rank": 6,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Victory is a certainty",
+      "Move ahead with all plans",
+      "Beware the jealousy of others"
+    ],
+    "keywords": ["advancement", "victory", "triumph", "success"],
+    "meanings": {
+      "light": [
+        "Breaking through barriers",
+        "Moving forward with confidence and authority",
+        "Reaching the pinnacle of success",
+        "Basking in the glory of achievement",
+        "Guiding an effort to total victory",
+        "Establishing yourself as a worthy leader"
+      ],
+      "shadow": [
+        "Resting on laurels",
+        "Riding roughshod over the feelings or expectations of others",
+        "Focusing more on past successes than future opportunities",
+        "Failing to rein in impulsive behavior"
+      ]
+    },
+    "name": "The Chariot",
+    "rank": 7,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Your self-control will be tested",
+      "A woman will seek to change her partner or lover",
+      "You are a strong, capable person"
+    ],
+    "keywords": [
+      "discipline",
+      "boldness",
+      "self-discipline",
+      "power",
+      "vitality"
+    ],
+    "meanings": {
+      "light": [
+        "Imposing restrictions on yourself for your own benefit",
+        "Bringing your passions under the control of reason",
+        "Resisting impulses that work against your best interests",
+        "Taking bold action"
+      ],
+      "shadow": [
+        "Indulging weakness, even when you know it will damage your health and happiness",
+        "Languishing in addiction",
+        "Allowing your instincts to tame and conquer you",
+        "Failing to take a stand when necessary"
+      ]
+    },
+    "name": "Strength",
+    "rank": 8,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "A period of loneliness begins",
+      "One partner in a relationship departs",
+      "A search for love or money proves fruitless"
+    ],
+    "keywords": ["solitude", "experience", "stillness", "withdrawal"],
+    "meanings": {
+      "light": [
+        "Becoming or seeking out a guru",
+        "Going on a retreat",
+        "Recharging spiritual or creative batteries",
+        "Lighting the way for those with less experience",
+        "Stepping back to gain perspective"
+      ],
+      "shadow": [
+        "Being a loner",
+        "Fearing contact with others",
+        "Becoming a know-it-all",
+        "Inflating claims of expertise",
+        "Hiding your skills and talents out of fear of unworthiness"
+      ]
+    },
+    "name": "The Hermit",
+    "rank": 9,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Some events are in the hands of heaven",
+      "You've lived through this before",
+      "What happened then?"
+    ],
+    "keywords": ["luck", "randomness", "cycles", "karma", "fate", "revolution"],
+    "meanings": {
+      "light": [
+        "Allowing events to unfold",
+        "Seeing the larger pattern in everyday events",
+        "Trusting your luck",
+        "Watching for cycles",
+        "Believing that \"what goes around, comes around\""
+      ],
+      "shadow": [
+        "Losing money gambling",
+        "Refusing to do your part to bring a plan to fruition",
+        "Taking a fatalistic approach to life",
+        "Fighting the natural course of events"
+      ]
+    },
+    "name": "The Wheel",
+    "rank": 10,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "A legal verdict will be rendered soon",
+      "Someone is making a decision",
+      "You need to get the facts"
+    ],
+    "keywords": ["balance", "law", "fairness", "objectivity"],
+    "meanings": {
+      "light": [
+        "Making an objective decision",
+        "Weighing an issue carefully before taking action",
+        "Appropriately scaling your reaction to a situation",
+        "Getting all the facts",
+        "Considering evidence",
+        "Deliberating"
+      ],
+      "shadow": [
+        "Delivering harsh criticism",
+        "Obsessing on rules and regulations",
+        "Playing by the book even when it is destructive or counterproductive to do so",
+        "Confusing snap decisions with timely action",
+        "Playing favorites"
+      ]
+    },
+    "name": "Justice",
+    "rank": 11,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "A traitor is revealed",
+      "One of your friends is working against you",
+      "Change your ways or suffer the consequences"
+    ],
+    "keywords": [
+      "enlightenment",
+      "sacrifice",
+      "perspective",
+      "suspension",
+      "reversals"
+    ],
+    "meanings": {
+      "light": [
+        "Seeing growth opportunities in unpleasant events",
+        "Experiencing a dramatic change in personal perspective",
+        "Making the best of an unforeseen change in your life or work",
+        "Suspending disbelief",
+        "Making sacrifices"
+      ],
+      "shadow": [
+        "Being untrue to yourself and your values",
+        "Refusing to make sacrifices when appropriate",
+        "Refusing to adapt to new situations",
+        "Blaming others",
+        "Profiting at the expense of others"
+      ]
+    },
+    "name": "The Hanged Man",
+    "rank": 12,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "A relationship or illness ends suddenly",
+      "Limit travel and risk-taking",
+      "General gloom and doom"
+    ],
+    "keywords": ["ending", "conclusion", "transition", "passage", "departure"],
+    "meanings": {
+      "light": [
+        "Bringing an unpleasant phase of life to an end",
+        "Recognizing and celebrating the conclusion of something",
+        "Putting bad habits to rest",
+        "Becoming a new person",
+        "Leaving one person, place, or thing for another",
+        "Letting go"
+      ],
+      "shadow": [
+        "Obsessing on death and dying",
+        "Refusing to give up old habits or unhealthy relationships",
+        "Insisting that everything and everyone should stay the same forever",
+        "Failing to take good care of yourself"
+      ]
+    },
+    "name": "Death",
+    "rank": 13,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Someone's using drugs or alcohol to excess",
+      "It's time to get back on that diet"
+    ],
+    "keywords": [
+      "blending",
+      "synthesis",
+      "mediation",
+      "combination",
+      "harmony"
+    ],
+    "meanings": {
+      "light": [
+        "Bringing opposites together",
+        "Moderating your actions or emotions",
+        "Finding middle ground",
+        "Reaching compromises",
+        "Synthesizing solutions that please everyone involved",
+        "Using the old to make something new"
+      ],
+      "shadow": [
+        "Going to extremes",
+        "Disrupting group efforts",
+        "Ignoring healthy approaches to life",
+        "Becoming an addict",
+        "Practicing gluttony",
+        "Tearing something or someone apart",
+        "Breaking alliances"
+      ]
+    },
+    "name": "Temperance",
+    "rank": 14,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Adultery and unfaithfulness",
+      "A string of extremely bad luck is coming your way",
+      "Beware evil influences and wolves in sheep's clothing"
+    ],
+    "keywords": ["shadow", "materialism", "bondage", "delusion"],
+    "meanings": {
+      "light": [
+        "Appreciating the luxuries that life has to offer",
+        "Being comfortable in your own skin",
+        "Enjoying your sexuality",
+        "Splurging on an expensive personal item",
+        "Embracing the fact that everyone has a darker side",
+        "Dealing with unhealthy impulses in healthy ways"
+      ],
+      "shadow": [
+        "Putting excessive emphasis on appearances",
+        "Always wanting more",
+        "Valuing possessions more than people or relationships",
+        "Allowing base instincts to govern your life",
+        "Being selfish",
+        "Attributing your own dark impulses to outside forces or other people"
+      ]
+    },
+    "name": "The Devil",
+    "rank": 15,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Impending disaster",
+      "Cancel plans and reverse decisions",
+      "Someone wants to take you down a notch or two",
+      "Don't hold back; say what you really mean"
+    ],
+    "keywords": [
+      "demolition",
+      "upheaval",
+      "deconstruction",
+      "disaster",
+      "destruction"
+    ],
+    "meanings": {
+      "light": [
+        "Breaking out of old, confining habits and mindsets",
+        "Clearing the way for new growth",
+        "Dispelling the influence of an inflated ego",
+        "Getting back to basics",
+        "Stripping away harmful illusions",
+        "Receiving sudden insight"
+      ],
+      "shadow": [
+        "Clinging to traditions that repress growth",
+        "Engaging in willful blindness",
+        "Rejecting evidence that change is needed",
+        "Ignoring guidance from a higher power",
+        "Maliciously engaging in destructive behavior"
+      ]
+    },
+    "name": "The Tower",
+    "rank": 16,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Get an astrology chart drawn up",
+      "Someone is a little too starstruck",
+      "What's happening now has long been fore-ordained"
+    ],
+    "keywords": [
+      "hope",
+      "optimism",
+      "openness",
+      "certainty",
+      "faith",
+      "longing",
+      "truth"
+    ],
+    "meanings": {
+      "light": [
+        "Hoping for the best",
+        "Believing good things happen to good people",
+        "Seeing events in the best possible light",
+        "Adopting a generous spirit",
+        "Seeking guidance from above",
+        "Embracing possibility over probability"
+      ],
+      "shadow": [
+        "Denying unpleasant truths",
+        "Denying personal accountability and saying, \"Things just happen!\"",
+        "Ignoring signs and omens",
+        "Preferring illusion to reality",
+        "Spreading pessimism and stinginess of spirit"
+      ]
+    },
+    "name": "The Star",
+    "rank": 17,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Watch for problems at the end of the month",
+      "Someone you know needs to howl at the moon more often",
+      "Someone is about to change his or her mind about an important decision"
+    ],
+    "keywords": ["mystery", "fantasy", "imagination", "dreams", "uncertainty"],
+    "meanings": {
+      "light": [
+        "Enjoying healthy fantasies and daydreams",
+        "Using your imagination",
+        "Practicing magic or celebrating the magic of everyday life",
+        "Attuning yourself to the cycles of nature",
+        "Embracing the unknown"
+      ],
+      "shadow": [
+        "Becoming unable to separate fantasy from reality",
+        "Suffering from delusions",
+        "Losing your appreciation for the fantastic or magical",
+        "Adopting a ruthlessly logical mindset",
+        "Failing to appreciate life's mysteries"
+      ]
+    },
+    "name": "The Moon",
+    "rank": 18,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Everything's coming up roses (or sunflowers, whatever the case may be)",
+      "Whatever's on your mind, go for it because you can't lose today"
+    ],
+    "keywords": ["joy", "brilliance", "validation", "attention", "energy"],
+    "meanings": {
+      "light": [
+        "Seeing things clearly",
+        "Experiencing intense joy",
+        "Celebrating your own successes",
+        "Knowing you're good at what you do",
+        "Gaining recognition for your personal genius"
+      ],
+      "shadow": [
+        "Being dazzled by your own accomplishments",
+        "Becoming absorbed in your own self-image",
+        "Feeling rushed and distracted",
+        "Exerting yourself to the point of exhaustion",
+        "Overstating your abilities or misrepresenting your achievements"
+      ]
+    },
+    "name": "The Sun",
+    "rank": 19,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "An old issue you thought was over will come up again today",
+      "Get ready for huge changes: break-ups, sudden calls from old friends, and unexpected setbacks",
+      "God's trying to get your attention"
+    ],
+    "keywords": [
+      "revival",
+      "renewal",
+      "resurrection",
+      "evaluation",
+      "invitation"
+    ],
+    "meanings": {
+      "light": [
+        "Receiving a wake-up call",
+        "Discovering a new purpose in life",
+        "Becoming totally and completely yourself",
+        "Receiving a well-deserved reward",
+        "Passing an evaluation or examination",
+        "Welcoming the start of a new phase of life"
+      ],
+      "shadow": [
+        "Being weighed in the balances and found wanting",
+        "Failing to measure up to a well-defined standard",
+        "Being caught goofing off or misbehaving",
+        "Failing to prepare for an examination you know is coming",
+        "Rejecting an opportunity to reinvent yourself"
+      ]
+    },
+    "name": "Judgement",
+    "rank": 20,
+    "suit": "major"
+  },
+  {
+    "fortune_telling": [
+      "Winning the lottery",
+      "Getting your heart's desire",
+      "Having everything you ever imagined having"
+    ],
+    "keywords": [
+      "wholeness",
+      "integration",
+      "totality",
+      "completeness",
+      "fullness"
+    ],
+    "meanings": {
+      "light": [
+        "Having it all",
+        "Knowing and loving yourself as completely as possible",
+        "Seeing the interconnection of all things and people",
+        "Enhancing your perspective",
+        "Living life to its fullest",
+        "Understanding the meaning of life"
+      ],
+      "shadow": [
+        "Allowing greed and envy to prevent you from enjoying what you do possess",
+        "Failing to see the larger design in ordinary events",
+        "Believing that everything that exists can be touched, counted, or measured",
+        "Failing to see the divine reflected in those around you"
+      ]
+    },
     "name": "The World",
-    "url": "the_world",
-    "image": "images/21.jpeg",
-    "desc": "Completion of a process. Balanced activity and achievements in various domains. Contact with far places. Harmony and correspondence between different planes. Pregnancy, something new is about to be born. The Dance of Life.",
-    "message": "everything is perfect as it is",
-    "rdesc": "Life in a bubble, difficulty in sharing your world with others. Disconnection of inner feelings from external life. Preoccupation with oneself, idealized self-image, inability to move forward.",
-    "sequence": 22,
-    "qabalah": "between Hod and Malkuth",
-    "hebrew_letter": "&#1514;",
-    "meditation": "Then I was at work beside him,\nand I was daily his delight,\nrejoicing before him always,\nrejoicing in his inhabited world\nand delighting in the sons of men.\n(Proverbs 7 30-31)",
-    "card_type": "major"
+    "rank": 21,
+    "suit": "major"
   },
-
   {
-    "name": "King of Swords",
-    "url": "king_of_swords",
-    "image": "images/swki.jpeg",
-    "desc": "A determination to break from the past, a strong will. Feeling equipped to deal with uncertainty. Wisdom and intellectual maturity.",
-    "rdesc": "A divided heart, a need to cut off from something to which one is still attached. Over-calculating in a vain attempt to overcome uncertainty.",
-    "sequence": 23,
-    "qabalah": "&#1497; of &#x1f701; (Yod of Air)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Someone has the \"hots\" for you",
+      "A new job offer is coming your way",
+      "Walk softly, and carry a big stick"
+    ],
+    "keywords": ["desire", "inspiration", "vision", "creation", "invention"],
+    "meanings": {
+      "light": [
+        "Being inspired",
+        "Identifying an important goal",
+        "Being given the opportunity to do whatever you want to do",
+        "Giving or receiving direction",
+        "Seeing a solution",
+        "Creating something new",
+        "Being aroused, sexually or creatively"
+      ],
+      "shadow": [
+        "Failing to take advantage of a great opportunity",
+        "Being ineffectual or lazy",
+        "Making an inadequate effort",
+        "Working toward a goal, but lacking the resources or initiative to achieve success",
+        "Setting inappropriate goals",
+        "Failing to take a stand"
+      ]
+    },
+    "name": "ace of wands",
+    "rank": 1,
+    "suit": "wands"
   },
-
   {
-    "name": "Queen of Swords",
-    "url": "queen_of_swords",
-    "image": "images/swqu.jpeg",
-    "desc": "A secure and protected position. Defending one’s territory. Preparation of something that shouldn’t be exposed yet.",
-    "rdesc": "Defensiveness and rigidity. Suspicion and fixed ideas block advancement and preclude new connections.",
-    "sequence": 24,
-    "qabalah": "&#1492; of &#x1f701; (Heh of Air)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Beware false friends",
+      "Don't be mealy-mouthed; say what you think and do what you want to do"
+    ],
+    "keywords": ["conflict", "decision", "option", "individuality"],
+    "meanings": {
+      "light": [
+        "Having a choice",
+        "Offering or being offered an option",
+        "Seeing the value of another person's approach",
+        "Understanding there's more than one way to \"skin a cat\"",
+        "Successfully doing more than one thing at a time",
+        "Being empowered to make a choice"
+      ],
+      "shadow": [
+        "Misrepresenting your intentions",
+        "Doing one thing while desiring another",
+        "Changing course mid-stream for no good reason",
+        "Refusing to change your goal even when pursuing it no longer makes sense",
+        "Disregarding the input of others"
+      ]
+    },
+    "name": "two of wands",
+    "rank": 2,
+    "suit": "wands"
   },
-
   {
-    "name": "Knight of Swords",
-    "url": "knight_of_swords",
-    "image": "images/swkn.jpeg",
-    "desc": "Energy and resources to advance, still looking for the right direction. Hovering above practical constraints. Determination and perseverance.",
-    "rdesc": "Trying to force one’s misguided views, insisting on a wrong direction. Losing touch with the ground.",
-    "sequence": 25,
-    "qabalah": "&#1493; of &#x1f701; (Vav of Air)",
-    "card_type": "court"
+    "fortune_telling": [
+      "You'll be planning a trip soon",
+      "Be on the lookout: your ship is coming in"
+    ],
+    "keywords": ["implementation", "action", "exploration"],
+    "meanings": {
+      "light": [
+        "Putting a plan into motion",
+        "Taking that critical first step",
+        "Making good things happen",
+        "Going beyond your limits",
+        "Blazing new trails",
+        "Hitting the ground running",
+        "Seeing your plans come to fruition"
+      ],
+      "shadow": [
+        "Procrastinating",
+        "Knowing what to do, but refusing to do it",
+        "Launching a project without a clear definition of who should do what",
+        "Rejecting an opportunity to try something new",
+        "Failing to finish what you start"
+      ]
+    },
+    "name": "three of wands",
+    "rank": 3,
+    "suit": "wands"
   },
-
   {
-    "name": "Page of Swords",
-    "url": "page_of_swords",
-    "image": "images/swpa.jpeg",
-    "desc": "Preparation for a future challenge. Looking for a compromise between reason and strong desires. Hesitating to use one’s power.",
-    "rdesc": "Confusion, negative and inhibiting thoughts, self-defeat. Sloppy use of one’s own tools may cause damage.",
-    "sequence": 26,
-    "qabalah": "&#1492; of &#x1f701; (Heh (final) of Air)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Someone is watching and evaluating your work",
+      "You may get a wedding invitation soon"
+    ],
+    "keywords": [
+      "celebration",
+      "jubilation",
+      "community",
+      "teamwork",
+      "completion"
+    ],
+    "meanings": {
+      "light": [
+        "Sharing in a great celebration",
+        "Sharing in a communal sense of achievement and success",
+        "Preparing for a party",
+        "Working together toward a common goal",
+        "Giving or winning awards"
+      ],
+      "shadow": [
+        "Keeping your nose to the grindstone",
+        "Recognizing good work by demanding more work",
+        "Failing to share in a group celebration",
+        "Allowing sour grapes to poison your moment in the sun",
+        "Refusing to do your part"
+      ]
+    },
+    "name": "four of wands",
+    "rank": 4,
+    "suit": "wands"
   },
-
   {
-    "name": "Ace of Swords",
-    "url": "ace_of_swords",
-    "image": "images/sw01.jpeg",
-    "desc": "A planned initiative. Rational and logical thinking, sharpness of mind. A conclusive decision. Readiness to fight. Ambition, competitiveness. A victory with stable achievements.",
-    "rdesc": "Negative and unproductive thoughts. Misconceptions, delusions. Self-defeat. Injury.",
-    "sequence": 27,
-    "qabalah": "&#x1f701; (Air) of Kether",
-    "card_type": "ace"
+    "fortune_telling": [
+      "Prepare for a fight with your best friend",
+      "Remember: once you let words loose, you can't take them back"
+    ],
+    "keywords": [
+      "confrontation",
+      "disruption",
+      "distinction",
+      "objection",
+      "strife"
+    ],
+    "meanings": {
+      "light": [
+        "Calmly expressing a dissenting opinion",
+        "Allowing someone to use his or her own methods to get a job done",
+        "Opening the floor for discussion or debate",
+        "Comparing progress made so far to standards set earlier"
+      ],
+      "shadow": [
+        "Berating others for their ridiculous opinions",
+        "Picking fights",
+        "Offering destructive criticism",
+        "Baiting people with barbed remarks",
+        "Disrupting progress with an endless stream of pointless objections"
+      ]
+    },
+    "name": "five of wands",
+    "rank": 5,
+    "suit": "wands"
   },
-
   {
-    "name": "Two of Swords",
-    "url": "two_of_swords",
-    "image": "images/sw02.jpeg",
-    "desc": "Boundaries. Limits that protect and define something which is in development. Making full use of the present situation. Preparations for future advancement. A clear view encompassing the overall situation.",
-    "rdesc": "(similar to upright) Boundaries. Limits that protect and define something which is in development. Making full use of the present situation. Preparations for future advancement. A clear view encompassing the overall situation.",
-    "sequence": 28,
-    "qabalah": "☾ in ♎︎ (Moon in Libra)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Someone is planning a party for you, but not everyone feels so good about your recent success",
+      "Watch out for envious friends"
+    ],
+    "keywords": ["victory", "achievement", "success", "triumph"],
+    "meanings": {
+      "light": [
+        "Outperforming your peers",
+        "Winning a competition",
+        "Being recognized as a capable person",
+        "Having your \"moment in the spotlight\"",
+        "Being cheered on by the crowd",
+        "Getting an award",
+        "Earning the admiration of others",
+        "Telling someone, \"Good job!\""
+      ],
+      "shadow": [
+        "Being a bad winner",
+        "Allowing your achievements to inflate your ego",
+        "Looking down on people who seem less capable",
+        "Craving to be the center of attention",
+        "Giving or receiving insincere praise",
+        "Envying the achievements of others"
+      ]
+    },
+    "name": "six of wands",
+    "rank": 6,
+    "suit": "wands"
   },
-
   {
-    "name": "Three of Swords",
-    "url": "three_of_swords",
-    "image": "images/sw03.jpeg",
-    "desc": "Victory. Overcoming a weak opposition. Cutting through a quandary and going forward in a clear direction. A third party intervenes and wins over two weakened opponents.",
-    "rdesc": "A failure, defeat from a weaker opponent. An unsuccessful attempt to make a decisive move.",
-    "sequence": 29,
-    "qabalah": "♄ in ♎︎ (Saturn in Libra)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Don't be surprised by a personal attack",
+      "Prepare to defend yourself or someone you love"
+    ],
+    "keywords": ["bravery", "resolve", "determination"],
+    "meanings": {
+      "light": [
+        "Refusing to be silenced through fear or intimidation",
+        "Continuing a fight against all odds",
+        "Being fierce",
+        "Defending yourself against physical and emotional attacks",
+        "Refusing to put up with abuse",
+        "Clinging to your values despite all pressure to abandon them"
+      ],
+      "shadow": [
+        "Having a chip on your shoulder",
+        "Taking unnecessary risks as a means of proving your fearlessness",
+        "Looking for an opportunity to take offense",
+        "Responding to constructive criticism with defensiveness",
+        "Refusing to stand up for yourself and your beliefs"
+      ]
+    },
+    "name": "seven of wands",
+    "rank": 7,
+    "suit": "wands"
   },
-
   {
-    "name": "Four of Swords",
-    "url": "four_of_swords",
-    "image": "images/sw04.jpeg",
-    "desc": "Restriction. A limited space for development and maneuver. Trying to push against constraints. Potentials to grow once the present limitations become less solid.",
-    "rdesc": "Confinement and blocking, lack of motivation or energy to break out of a limited situation.",
-    "sequence": 30,
-    "qabalah": "♃ in ♎︎ (Jupiter in Libra)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Watch for a surprising letter in the mail",
+      "Your whole world is about to be turned on its ear"
+    ],
+    "keywords": ["speed", "swiftness", "responsiveness", "change"],
+    "meanings": {
+      "light": [
+        "Taking swift action",
+        "Moving forward with a plan as quickly as possible",
+        "Energizing yourself",
+        "Adapting to sudden changes",
+        "Taking setbacks in stride",
+        "Embracing the idea that nothing stays the same forever",
+        "Reacting quickly and appropriately to unforeseen problems"
+      ],
+      "shadow": [
+        "Giving in to panic",
+        "Running in circles and screaming",
+        "Insisting things must always stay the same",
+        "Stirring the pot just to see what will happen",
+        "Rushing others",
+        "Refusing to re-evaluate a schedule or program, even when it's clearly no longer appropriate"
+      ]
+    },
+    "name": "eight of wands",
+    "rank": 8,
+    "suit": "wands"
   },
-
   {
-    "name": "Five of Swords",
-    "url": "five_of_swords",
-    "image": "images/sw05.jpeg",
-    "desc": "Breakthrough. A forward thrust overcoming the existing limits. Keeping up spirits in a tight situation. Doing things one’s own way.",
-    "rdesc": "A failed initiative to change the situation. Stubbornness leading nowhere. Oppressing factors cannot be removed now.",
-    "sequence": 31,
-    "qabalah": "♀ in ♒︎ (Venus in Aquarius)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Don't relax yet; there's more to come",
+      "The test you're facing now is happening for one reason: to show you who your real friends are"
+    ],
+    "keywords": ["toughness", "persistence", "stamina", "loyalty", "release"],
+    "meanings": {
+      "light": [
+        "Sticking with it for the duration",
+        "Fulfilling your promises and obligations",
+        "Bearing up under incredible duress",
+        "Dragging yourself across the finish line",
+        "Picking yourself up by your own bootstraps",
+        "Refusing to quit",
+        "Going as far as you can go and being satisfied with your performance"
+      ],
+      "shadow": [
+        "Making yourself a martyr",
+        "Abandoning your post",
+        "Giving up at the first sign of opposition",
+        "Being prevented from fulfilling an obligation",
+        "Failing to be dependable",
+        "Refusing to let something go that needs to be released",
+        "Beating a dead horse"
+      ]
+    },
+    "name": "nine of wands",
+    "rank": 9,
+    "suit": "wands"
   },
-
   {
-    "name": "Six of Swords",
-    "url": "six_of_swords",
-    "image": "images/sw06.jpeg",
-    "desc": "Adaptation. Accepting limitations and adapting oneself to them. Respecting the present order. Compromising in order to make the best of the existing situation.",
-    "rdesc": "Resignation, surrender, giving up the ambition to change things for the better. Lack of fighting spirit.",
-    "sequence": 32,
-    "qabalah": "☿ in ♒︎ (Mercury in Aquarius)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "You're worn out",
+      "Back off, take a time out, and let someone else handle things for a while"
+    ],
+    "keywords": ["exhaustion", "resistance", "burden", "oppression"],
+    "meanings": {
+      "light": [
+        "Holding your own in extreme circumstances",
+        "Helping others carry their burdens",
+        "Coming to the aid of the oppressed",
+        "Knowing and being honest about your own limits",
+        "Recognizing when you are not well-suited for a particular task"
+      ],
+      "shadow": [
+        "Taking on more work than you know you can handle",
+        "Refusing to say \"No\" when you're already overloaded",
+        "Making a habit of working overtime",
+        "Shielding others from facing the consequences of their own poor judgment",
+        "Over-extending yourself on a regular basis"
+      ]
+    },
+    "name": "ten of wands",
+    "rank": 10,
+    "suit": "wands"
   },
-
   {
-    "name": "Seven of Swords",
-    "url": "seven_of_swords",
-    "image": "images/sw07.jpeg",
-    "desc": "Sharpness. A focused and determined attitude. Concentrating on a clear goal and doing what it takes to reach it. Winning a fight with the odds evenly balanced.",
-    "rdesc": "A narrow and over-concentrated vision. Investing one’s efforts and resources in a lost cause.",
-    "sequence": 33,
-    "qabalah": "☾ in ♒︎ (Moon in Aquarius)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a young man or woman with a fiery, enthusiastic demeanor, likely born a Cancer, Leo, or Virgo, who wants to start a new relationship with you"
+    ],
+    "keywords": [
+      "enthusiasm",
+      "eagerness",
+      "confidence",
+      "validation",
+      "affirmation"
+    ],
+    "meanings": {
+      "light": [
+        "Leaping at a new opportunity",
+        "Being a cheerleader or ardent advocate for your cause",
+        "Being a True Believer",
+        "Taking first steps toward independence",
+        "Trusting in your own abilities",
+        "Asking for feedback"
+      ],
+      "shadow": [
+        "Basing your entire self-image on what others think",
+        "Seizing every new idea that comes your way without question",
+        "Habitually discounting input or feedback from others",
+        "Being so eager to \"do it yourself\" that you hinder your own progress"
+      ]
+    },
+    "name": "page of wands",
+    "rank": "page",
+    "suit": "wands"
   },
-
   {
-    "name": "Eight of Swords",
-    "url": "eight_of_swords",
-    "image": "images/sw08.jpeg",
-    "desc": "Defenses. Putting up shields and blocks. Psychological defense mechanisms. A need to be in total control. A well-guarded treasure. Entering another’s domain with permission.",
-    "rdesc": "(similar to upright) Defenses. Putting up shields and blocks. Psychological defense mechanisms. A need to be in total control. A well-guarded treasure. Entering another’s domain with permission.",
-    "sequence": 34,
-    "qabalah": "♃ in ♊︎ (Jupiter in Gemini)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a man with a bold, passionate personality, likely born between July 12th and August 11th, who wants to sweep you off your feet"
+    ],
+    "keywords": ["boldness", "bravado", "passion", "persuasion", "advocacy"],
+    "meanings": {
+      "light": [
+        "Charging ahead",
+        "Making rapid progress",
+        "Refusing limits",
+        "Dazzling those around you with your wit and charm",
+        "Convincing others of your right to leadership",
+        "Convincing others to follow you",
+        "Being a catalyst for change"
+      ],
+      "shadow": [
+        "Blundering forward with inadequate skill or information",
+        "Running roughshod over the feelings of others",
+        "Using sex appeal to manipulate others",
+        "Forcing your leadership or ideology on others",
+        "Beginning many projects without finishing any"
+      ]
+    },
+    "name": "knight of wands",
+    "rank": "knight",
+    "suit": "wands"
   },
-
   {
-    "name": "Nine of Swords",
-    "url": "nine_of_swords",
-    "image": "images/sw09.jpeg",
-    "desc": "Courage. Winning a fight against a superior force. Pure intentions. Putting imperfect means to good use.",
-    "rdesc": "Losing against a stronger opponent. Sloppiness, imperfect preparations for a challenge.",
-    "sequence": 35,
-    "qabalah": "♂ in ♊︎ (Mars in Gemini)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a woman with an attractive, appealing personality, likely born between March 11th and April 20th, who wants to charm you into doing things her way"
+    ],
+    "keywords": ["attention", "attraction", "unification", "collaboration"],
+    "meanings": {
+      "light": [
+        "Paying close attention",
+        "Helping others focus on the issue at hand",
+        "Getting everyone to work together",
+        "Identifying common ground",
+        "Bringing people together, despite their differences",
+        "Using reverse psychology"
+      ],
+      "shadow": [
+        "Being distracted, or using your charms or skills to distract others from the goal",
+        "Calling attention to yourself with negative or unhealthy behaviors",
+        "Disrupting group activities as a means of feeding your own ego"
+      ]
+    },
+    "name": "queen of wands",
+    "rank": "queen",
+    "suit": "wands"
   },
-
   {
-    "name": "Ten of Swords",
-    "url": "ten_of_swords",
-    "image": "images/sw10.jpeg",
-    "desc": "Exhaustion. A complex situation with many conflicting interests. A long battle without a clear outcome. Need to find an ally who will attack the problem from a different direction.",
-    "rdesc": "Immobility. Impossible to move now. Feeling attacked from different sides. A painful and humiliating defeat.",
-    "sequence": 36,
-    "qabalah": "☉ in ♊︎ (Sun in Gemini)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents an older man with a commanding, charismatic personality, likely born between November 13th and December 12th, who prefers to give directions and have them followed"
+    ],
+    "keywords": ["creativity", "ingenuity", "achievement", "direction"],
+    "meanings": {
+      "light": [
+        "Putting old things together in new and exciting ways",
+        "Coming up with unexpected solutions",
+        "Using your experience to solve puzzles and problems",
+        "Doing what you set out to do",
+        "Directing the efforts of others"
+      ],
+      "shadow": [
+        "Using your creativity to get out of honest work",
+        "Investing great energy in avoiding responsibility",
+        "Boasting about achievements without putting your expertise to practical use",
+        "Lording it over others"
+      ]
+    },
+    "name": "king of wands",
+    "rank": "king",
+    "suit": "wands"
   },
-
   {
-    "name": "King of Coins",
-    "url": "king_of_coins",
-    "image": "images/peki.jpeg",
-    "desc": "Confidence and security, a cautious but optimistic vision. Looking for new achievements while holding existing assets secure.",
-    "rdesc": "Dissatisfaction with what one already has. Disregard of the good things in the present situation. A limited outlook.",
-    "sequence": 37,
-    "qabalah": "&#1497; of &#x1f703; (Yod of Earth)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Romance is in the cards",
+      "A new relationship or marriage is just around the corner",
+      "Prayers are answered"
+    ],
+    "keywords": ["intuition", "spirituality", "affection", "motivation"],
+    "meanings": {
+      "light": [
+        "Trusting your feelings",
+        "Opening yourself to spirit",
+        "Accepting and returning affection",
+        "Getting in touch with what motivates you",
+        "Taking advantage of an opportunity to express love to others",
+        "Listening to the still, small voice"
+      ],
+      "shadow": [
+        "Hiding your feelings",
+        "Spurning an opportunity to love or be loved",
+        "Numbing yourself to spiritual yearnings",
+        "Rejecting the counsel of your heart",
+        "Becoming a puppet of your own emotions",
+        "Indulging in hysteria or obsession"
+      ]
+    },
+    "name": "ace of cups",
+    "rank": 1,
+    "suit": "cups"
   },
-
   {
-    "name": "Queen of Coins",
-    "url": "queen_of_coins",
-    "image": "images/pequ.jpeg",
-    "desc": "Tangible assets, material and personal stability, a sober and realistic vision. Looking at things from a practical and pragmatic perspective.",
-    "rdesc": "Conservatism, resistance to change, aiming only to preserve the existing assets. Looking at things only from the material perspective.",
-    "sequence": 38,
-    "qabalah": "&#1492; of &#x1f703; (Heh of Earth)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Someone has a secret crush on you",
+      "Relationships should be mutual; get rid of a leech"
+    ],
+    "keywords": ["union", "attraction", "combination", "affection"],
+    "meanings": {
+      "light": [
+        "Being drawn to someone",
+        "Longing for someone or something",
+        "Acting on your desires",
+        "Discovering a feeling is mutual",
+        "Doing what makes you feel good",
+        "Merging",
+        "Healing broken ties",
+        "Admitting two people feel differently about each other and moving on"
+      ],
+      "shadow": [
+        "Burning bridges",
+        "Becoming caught up in unhealthy codependency",
+        "Shutting out anyone but your chosen few",
+        "Obsessing on someone who does not return your affections",
+        "Despairing over finding \"The One\"",
+        "Deceiving yourself about your true orientation"
+      ]
+    },
+    "name": "two of cups",
+    "rank": 2,
+    "suit": "cups"
   },
-
   {
-    "name": "Knight of Coins",
-    "url": "knight_of_coins",
-    "image": "images/pekn.jpeg",
-    "desc": "Advancement in a practical direction. A productive expression of creativity. A clear goal in sight.",
-    "rdesc": "Constant pursuit of money, without reaching material stability. Passions and desires may interfere with practical plans.",
-    "sequence": 39,
-    "qabalah": "&#1493; of &#x1f703; (Vav of Earth)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Unconventional romance is coming your way: a love affair with someone you've always dismissed"
+    ],
+    "keywords": ["celebration", "expression", "community", "friendliness"],
+    "meanings": {
+      "light": [
+        "Celebrating your feelings or connections with others",
+        "Expressing joy through song, dance, or physical affection",
+        "Working together with others who share your feelings",
+        "Performing acts of service as a way of saying, \"I love you\"",
+        "Embracing unconventional romantic arrangements"
+      ],
+      "shadow": [
+        "Mistaking giddiness for true affection",
+        "Being dominated by manic emotions",
+        "Expecting everyone to always feel the same way you do",
+        "Demanding unreasonable support from friends or family",
+        "Partying to a dangerous or unhealthy extent"
+      ]
+    },
+    "name": "three of cups",
+    "rank": 3,
+    "suit": "cups"
   },
-
   {
-    "name": "Page of Coins",
-    "url": "page_of_coins",
-    "image": "images/pepa.jpeg",
-    "desc": "A practical endeavor. Untapped potentials are within reach. Tangible success at the beginning. A solid material base for further advancement.",
-    "rdesc": "Hesitation, lack of clear purpose. Thinking in terms of past achievements misses present opportunities.",
-    "sequence": 40,
-    "qabalah": "&#1492; of &#x1f703; (Heh (final) of Earth)",
-    "card_type": "court"
+    "fortune_telling": [
+      "A lover is getting restless",
+      "Find out what he or she needs, or new opportunities may lure your partner away"
+    ],
+    "keywords": [
+      "boredom",
+      "listlessness",
+      "lethargy",
+      "stability",
+      "ingratitude"
+    ],
+    "meanings": {
+      "light": [
+        "Maintaining your emotional stability",
+        "Refusing to give in to overwhelming emotions",
+        "Appreciating what you have and refusing to take it for granted",
+        "Seeing the value of long-term commitments"
+      ],
+      "shadow": [
+        "Being bored",
+        "Daydreaming at the expense of your work",
+        "Refusing to be engaged by opportunity",
+        "Taking people and relationships for granted",
+        "Ignoring romantic or spiritual opportunities",
+        "Spurning inspiration",
+        "Feeling everything should stay \"just like it is\""
+      ]
+    },
+    "name": "four of cups",
+    "rank": 4,
+    "suit": "cups"
   },
-
   {
-    "name": "Ace of Coins",
-    "url": "ace_of_coins",
-    "image": "images/pe01.jpeg",
-    "desc": "A good start in material things. Financial and physical stability. A practical perspective. A significant sum of money. Utilitarian approach. Greed. Something basic and unsophisticated.",
-    "rdesc": "(similar to upright) A good start in material things. Financial and physical stability. A practical perspective. A significant sum of money. Utilitarian approach. Greed. Something basic and unsophisticated.",
-    "sequence": 41,
-    "qabalah": "&#x1f703; (Earth) of Kether",
-    "card_type": "ace"
+    "fortune_telling": [
+      "A breakup looms",
+      "Don't cry over spilt milk",
+      "Take your lumps and get back in the saddle"
+    ],
+    "keywords": [
+      "loss",
+      "despair",
+      "re-evaluation",
+      "regret",
+      "uncertainty",
+      "repentance"
+    ],
+    "meanings": {
+      "light": [
+        "Acknowledging loss and moving on",
+        "Focusing on how the glass remains \"half-full\"",
+        "Finding the silver lining in a dark cloud",
+        "Recognizing that loss is a natural part of life",
+        "Embracing healthy grief",
+        "Learning lessons from harsh consequences"
+      ],
+      "shadow": [
+        "Wallowing in unhealthy grief or self-pity",
+        "Refusing to move on and let go",
+        "Clinging to the past",
+        "Obsessing on past lives and past loves",
+        "Failing to live in the present",
+        "Beating yourself up over past mistakes",
+        "Allowing fear of failure to limit your efforts"
+      ]
+    },
+    "name": "five of cups",
+    "rank": 5,
+    "suit": "cups"
   },
-
   {
-    "name": "Two of Coins",
-    "url": "two_of_coins",
-    "image": "images/pe02.jpeg",
-    "desc": "Duality. Two options or two elements. Collaborating while keeping distance. A winding road, advancing in complex ways. Recognition and acknowledgment.",
-    "rdesc": "(similar to upright) Duality. Two options or two elements. Collaborating while keeping distance. A winding road, advancing in complex ways. Recognition and acknowledgment.",
-    "sequence": 42,
-    "qabalah": "♃ in ♑︎ (Jupiter in Capricorn)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "A stingy spirit is strangling your enjoyment of life",
+      "Loosen up and think of others for once, why don't you?"
+    ],
+    "keywords": ["charity", "sharing", "sacrifice", "cooperation", "fairness"],
+    "meanings": {
+      "light": [
+        "Donating your time and talents to others",
+        "Taking satisfaction in knowing how your efforts will aid others",
+        "Creating a \"win-win\" scenario",
+        "Giving even when you know repayment is not possible",
+        "Being motivated to do a good deed"
+      ],
+      "shadow": [
+        "Linking your sense of self-worth to the appraisals of others",
+        "Striving to appear more needy than you really are",
+        "Taking undeserved or unmerited charity",
+        "Bragging about your charitable efforts",
+        "Profiteering in times of distress",
+        "Refusing to share a burden"
+      ]
+    },
+    "name": "six of cups",
+    "rank": 6,
+    "suit": "cups"
   },
-
   {
-    "name": "Three of Coins",
-    "url": "three_of_coins",
-    "image": "images/pe03.jpeg",
-    "desc": "Product. A partnership or an alliance bears fruit. First results of a project. Good prospects.",
-    "rdesc": "Disappointment, a partnership or a project does not bear the expected fruits.",
-    "sequence": 43,
-    "qabalah": "♂ in ♑︎ (Mars in Capricorn)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "You're being fed a line",
+      "Rather than be dazzled by fancy words and promises, demand something real"
+    ],
+    "keywords": ["imagination", "dreams", "illusions", "goals"],
+    "meanings": {
+      "light": [
+        "Motivating yourself with images of future success",
+        "Using visualization to encourage progress",
+        "Taking an imaginative or creative approach to problem solving",
+        "Making dreams come true",
+        "Gleaning insight from personal visions"
+      ],
+      "shadow": [
+        "Obsessing on imaginary fears or uncertain consequences",
+        "Giving in to emotional or political terrorism",
+        "Spending more time dreaming than working",
+        "Failing to envision the possible repercussions of your choices",
+        "Being controlled by fear"
+      ]
+    },
+    "name": "seven of cups",
+    "rank": 7,
+    "suit": "cups"
   },
-
   {
-    "name": "Four of Coins",
-    "url": "four_of_coins",
-    "image": "images/pe04.jpeg",
-    "desc": "Stability. Solid material assets. Tradition, reputation and honor. Time-tested reliability. Established social institutions.",
-    "rdesc": "Conservatism, clinging to old and outdated patterns.",
-    "sequence": 44,
-    "qabalah": "☉ in ♑︎ (Sun in Capricorn)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Someone's \"stepping out\" on you, now or in the near future",
+      "Maybe it's time to quit talking about the problem and just move on"
+    ],
+    "keywords": [
+      "longing",
+      "dissatisfaction",
+      "quest",
+      "departure",
+      "withdrawal"
+    ],
+    "meanings": {
+      "light": [
+        "Wanting something better",
+        "Blazing your own trail",
+        "Realizing there must be more to life",
+        "Leaving an unhealthy situation behind",
+        "Starting your own business",
+        "Going on a retreat",
+        "Seeking the \"still, small voice\""
+      ],
+      "shadow": [
+        "Being implacable",
+        "Finding fault",
+        "Nitpicking",
+        "Refusing to settle down",
+        "Running away from problems or confrontations",
+        "Saying, \"It's my way or the highway!\"",
+        "Harping on past mistakes and disappointments",
+        "Threatening to quit as a strategy to get your way"
+      ]
+    },
+    "name": "eight of cups",
+    "rank": 8,
+    "suit": "cups"
   },
-
   {
-    "name": "Five of Coins",
-    "url": "five_of_coins",
-    "image": "images/pe05.jpeg",
-    "desc": "Disruption. Something new appears and destabilizes existing structures. A new element gets attention, but also awakens resistance.",
-    "rdesc": "(similar to upright) Disruption. Something new appears and destabilizes existing structures. A new element gets attention, but also awakens resistance.",
-    "sequence": 45,
-    "qabalah": "☿ in ♉︎ (Mercury in Taurus)",
-    "card_type": "minor"
+    "fortune_telling": ["Whatever you want, you'll get it"],
+    "keywords": ["satisfaction", "sensuality", "luxury", "pleasure"],
+    "meanings": {
+      "light": [
+        "Being delighted with your own achievements",
+        "Recognizing your own talents and abilities",
+        "Reveling in the good things life has to offer",
+        "Indulging yourself",
+        "Relaxing and unwinding",
+        "Having everything you need in order to feel complete"
+      ],
+      "shadow": [
+        "Being smug",
+        "Satisfying yourself at the expense of others",
+        "Being selfish",
+        "Over-indulging",
+        "Avoiding work that needs to be done",
+        "Claiming achievements or skills you do not possess",
+        "Never being satisfied, no matter how much you have"
+      ]
+    },
+    "name": "nine of cups",
+    "rank": 9,
+    "suit": "cups"
   },
-
   {
-    "name": "Six of Coins",
-    "url": "six_of_coins",
-    "image": "images/pe06.jpeg",
-    "desc": "Expansion. Abundance of resources and possible ways to advance. A positive outlook, success. A good balance between stability and movement.",
-    "rdesc": "(similar to upright) Expansion. Abundance of resources and possible ways to advance. A positive outlook, success. A good balance between stability and movement.",
-    "sequence": 46,
-    "qabalah": "☾ in ♉︎ (Moon in Taurus)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Marriage and family are in the cards",
+      "Expect a friendship to blossom into a romance"
+    ],
+    "keywords": ["joy", "fulfillment", "overwhelming emotion", "giddiness"],
+    "meanings": {
+      "light": [
+        "Having more than you ever dreamed",
+        "Being deeply thankful for all you've been given",
+        "Recognizing the Hand of God in the gifts the Universe brings your way",
+        "Experiencing transcendent joy",
+        "Achieving domestic bliss"
+      ],
+      "shadow": [
+        "Comparing your achievements or relationships to unrealistic fantasy standards",
+        "Experiencing emotions so intense they blunt your ability to cope with reality",
+        "Feeling overwhelmed",
+        "Envying the achievements and happiness of others"
+      ]
+    },
+    "name": "ten of cups",
+    "rank": 10,
+    "suit": "cups"
   },
-
   {
-    "name": "Seven of Coins",
-    "url": "seven_of_coins",
-    "image": "images/pe07.jpeg",
-    "desc": "Acceptance. Something new is well received. Help and protection. Integrating into a system without losing one’s individuality.",
-    "rdesc": "Lack of independence, need to rely on help and acceptance from others.",
-    "sequence": 47,
-    "qabalah": "♄ in ♉︎ (Saturn in Taurus)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a young man or woman with a watery, dreamy demeanor, likely born a Libra, Scorpio, or Sagittarius, who wants to start a new relationship with you"
+    ],
+    "keywords": [
+      "enthusiasm",
+      "first impressions",
+      "romanticism",
+      "superficiality"
+    ],
+    "meanings": {
+      "light": [
+        "Showing your emotions freely",
+        "Throwing yourself into romance",
+        "Nursing a secret crush",
+        "Indulging in romantic fantasy",
+        "Starting a new relationship",
+        "Recalling your first love",
+        "Experiencing love for the first time",
+        "Converting to a new religion"
+      ],
+      "shadow": [
+        "Mistaking a crush for true love",
+        "Reading romantic intention into innocent action",
+        "Frantically trying to impress others",
+        "Indulging in overly-sweet sentimentality",
+        "Pretending to more romantic or spiritual experience than you possess"
+      ]
+    },
+    "name": "page of cups",
+    "rank": "page",
+    "suit": "cups"
   },
-
   {
-    "name": "Eight of Coins",
-    "url": "eight_of_coins",
-    "image": "images/pe08.jpeg",
-    "desc": "Uniformity. A mechanical structure. Practical considerations prove efficient, but lack a human touch. Routine work. A slow and patient advance.",
-    "rdesc": "(similar to upright) Uniformity. A mechanical structure. Practical considerations prove efficient, but lack a human touch. Routine work. A slow and patient advance.",
-    "sequence": 48,
-    "qabalah": "☉ in ♍︎ (Sun in Virgo)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a man with an emotional, sensitive personality, likely born between October 13th and November 11th, who wants you to rally around his latest passionate cause"
+    ],
+    "keywords": ["fervor", "zeal", "moodiness", "illumination"],
+    "meanings": {
+      "light": [
+        "Being deeply committed to a cause",
+        "Giving in to strong emotions, from excitement to depression",
+        "Acting on intuition alone",
+        "Solving problems intuitively",
+        "Believing in and basing decisions on ideals instead of realities",
+        "Bringing intuition or passion to the table"
+      ],
+      "shadow": [
+        "Becoming a fanatic",
+        "Rejecting information that suggests your intuitions are misguided",
+        "Allowing your emotions to control you",
+        "Giving in to jealousy, confrontation, and peer pressure",
+        "Hiding or ignoring intuitive insights"
+      ]
+    },
+    "name": "knight of cups",
+    "rank": "knight",
+    "suit": "cups"
   },
-
   {
-    "name": "Nine of Coins",
-    "url": "nine_of_coins",
-    "image": "images/pe09.jpeg",
-    "desc": "Motivation. Carving a niche for oneself in an existing system. Ambition. Endurance and independent thinking bear long-term fruits.",
-    "rdesc": "(similar to upright) Motivation. Carving a niche for oneself in an existing system. Ambition. Endurance and independent thinking bear long-term fruits.",
-    "sequence": 49,
-    "qabalah": "♀ in ♍︎ (Venus in Virgo)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a woman with an emotional, deeply spiritual nature, likely born between June 11th and July 11th, who uses emotional and spiritual appeals to sway others to her point of view"
+    ],
+    "keywords": [
+      "insightfulness",
+      "spirituality",
+      "compassion",
+      "empathy",
+      "instinct"
+    ],
+    "meanings": {
+      "light": [
+        "Allowing yourself to be moved by the plight of others",
+        "Feeling strong emotions",
+        "Possessing unusual sympathy or empathy",
+        "Trusting your feelings to guide you",
+        "Calling on psychic abilities",
+        "Achieving unity with Spirit"
+      ],
+      "shadow": [
+        "Becoming so caught up in matters of Spirit, you become detached from the world",
+        "Allowing empathy to disable you (instead of inspire action)",
+        "Using psychic abilities to wield covert influence",
+        "Wallowing in emotionalism, sentiment, or self-pity"
+      ]
+    },
+    "name": "queen of cups",
+    "rank": "queen",
+    "suit": "cups"
   },
-
   {
-    "name": "Ten of Coins",
-    "url": "ten_of_coins",
-    "image": "images/pe10.jpeg",
-    "desc": "Abundance. Intensive activity in practical affairs. Material success and achievements. Some may be getting more than others.",
-    "rdesc": "(similar to upright) Abundance. Intensive activity in practical affairs. Material success and achievements. Some may be getting more than others.",
-    "sequence": 50,
-    "qabalah": "☿ in ♍︎ (Mercury in Virgo)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents an older man with a gentle, sensitive presence, likely born between February 9th and March 10th, who is known for his fairness and tolerance"
+    ],
+    "keywords": ["wisdom", "diplomacy", "restraint", "composure"],
+    "meanings": {
+      "light": [
+        "Keeping a stiff upper lip",
+        "Being brave and clear in the face of adverse circumstances",
+        "Sharing experience as a way of comforting others",
+        "Making fair and empathetic decisions",
+        "Honoring the spirit, not just the letter, of the law"
+      ],
+      "shadow": [
+        "Allowing yourself to become rigid and unemotional",
+        "Making unfair decisions based on a hidden agenda",
+        "Making decisions without regard for their emotional impact on others",
+        "Abusing spiritual authority",
+        "Using emotional or spiritual leverage to exercise unhealthy control over others"
+      ]
+    },
+    "name": "king of cups",
+    "rank": "king",
+    "suit": "cups"
   },
-
   {
-    "name": "King of Cups",
-    "url": "king_of_cups",
-    "image": "images/cuki.jpeg",
-    "desc": "Emotional maturity, optimism, ability to overcome past injuries and look ahead. Openness to new things, but with prudence and caution. Closing one’s ear to voices from the past.",
-    "rdesc": "Difficulty in overcoming an emotional blow. A pessimistic outlook caused by negative past experiences. ",
-    "sequence": 51,
-    "qabalah": "&#1497; of &#x1f704; (Yod of Water)",
-    "card_type": "court"
+    "fortune_telling": [
+      "The time to make a choice is now",
+      "Stop wavering and do what you know is best"
+    ],
+    "keywords": ["logic", "objectivity", "intellect", "choice"],
+    "meanings": {
+      "light": [
+        "Making objective decisions",
+        "Applying logic",
+        "Reasoning your way out of a difficult situation",
+        "Solving puzzles",
+        "Thinking things through",
+        "Emphasizing the facts",
+        "Clearing your mind",
+        "Seeking clarity"
+      ],
+      "shadow": [
+        "Applying ruthless or twisted logic",
+        "Gloating over your own superior intellect",
+        "Using quick thinking to deceive or confuse others",
+        "Confusing snap judgments with quick thinking",
+        "Making decisions without thinking through consequences"
+      ]
+    },
+    "name": "ace of swords",
+    "rank": 1,
+    "suit": "swords"
   },
-
   {
-    "name": "Queen of Cups",
-    "url": "queen_of_cups",
-    "image": "images/cuqu.jpeg",
-    "desc": "A rich inner world which is kept hidden. Guarding one’s privacy or valuable assets. Strong feelings held under control.",
-    "rdesc": "Closure, defensiveness. Distrust of others due to negative past experiences. Hiding one’s emotions under guise of rational criticism.",
-    "sequence": 52,
-    "qabalah": "&#1492; of &#x1f704; (Heh of Water)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Sometimes, the only way to win is to refuse to fight",
+      "You're stuck for now; let time pass before taking action"
+    ],
+    "keywords": ["denial", "debate", "impasse", "truce"],
+    "meanings": {
+      "light": [
+        "Refusing to make a decision without getting the facts",
+        "Exploring both sides of an argument",
+        "Arguing passionately for what you believe in",
+        "Weighing the issues",
+        "Encouraging the open exchange of ideas",
+        "Discussing political or religious issues without getting \"hot under the collar\""
+      ],
+      "shadow": [
+        "Rejecting evidence that conflicts with dearly-held beliefs",
+        "Arguing with others just for the sake of doing so",
+        "Nit-picking",
+        "Putting off a decision because you're afraid to face the consequences",
+        "Preventing others from getting the information they need to make good decisions"
+      ]
+    },
+    "name": "two of swords",
+    "rank": 2,
+    "suit": "swords"
   },
-
   {
-    "name": "Knight of Cups",
-    "url": "knight_of_cups",
-    "image": "images/cukn.jpeg",
-    "desc": "A romantic gesture, offering one’s heart, courting. Openness, sincerity, a simple heart. A potential lover may appear.",
-    "rdesc": "Superficial and unstable feelings. An over-optimistic but unrealistic attitude. An overt display of shallow or insincere feelings. ",
-    "sequence": 53,
-    "qabalah": "&#1493; of &#x1f704; (Vav of Water)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Breakups and infidelity abound",
+      "What hurts now, though, will turn out to be good for you later on"
+    ],
+    "keywords": [
+      "variance",
+      "difference",
+      "dissatisfaction",
+      "heartache",
+      "rejection"
+    ],
+    "meanings": {
+      "light": [
+        "Being brave enough to see things as they really are",
+        "Exercising your critical eye",
+        "Being your own best critic",
+        "Acknowledging that things don't always turn out as planned",
+        "Moving past heartbreak to embrace a painful truth"
+      ],
+      "shadow": [
+        "Wallowing in despair",
+        "Allowing yourself to be completely crushed by the thoughts, words, or deeds of another",
+        "Judging yourself too harshly",
+        "Holding yourself to an unrealistic standard of excellence",
+        "Wearing your heart on your sleeve while carrying a chip on your shoulder"
+      ]
+    },
+    "name": "three of swords",
+    "rank": 3,
+    "suit": "swords"
   },
-
   {
-    "name": "Page of Cups",
-    "url": "page_of_cups",
-    "image": "images/cupa.jpeg",
-    "desc": "First and unsure steps in a romantic endeavor. Shyness. Sincere intentions. Trying to figure out one’s feelings.",
-    "rdesc": "Over-absorption in one’s personal feelings, losing contact with others. Sloppiness in practical affairs.",
-    "sequence": 54,
-    "qabalah": "&#1492; of &#x1f704; (Heh (final) of Water)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Don't make any decision now",
+      "Wait, and you'll be glad you did"
+    ],
+    "keywords": ["meditation", "contemplation", "perspective", "mindset"],
+    "meanings": {
+      "light": [
+        "Thinking over your plans before putting them into action",
+        "Pausing to meditate or clear your mind",
+        "Taking time to understand someone or something before criticizing it",
+        "Resting",
+        "Occupying your thoughts with a healthy distraction"
+      ],
+      "shadow": [
+        "Failing to think things through",
+        "Mistaking procrastination for thoughtfulness",
+        "Adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence",
+        "Allowing chaos and whimsy to dominate your thoughts"
+      ]
+    },
+    "name": "four of swords",
+    "rank": 4,
+    "suit": "swords"
   },
-
   {
-    "name": "Ace of Cups",
-    "url": "ace_of_cups",
-    "image": "images/cu01.jpeg",
-    "desc": "The beginning of a love relationship. Expression of warm feelings. Romantic longing for something extraordinary. Emotional and spiritual growth.",
-    "rdesc": "Emotional dryness, feeling oneself empty. Avoidance of intimacy, negative feelings, heartbreak.",
-    "sequence": 55,
-    "qabalah": "&#x1f704; (Water) of Kether",
-    "card_type": "ace"
+    "fortune_telling": [
+      "Someone is stealing from you, financially or romantically",
+      "Be wary of friends who talk behind your back"
+    ],
+    "keywords": [
+      "selfishness",
+      "hostility",
+      "irrationality",
+      "self-preservation"
+    ],
+    "meanings": {
+      "light": [
+        "Acting in your own best interest",
+        "Choosing to stand up for yourself",
+        "Not backing down from disagreement and discord",
+        "Taking a stand",
+        "Refusing to go along with an unethical plan",
+        "Knowing when to bend the rules"
+      ],
+      "shadow": [
+        "Taking advantage of others",
+        "Intimidating others",
+        "Acting in an unethical manner",
+        "Picking fights",
+        "Using words to goad others into violence and irrationality",
+        "Ignoring rules you've agreed to abide by",
+        "Looking out for yourself while allowing harm to come to others",
+        "Gloating over victory"
+      ]
+    },
+    "name": "five of swords",
+    "rank": 5,
+    "suit": "swords"
   },
-
   {
-    "name": "Two of Cups",
-    "url": "two_of_cups",
-    "image": "images/cu02.jpeg",
-    "desc": "Partnership. A romantic relationship or a close personal alliance. Interpersonal dynamics based on social norms. Passion in a love relationship, which may turn against itself.",
-    "rdesc": "A crisis in a couple relationship, disappointment with someone close to you.",
-    "sequence": 56,
-    "qabalah": "♀ in ♋︎ (Venus in Cancer)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "You'll soon go on a long journey over water",
+      "Actions have unexpected consequences, so be prepared"
+    ],
+    "keywords": ["adaptation", "adjustments", "science", "travel"],
+    "meanings": {
+      "light": [
+        "Making the best of a bad situation",
+        "Recovering from defeat",
+        "Resetting expectations",
+        "Making allowances for unexpected circumstances",
+        "Helping others who find themselves in dire circumstances",
+        "Changing the way you see the world",
+        "Broadening your perspective through study or travel"
+      ],
+      "shadow": [
+        "Refusing to accept that things have changed",
+        "Playing the victim",
+        "Rejecting the idea that your actions have consequences",
+        "Applying scientific criteria to matters of faith, or confusing faith with science",
+        "Believing the whole world should be like your small corner of it"
+      ]
+    },
+    "name": "six of swords",
+    "rank": 6,
+    "suit": "swords"
   },
-
   {
-    "name": "Three of Cups",
-    "url": "three_of_cups",
-    "image": "images/cu03.jpeg",
-    "desc": "Birth. Something new brings joy and happiness. Caring for a child. Issues of child-parent relations. A common project motivated by feelings and not only by interests.",
-    "rdesc": "Problems in relations with one’s parents, or with one’s child. A strong alliance of two persons leaves a third one outside.",
-    "sequence": 57,
-    "qabalah": "☿ in ♋︎ (Mercury in Cancer)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Don't assume people around you are worthy of your trust",
+      "Ask for an accounting of where people have been, and what they've been doing"
+    ],
+    "keywords": ["dishonesty", "presumption", "sneakiness", "assumptions"],
+    "meanings": {
+      "light": [
+        "Refusing to do something dishonest, even when there's no chance of ever being caught",
+        "Handling a difficult situation with finesse",
+        "Pointing out assumptions",
+        "Acting ethically in public and in private",
+        "Living a life that is beyond reproach"
+      ],
+      "shadow": [
+        "Stealing or lying",
+        "Doing whatever you can get away with, simply because you can",
+        "Looking for a way around consequences",
+        "Justifying wicked behavior by focusing on the wickedness of others",
+        "Failing to examine your own motives and prejudices"
+      ]
+    },
+    "name": "seven of swords",
+    "rank": 7,
+    "suit": "swords"
   },
-
   {
-    "name": "Four of Cups",
-    "url": "four_of_cups",
-    "image": "images/cu04.jpeg",
-    "desc": "Family. A collective of people (family, community etc.) with a history and a sense of belonging. Commitment to a group, at the price of giving up personal interests.",
-    "rdesc": "Problems and discord in the family or in a long-lasting community. A fixed social structure which doesn’t allow for adaptation or flexibility.",
-    "sequence": 58,
-    "qabalah": "☾ in ♋︎ (Moon in Cancer)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Get over playing the victim",
+      "Once you realize you are your own biggest obstacle, nothing can hold you back"
+    ],
+    "keywords": ["restriction", "limitation", "confinement", "helplessness"],
+    "meanings": {
+      "light": [
+        "Honoring limits",
+        "Respecting the rules",
+        "Deciding to go on a diet for your health's sake",
+        "Recognizing you cannot always be in control",
+        "Identifying obstacles to further progress",
+        "Refusing to think about unhealthy or unethical options",
+        "Asking for assistance"
+      ],
+      "shadow": [
+        "Feeling trapped",
+        "Being lost in a maze of rules and regulations",
+        "Giving in to despair",
+        "Playing the victim",
+        "Allowing others to dictate what you can and cannot do",
+        "Being rendered helpless",
+        "Having very few options",
+        "Failing to look for a way out"
+      ]
+    },
+    "name": "eight of swords",
+    "rank": 8,
+    "suit": "swords"
   },
-
   {
-    "name": "Five of Cups",
-    "url": "five_of_cups",
-    "image": "images/cu05.jpeg",
-    "desc": "Links. Popularity, relations with many people. Becoming the center of attention in a group. Relying on connections with other people to advance oneself or to overcome difficulties.",
-    "rdesc": "Excessive preoccupation with social activity. Losing oneself in multiple superficial connections. Cultivating virtual instead of real contacts.",
-    "sequence": 59,
-    "qabalah": "♂ in ♏︎ (Mars in Scorpio)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "If you take the action you're considering now, you'll be sorry in the future"
+    ],
+    "keywords": ["remorse", "worry", "distraught", "conclusion"],
+    "meanings": {
+      "light": [
+        "Refusing to worry about what you cannot control",
+        "Rejecting anxiety",
+        "Judging your own performance with kindness and gentleness",
+        "Using meditation to quiet a troubled mind",
+        "Confronting nightmares and fears",
+        "Drawing a conclusion and putting an issue out of your mind"
+      ],
+      "shadow": [
+        "Torturing yourself with regrets",
+        "Second-guessing your every move",
+        "Beating yourself up for your mistakes",
+        "Depression",
+        "Obsessing on errors and overlooked details",
+        "Refusing to handle stress in healthy ways",
+        "Ruining your ability to appreciate the present by dwelling on the past",
+        "Debating irreversible decisions"
+      ]
+    },
+    "name": "nine of swords",
+    "rank": 9,
+    "suit": "swords"
   },
-
   {
-    "name": "Six of Cups",
-    "url": "six_of_cups",
-    "image": "images/cu06.jpeg",
-    "desc": "Continuity. A long-term relationship. Repetition between different generations in the family. A stable personal alliance.",
-    "rdesc": "Monotony, tedious repetition. Falling time and again into the same emotional traps.",
-    "sequence": 60,
-    "qabalah": "☉ in ♏︎ (Sun in Scorpio)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Disaster",
+      "Put off plans and do not take action until omens are better"
+    ],
+    "keywords": ["exhaustion", "ruin", "disaster", "stamina", "obsession"],
+    "meanings": {
+      "light": [
+        "Seeing the signs that you've reached your limits",
+        "Paying attention to what your body is trying to tell you",
+        "Giving in to the need for rest and renewal",
+        "Acknowledging that you've hit bottom",
+        "Committing to a turnaround",
+        "Knowing the worst is over"
+      ],
+      "shadow": [
+        "Accepting defeat prematurely",
+        "Driving yourself to total exhaustion, especially mentally",
+        "Experiencing a mental breakdown",
+        "Obsessing on a problem to the breaking point",
+        "Giving up",
+        "Refusing to move from thought to action",
+        "Deeply unhealthy thoughts"
+      ]
+    },
+    "name": "ten of swords",
+    "rank": 10,
+    "suit": "swords"
   },
-
   {
-    "name": "Seven of Cups",
-    "url": "seven_of_cups",
-    "image": "images/cu07.jpeg",
-    "desc": "Individuality. A single person finding his place in a group. Contact with people in high positions. Exceptional qualities are appreciated.",
-    "rdesc": "Problems of integration in a group or an organization. Being part of a collective, but feeling isolated and estranged.",
-    "sequence": 61,
-    "qabalah": "♀ in ♏︎ (Venus in Scorpio)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a young man or woman with an airy, intellectual demeanor, likely born a Capricorn, Aquarius, or Pisces, who wants to learn something new from you or have a discussion with you"
+    ],
+    "keywords": ["student", "apprentice", "scholarship", "information"],
+    "meanings": {
+      "light": [
+        "Pursuing a course of study",
+        "Asking good questions",
+        "Investing time in study and practice",
+        "Doing research",
+        "Making a habit of learning new things",
+        "Starting an investigation",
+        "Outlining what you need to know",
+        "Finding a mentor or teacher"
+      ],
+      "shadow": [
+        "Pretending to knowledge or sophistication you do not possess",
+        "Cheating on an exam",
+        "Feigning interest as a way of gaining favor",
+        "Considering only the evidence that supports conclusions you've already drawn",
+        "Rejecting the wise counsel of experienced teachers"
+      ]
+    },
+    "name": "page of swords",
+    "rank": "page",
+    "suit": "swords"
   },
-
   {
-    "name": "Eight of Cups",
-    "url": "eight_of_cups",
-    "image": "images/cu08.jpeg",
-    "desc": "Involvement. Developing personal relationships within a group. A favorable human-relations environment. A feast or a family event.",
-    "rdesc": "Interference of the environment in a couple’s relationships. Pressures from one’s family in romantic or personal matters.",
-    "sequence": 62,
-    "qabalah": "♄ in ♓︎ (Saturn in Pisces)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "A blunder leads someone to say something he or she regrets",
+      "If this was you, be prepared to apologize and move on"
+    ],
+    "keywords": ["bluntness", "intelligence", "incisiveness", "investigation"],
+    "meanings": {
+      "light": [
+        "Speaking your mind",
+        "Making your opinions known",
+        "Offering constructive criticism",
+        "Sharing your knowledge",
+        "Making insightful observations",
+        "Pinpointing the problem",
+        "Clarifying what others have said",
+        "Giving clear direction to others",
+        "Uncovering the truth"
+      ],
+      "shadow": [
+        "Stating your opinions as fact",
+        "Picking fights",
+        "Starting arguments",
+        "Using clever insults to undermine the confidence of others",
+        "Tossing reason out the window",
+        "Speaking without taking the feelings of others into account",
+        "Going on a witch hunt",
+        "Distorting evidence"
+      ]
+    },
+    "name": "knight of swords",
+    "rank": "knight",
+    "suit": "swords"
   },
-
   {
-    "name": "Nine of Cups",
-    "url": "nine_of_cups",
-    "image": "images/cu09.jpeg",
-    "desc": "Collectivity. A group or organization working harmoniously with everyone finding his proper place. Accepting one’s role in a social environment. Happiness, wishes coming true.",
-    "rdesc": "A confusing social situation, difficulty in situating oneself within a complex environment.",
-    "sequence": 63,
-    "qabalah": "♃ in ♓︎ (Jupiter in Pisces)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a woman with an artistic, intellectual nature, likely born between September 12th and October 12th, who uses clever, positive communication to sway others to her point of view"
+    ],
+    "keywords": ["grace", "skill", "wit", "charm", "aptitude"],
+    "meanings": {
+      "light": [
+        "Exercising tact or using diplomacy",
+        "Defusing a tense situation",
+        "Knowing what to say and how to say it",
+        "Making others feel comfortable and confident",
+        "Bringing out the best in everyone",
+        "Having a way with words",
+        "Telling jokes",
+        "Possessing a knack for music, math, art, or science"
+      ],
+      "shadow": [
+        "Knowing exactly what to say to destroy another person",
+        "Withholding critical information",
+        "Using a barbed tongue to upset others",
+        "Employing sarcasm",
+        "Mimicking others unkindly",
+        "Making light of the less fortunate",
+        "Being disrespectful",
+        "Failing to use the talent you've been given"
+      ]
+    },
+    "name": "queen of swords",
+    "rank": "queen",
+    "suit": "swords"
   },
-
   {
-    "name": "Ten of Cups",
-    "url": "ten_of_cups",
-    "image": "images/cu10.jpeg",
-    "desc": "Leadership. A person with special qualities receives appreciation and high status. Assuming responsibility for others. Maintaining a superior position.",
-    "rdesc": "A fallen leader, loss of popularity. Disappointment because of ingratitude by people one has helped.",
-    "sequence": 64,
-    "qabalah": "♂ in ♓︎ (Mars in Pisces)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents an older man with an insightful, deliberate spirit, likely born between May 11th and June 10th, who is known for his integrity and sharp decision-making ability"
+    ],
+    "keywords": ["genius", "expertise", "decision", "verdict"],
+    "meanings": {
+      "light": [
+        "Expressing yourself with firmness and authority",
+        "Rendering a final decision",
+        "Consulting an expert",
+        "Calling in advisors and consultants",
+        "Coming to a final conclusion",
+        "Reaching a beneficial agreement based on sound information"
+      ],
+      "shadow": [
+        "Insisting on having the last word",
+        "Flaunting your intellectual capability",
+        "Talking \"over the heads\" of others",
+        "Waffling on an important decision",
+        "Constantly changing your mind",
+        "Refusing to make choices that are in your own best interest",
+        "Wishing in vain you could take back what's been said"
+      ]
+    },
+    "name": "king of swords",
+    "rank": "king",
+    "suit": "swords"
   },
-
   {
-    "name": "King of Clubs",
-    "url": "king_of_clubs",
-    "image": "images/waki.jpeg",
-    "desc": "A mature attitude to urges and desires. Controlled creativity. Prodding oneself to make a move forward. Investing present assets in future projects.",
-    "rdesc": "Plans to move forward are frustrated by self-defeating acts. Hesitation, conflicts, tendency to make things too heavy and complex.",
-    "sequence": 65,
-    "qabalah": "&#1497; of &#x1f702; (Yod of Fire)",
-    "card_type": "court"
+    "fortune_telling": [
+      "Your health will improve",
+      "The check you're looking for really is in the mail"
+    ],
+    "keywords": ["health", "wealth", "practicality", "receiving"],
+    "meanings": {
+      "light": [
+        "Outlining a plan for achieving prosperity",
+        "Becoming aware of opportunities to improve income or health",
+        "Realizing you have everything you need",
+        "Appreciating everything the Universe has given you",
+        "Receiving the perfect gift at the perfect time"
+      ],
+      "shadow": [
+        "Indulging in relentless consumerism",
+        "Wanting more, no matter how much you have",
+        "Obsessing on your account balance",
+        "Suffering from hypochondria",
+        "Consuming blessings without expressing gratitude",
+        "Taking what you want without concern for the needs of others"
+      ]
+    },
+    "name": "ace of coins",
+    "rank": 1,
+    "suit": "coins"
   },
-
   {
-    "name": "Queen of Clubs",
-    "url": "queen_of_clubs",
-    "image": "images/waqu.jpeg",
-    "desc": "A feminine figure with a strong personality. Things connected with food and eating. Speaking softly while holding a big stick. A secure, well-defended position.",
-    "rdesc": "Intimidation, menace. Using sexuality as a means of control. Problems with a strong mother figure. Fear of feminine power.",
-    "sequence": 66,
-    "qabalah": "&#1492; of &#x1f702; (Heh of Fire)",
-    "card_type": "court"
+    "fortune_telling": [
+      "It's time to balance the budget",
+      "Avoid the temptation to spend critical funds on frivolous goods"
+    ],
+    "keywords": ["evaluation", "decision", "budgeting", "diagnosis"],
+    "meanings": {
+      "light": [
+        "Weighing options",
+        "Comparing prices",
+        "Determining the value of one option over another",
+        "Juggling resources to make ends meet",
+        "Making difficult choices based on what's best for your body or your bankbook",
+        "Looking at the bottom line",
+        "Asking for a second opinion on health issues"
+      ],
+      "shadow": [
+        "Engaging in endless price comparison",
+        "Putting off a buying decision for fear of finding a slightly better value later on",
+        "Buying something without regard for value",
+        "Breaking your budget with unnecessary expenses",
+        "Engaging in behavior with no regard for how your body or bankbook will be impacted"
+      ]
+    },
+    "name": "two of coins",
+    "rank": 2,
+    "suit": "coins"
   },
-
   {
-    "name": "Knight of Clubs",
-    "url": "knight_of_clubs",
-    "image": "images/wakn.jpeg",
-    "desc": "A change of direction, following one’s urges and passions. A temporary stop, but there is still energy and a desire to advance.",
-    "rdesc": "Preoccupation with the satisfaction of one’s own desires. Problem in defining long-term goals. Submitting to temptation.",
-    "sequence": 67,
-    "qabalah": "&#1493; of &#x1f702; (Vav of Fire)",
-    "card_type": "court"
+    "fortune_telling": [
+      "A high-dollar contract is in your future",
+      "If you work hard, you'll succeed"
+    ],
+    "keywords": ["expression", "production", "work", "contribution"],
+    "meanings": {
+      "light": [
+        "Finishing a project",
+        "Setting and meeting standards",
+        "Performing according to specifications",
+        "Making something others value",
+        "Creating something new",
+        "Doing your part in a group project",
+        "Delivering exactly what others have asked for"
+      ],
+      "shadow": [
+        "Pandering to the tastes of others",
+        "Failing to deliver what you've promised",
+        "Not delivering your best work unless closely supervised",
+        "Ignoring or breaking agreements with those who have invested in you",
+        "Refusing to do your part",
+        "Failing to abide by a clearly-outlined agreement with yourself or others"
+      ]
+    },
+    "name": "three of coins",
+    "rank": 3,
+    "suit": "coins"
   },
-
   {
-    "name": "Page of Clubs",
-    "url": "page_of_clubs",
-    "image": "images/wapa.jpeg",
-    "desc": "A creative potential which still needs processing. Keeping a safe distance from events and waiting for the right moment.",
-    "rdesc": "A task too heavy for the querent’s strength. Difficulty in controlling desires and urges. Immature approach to sexuality.",
-    "sequence": 68,
-    "qabalah": "&#1492; of &#x1f702; (Heh (final) of Fire)",
-    "card_type": "court"
+    "fortune_telling": ["A rainy day is coming\u2014it's time to save"],
+    "keywords": ["protection", "conservation", "preservation", "safety"],
+    "meanings": {
+      "light": [
+        "Saving for a rainy day",
+        "Fasting as part of a spiritual practice",
+        "Dieting in an effort to improve your body",
+        "Abstaining from sex as a way of honoring a spiritual tradition or personal promise",
+        "Being financially conservative",
+        "Establishing a trust fund",
+        "Opening a savings account"
+      ],
+      "shadow": [
+        "Being stingy",
+        "Refusing to spend money that needs to be spent",
+        "Withholding sex from your partner",
+        "Taking care of your own needs exclusively, without regard for the needs of others",
+        "Spending a dollar to save a penny",
+        "Failing to be a good manager of the blessings you've been given"
+      ]
+    },
+    "name": "four of coins",
+    "rank": 4,
+    "suit": "coins"
   },
-
   {
-    "name": "Ace of Clubs",
-    "url": "ace_of_clubs",
-    "image": "images/wa01.jpeg",
-    "desc": "Creative momentum. Active sexuality. Strong impulses, energy and drive. Life force. Beginning of growth. Dispersing one’s efforts in different directions.",
-    "rdesc": "Lack of energy, restriction, repressed sexuality, a creative block.",
-    "sequence": 69,
-    "qabalah": "&#x1f702; (Fire) of Kether",
-    "card_type": "ace"
+    "fortune_telling": [
+      "Finances are getting tighter",
+      "Prepare for a setback"
+    ],
+    "keywords": ["poverty", "destitution", "need", "crisis"],
+    "meanings": {
+      "light": [
+        "Recognizing your needs and taking action to fulfill them",
+        "Doing as much as you can do with what little you have",
+        "Admitting you need help",
+        "Embracing the aid that comes your way",
+        "Focusing on what you have versus what you don't",
+        "Looking for the light at the end of the tunnel"
+      ],
+      "shadow": [
+        "Exaggerating your financial or physical needs",
+        "Adopting a poverty mentality",
+        "Refusing to support yourself",
+        "Refusing offers of support",
+        "Playing the martyr",
+        "Turning down opportunities to improve your health or finances",
+        "Wallowing in misery"
+      ]
+    },
+    "name": "five of coins",
+    "rank": 5,
+    "suit": "coins"
   },
-
   {
-    "name": "Two of Clubs",
-    "url": "two_of_clubs",
-    "image": "images/wa02.jpeg",
-    "desc": "Crossroads. Several options or ways to choose from. Every course offers benefits. A brief encounter with someone going his own way. Blocking an opponent’s line of advance.",
-    "rdesc": "(similar to upright) Crossroads. Several options or ways to choose from. Every course offers benefits. A brief encounter with someone going his own way. Blocking an opponent’s line of advance.",
-    "sequence": 70,
-    "qabalah": "♂  in ♈︎ (Mars in Aries)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "When you need help, ask for it",
+      "Remember, though: what you receive may be limited by what you've given to others in the past"
+    ],
+    "keywords": ["charity", "fairness", "cooperation", "sharing"],
+    "meanings": {
+      "light": [
+        "Giving time, money, or effort to a charity",
+        "Taking part in a group effort",
+        "Lending your resources to others without expecting anything in return",
+        "Making sure everyone is treated equally",
+        "Working together toward a common goal",
+        "Redistributing wealth, time, or attention",
+        "Tithing",
+        "Sharing credit for your success"
+      ],
+      "shadow": [
+        "Making a loan as a means of gaining control over someone",
+        "Using charitable acts to draw attention to yourself",
+        "Dividing work or resources unfairly",
+        "Failing to do your part in a group effort",
+        "Ignoring obligations and commitments"
+      ]
+    },
+    "name": "six of coins",
+    "rank": 6,
+    "suit": "coins"
   },
-
   {
-    "name": "Three of Clubs",
-    "url": "three_of_clubs",
-    "image": "images/wa03.jpeg",
-    "desc": "Direction. Moving forward after a moment of hesitation. Finding a middle path between two courses of action. Gaining an advantage by keeping neutrality between two conflicting sides.",
-    "rdesc": "(similar to upright) Direction. Moving forward after a moment of hesitation. Finding a middle path between two courses of action. Gaining an advantage by keeping neutrality between two conflicting sides.",
-    "sequence": 71,
-    "qabalah": "☉ in ♈︎ (Sun in Aries)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Things won't work out as expected",
+      "Pick up the pieces and prepare to move on"
+    ],
+    "keywords": ["assessment", "evaluation", "re-evaluation", "reflection"],
+    "meanings": {
+      "light": [
+        "Measuring progress toward your goal",
+        "Looking at results with an eye toward improving performance",
+        "Asking, \"How happy am I?\"",
+        "Coming up with ideas for improving your health or prosperity",
+        "Deciding it's time for a change",
+        "Expressing an honest opinion"
+      ],
+      "shadow": [
+        "Becoming distracted by melancholy thoughts",
+        "Longing for \"the good old days\"",
+        "Beating yourself up over lost opportunities",
+        "Judging your own work harshly",
+        "Holding others to inappropriate standards",
+        "Refusing to take part in a project, then whining about the quality of the outcome"
+      ]
+    },
+    "name": "seven of coins",
+    "rank": 7,
+    "suit": "coins"
   },
-
   {
-    "name": "Four of Clubs",
-    "url": "four_of_clubs",
-    "image": "images/wa04.jpeg",
-    "desc": "Stalemate. A temporary stop in order to prepare for future advancement. Tensions at present, but good prospects in the long run. Making a move now is in nobody’s interest.",
-    "rdesc": "(similar to upright) Stalemate. A temporary stop in order to prepare for future advancement. Tensions at present, but good prospects in the long run. Making a move now is in nobody’s interest.",
-    "sequence": 72,
-    "qabalah": "♀ in ♈︎ (Venus in Aries)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Stop over-analyzing, researching, and outlining",
+      "Buckle down and get the work done"
+    ],
+    "keywords": ["effort", "work diligence", "skill"],
+    "meanings": {
+      "light": [
+        "Doing your best",
+        "Bringing enthusiasm and zeal to your work",
+        "Making an effort to be the best you can be",
+        "Finding the work that is right for you",
+        "Taking care of the small details",
+        "Becoming a finely skilled craftsperson",
+        "Building something with your hands",
+        "Making a handmade gift"
+      ],
+      "shadow": [
+        "Working yourself to death",
+        "Doing a half-hearted or sloppy job",
+        "Continuing in a job you hate",
+        "Buying thoughtless gifts",
+        "Producing work with shoddy craftsmanship",
+        "Rushing through your work",
+        "Rejecting opportunities to learn more about your craft"
+      ]
+    },
+    "name": "eight of coins",
+    "rank": 8,
+    "suit": "coins"
   },
-
   {
-    "name": "Five of Clubs",
-    "url": "five_of_clubs",
-    "image": "images/wa05.jpeg",
-    "desc": "Overcoming. Getting over a weak opposition. Breakdown of an equilibrium. Focusing on the main objective. An initiative to make a winning move.",
-    "rdesc": "(top right leaf becomes bottom left) Walking into a complex situation, losing one’s edge.",
-    "sequence": 73,
-    "qabalah": "♄ in ♌︎ (Saturn in Leo)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Until you appreciate what you have, you won't have any luck getting more"
+    ],
+    "keywords": ["training", "discipline", "confidence", "enough"],
+    "meanings": {
+      "light": [
+        "Investing time in learning or teaching a difficult task",
+        "Restraining yourself from physical or financial extremes",
+        "Making sacrifices as a way of achieving larger goals",
+        "Breaking a complex task down into simple steps",
+        "Wanting what you have",
+        "Knowing the difference between needs and wants"
+      ],
+      "shadow": [
+        "Being assigned to a task without being trained to perform it",
+        "Pursuing a position for which you are not qualified",
+        "Disregarding requirements",
+        "Refusing to dedicate adequate time or attention when learning about something or someone new",
+        "Always craving more"
+      ]
+    },
+    "name": "nine of coins",
+    "rank": 9,
+    "suit": "coins"
   },
-
   {
-    "name": "Six of Clubs",
-    "url": "six_of_clubs",
-    "image": "images/wa06.jpeg",
-    "desc": "Collaboration. A strong alliance between two parties with different goals but common present interests. A taste for luxury made possible by favorable conditions.",
-    "rdesc": "(with the decorated flower at the bottom) Excessive pursuit of luxury. Need to break up an alliance of opponents.",
-    "sequence": 74,
-    "qabalah": "♃ in ♌︎ (Jupiter in Leo)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "Big money is in the near future",
+      "Expect a powerful blessing to come your way"
+    ],
+    "keywords": ["wealth", "abundance", "acquisition", "greed"],
+    "meanings": {
+      "light": [
+        "Celebrating your physical and financial blessings",
+        "Realizing how lucky or how blessed you are",
+        "Being satisfied with your physical and financial achievements",
+        "Taking best advantage of \"times of plenty\"",
+        "Enjoying a feast",
+        "Showering friends or family with gifts"
+      ],
+      "shadow": [
+        "Spending all of your money on extravagant gifts and possessions",
+        "Trying too hard to impress others with your wealth or physique",
+        "Giving an inappropriately expensive gift as a means of currying favor",
+        "Obsessing on matters of weight, health, or finance",
+        "Always asking, \"What's in it for me?\""
+      ]
+    },
+    "name": "ten of coins",
+    "rank": 10,
+    "suit": "coins"
   },
-
   {
-    "name": "Seven of Clubs",
-    "url": "seven_of_clubs",
-    "image": "images/wa07.jpeg",
-    "desc": "Struggle. Someone putting up a fight against many opponents. Obstinacy, endurance, keeping one’s position in a conflict situation. A difficult combat with an uncertain outcome.",
-    "rdesc": "(similar to upright) Struggle. Someone putting up a fight against many opponents. Obstinacy, endurance, keeping one’s position in a conflict situation. A difficult combat with an uncertain outcome.",
-    "sequence": 75,
-    "qabalah": "♂ in ♌︎ (Mars in Leo)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a young man or woman with an earthy, practical demeanor, likely born an Aries, Taurus, or Gemini, who playfully encourages you to take financial or sexual risks"
+    ],
+    "keywords": [
+      "practicality",
+      "prosperity",
+      "learning",
+      "growth",
+      "adolescence"
+    ],
+    "meanings": {
+      "light": [
+        "Learning the value of a dollar",
+        "Starting a savings plan",
+        "Taking the first steps toward getting out of debt",
+        "Learning new physical tasks",
+        "Discovering your sexuality",
+        "Launching a diet, a weight-lifting program, or a health-related effort",
+        "Learning by doing"
+      ],
+      "shadow": [
+        "Trying to appear healthier or wealthier than you really are",
+        "Spending money carelessly",
+        "Living strictly for today, with no thought of tomorrow",
+        "Possessing immature attitudes toward sex and sexuality",
+        "Using wealth or beauty as an excuse for not having to learn and grow"
+      ]
+    },
+    "name": "page of coins",
+    "rank": "page",
+    "suit": "coins"
   },
-
   {
-    "name": "Eight of Clubs",
-    "url": "eight_of_clubs",
-    "image": "images/wa08.jpeg",
-    "desc": "Regulation. It is possible to advance only by following the rules. Occupation with short-term goals while losing the long-term perspective. A roadblock.",
-    "rdesc": "(similar to upright) Regulation. It is possible to advance only by following the rules. Occupation with short-term goals while losing the long-term perspective. A roadblock.",
-    "sequence": 76,
-    "qabalah": "☿ in ♐︎ (Mercury in Sagittarius)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "A stingy person may chide you for spending money",
+      "Be prepared to defend an economic or sexual decision"
+    ],
+    "keywords": ["caution", "focus", "realism", "invention"],
+    "meanings": {
+      "light": [
+        "Spending money wisely",
+        "Saving for a rainy day",
+        "Paying close attention to physical or financial details",
+        "Knowing where every dollar goes",
+        "Having safe sex",
+        "Preferring facts to \"good feelings\"",
+        "Finding creative ways to \"make do\" with resources on hand",
+        "Completing a new invention"
+      ],
+      "shadow": [
+        "Throwing caution to the four winds",
+        "Spending without regard for consequence",
+        "Spending on luxury when necessities are lacking",
+        "Escaping stress by spending money",
+        "Obsessing on tiny physical or financial details",
+        "Perpetually chasing after some new bauble",
+        "Copying another's work and claiming it as your own"
+      ]
+    },
+    "name": "knight of coins",
+    "rank": "knight",
+    "suit": "coins"
   },
-
   {
-    "name": "Nine of Clubs",
-    "url": "nine_of_clubs",
-    "image": "images/wa09.jpeg",
-    "desc": "Interruption. Difficulties and oppositions too hard to overcome. Giving up one’s projects to avoid conflict. Starting anew after a challenging period.",
-    "rdesc": "(similar to upright) Interruption. Difficulties and oppositions too hard to overcome. Giving up one’s projects to avoid conflict. Starting anew after a challenging period.",
-    "sequence": 77,
-    "qabalah": "☾ in ♐︎ (Moon in Sagittarius)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents a woman with an expansive, sensual nature, likely born between December 13th and 31st, who uses sensual appeal and the promise of reward to sway others to her point of view"
+    ],
+    "keywords": [
+      "luxury",
+      "comfort",
+      "resourcefulness",
+      "generosity",
+      "prosperity"
+    ],
+    "meanings": {
+      "light": [
+        "Appreciating fine food, fine wine, beautiful art, beautiful bodies, or any of the better things in life",
+        "Reveling in healthy sexuality",
+        "Treating yourself",
+        "Splurging on the occasional \"nice to have\" item",
+        "Rewarding someone with compensation above and beyond expectations",
+        "Having it all"
+      ],
+      "shadow": [
+        "Indulging in gluttony or greediness",
+        "Becoming insatiable",
+        "Blunting the impact of treats by indulging in them too often",
+        "Providing physical comfort without providing for emotional needs",
+        "Allowing a feeling of entitlement to distort your gratitude for what you're given"
+      ]
+    },
+    "name": "queen of coins",
+    "rank": "queen",
+    "suit": "coins"
   },
-
   {
-    "name": "Ten of Clubs",
-    "url": "ten_of_clubs",
-    "image": "images/wa10.jpeg",
-    "desc": "Loyalty. A partnership or an alliance endures hardships and succeeds in getting over them. Pure intentions and perseverance lead to success. Honoring one’s principles in spite of difficulties.",
-    "rdesc": "(similar to upright) Loyalty. A partnership or an alliance endures hardships and succeeds in getting over them. Pure intentions and perseverance lead to success. Honoring one’s principles in spite of difficulties.",
-    "sequence": 78,
-    "qabalah": "♄ in ♐︎ (Saturn in Sagittarius)",
-    "card_type": "minor"
+    "fortune_telling": [
+      "This card represents an older man with a financially, socially, and politically conservative spirit, likely born between August 12th and September 11th, who is known for putting his money where his mouth is"
+    ],
+    "keywords": ["stability", "dependability", "confidence", "intervention"],
+    "meanings": {
+      "light": [
+        "Becoming debt-free",
+        "Having more than enough to get by",
+        "Making contributions to a savings plan",
+        "Taking a new job with an eye toward advancing your career",
+        "Buying life or health insurance",
+        "Being confident in the bedroom",
+        "Taking on the role of enforcer when called upon to do so"
+      ],
+      "shadow": [
+        "Becoming so conservative you resist all change on principle alone",
+        "Ignoring innovations in the name of preserving tradition",
+        "Being smug or cocky",
+        "Becoming ruthlessly dedicated to profit or pleasure",
+        "Being sexually selfish",
+        "Bossing others around, especially when you're not empowered to do so"
+      ]
+    },
+    "name": "king of coins",
+    "rank": "king",
+    "suit": "coins"
   }
 ]

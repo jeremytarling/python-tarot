@@ -1,0 +1,41 @@
+<div class="card {{ "reversed" if is_reversed }}">
+  <img src="/static/{{ card.image }}" />
+
+  <h2>{{ card.name }}{{ " (reversed)" if is_reversed }}</h2>
+
+  <div class="interpretations upr">
+    <h4>interpretations</h4>
+    <ul>
+      {% for interpretation in card.meanings.light %}
+      <li>{{ interpretation }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="interpretations rev">
+    <h4>reversed interpretations</h4>
+    <ul>
+      {% for interpretation in card.meanings.shadow %}
+      <li>{{ interpretation }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <p>
+  {% if previous_card or next_card %}
+    {% if previous_card %}
+      <a href="{{ previous_card.index }}">previous card</a>
+      {% if next_card %}
+        &nbsp;||&nbsp;
+      {% endif %}
+    {% endif %}
+    {% if next_card %}
+      <a href="{{ next_card.index }}">next card</a>
+    {% endif %}
+  {% else %}
+    <a href="/card/{{ card.index }}">more about this card</a>
+  {% endif %}
+  </p>
+
+  
+</div>
