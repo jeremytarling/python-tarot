@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block content %}
+
+<!-- WIP additional bits for the show/hide, needs to live in scripts/CSS -->
+<script>
+	const showImage = () => {
+		document.getElementById("reveal").classList.toggle('hidden');
+	}
+</script>
+<style>
+	.hidden {
+		display: none;
+	}
+</style>
+
+<div class="row">
+
+	{% if rev: %}
+
+		<div class="col-md-12">
+
+		    <h3>which card has this interpretation?</h3>
+
+			<p>{{ reversed_meaning }}</p>
+
+			<button onClick="showImage()">show card</button>
+
+			<div id="reveal" class="hidden">
+
+	    		<h3>{{ name }} reversed</h3>
+
+	    		<img src="/static/{{ image }}" style="transform: rotate(180deg)" />
+
+	    		<p style="padding-top:10px"><a href="/one-card/{{ url }}">more about this card</a></p>
+
+	    		<button onClick="window.location.reload();" style="margin-top: 5px">play again</button>
+
+			</div>
+
+		</div>
+
+	{% else %}
+
+		<div class="col-md-12">
+
+		    <h3>which card has this interpretation?</h3>
+
+			<p>{{ meaning }}</p>
+
+			<button onClick="showImage()">show card</button>
+
+			<div id="reveal" class="hidden">
+
+	    		<h3>{{ name }}</h3>
+
+	    		<img src="/static/{{ image }}" />
+
+	    		<p style="padding-top:10px"><a href="/one-card/{{ url }}">more about this card</a></p>
+
+	    		<button onClick="window.location.reload();" style="margin-top: 5px">play again</button>
+
+			</div>
+
+		</div>
+
+	{% endif %}
+
+</div>
+
+{% endblock %}
