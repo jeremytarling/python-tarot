@@ -29,11 +29,11 @@
 
 	    		<h3>{{ name }} reversed</h3>
 
-	    		<img src="/static/{{ image }}" style="transform: rotate(180deg)" />
+	    		<a href="/one-card/{{ url }}"><img src="/static/{{ image }}" style="transform: rotate(180deg)" /></a>
 
-	    		<p style="padding-top:10px"><a href="/one-card/{{ url }}">more about this card</a></p>
+	    		<br />
 
-	    		<button onClick="window.location.reload();" style="margin-top: 5px">play again</button>
+	    		</a><button onClick="window.location.reload();" style="margin-top: 10px">play again</button>
 
 			</div>
 
@@ -53,11 +53,11 @@
 
 	    		<h3>{{ name }}</h3>
 
-	    		<img src="/static/{{ image }}" />
+	    		<a href="/one-card/{{ url }}"><img src="/static/{{ image }}" /></a>
 
-	    		<p style="padding-top:10px"><a href="/one-card/{{ url }}">more about this card</a></p>
+	    		<br />
 
-	    		<button onClick="window.location.reload();" style="margin-top: 5px">play again</button>
+	    		<button onClick="window.location.reload();" style="margin-top: 10px">play again</button>
 
 			</div>
 
