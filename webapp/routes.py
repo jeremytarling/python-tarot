@@ -107,4 +107,16 @@ def specific_card(card_url):
 							    sequence = my_card['sequence'],
 							    cardtype = my_card['cardtype'])
 
-
+# quiz
+@app.route('/quiz', strict_slashes=False)
+def quiz():
+	my_deck = cards.get_deck()
+	my_card = cards.get_card(my_deck)
+	return render_template("quiz.html",
+								name = my_card[0]['name'],
+								title = my_card[0]['name'],
+								rev = my_card[1],
+								meaning = my_card[0]['desc'],
+								reversed_meaning = my_card[0]['rdesc'],
+								image = my_card[0]['image'],
+								url = my_card[0]['url'])
