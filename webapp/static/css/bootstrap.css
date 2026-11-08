@@ -4,8 +4,11 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+@import url('https://fonts.cdnfonts.com/css/gill-sans');
+
 html {
-  font-family: sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", sans-serif !important ;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
